@@ -12,3 +12,6 @@ date: 2024-10-16
 
 [useR! Machine Learning Tutorial](https://koalaverse.github.io/machine-learning-in-R/)
 
+[前言 | 数据科学中的 R 语言](https://bookdown.org/wangminjie/R4DS/) | ⭐⭐⭐⭐
+
+> [R for Data Science (2e)](https://r4ds.hadley.nz/)
