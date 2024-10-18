@@ -2,6 +2,8 @@
 date: 2024-10-17
 ---
 
+## QGIS
+
 ### Plugin
 
 [WhiteboxTools for Processing — Alexander Bruy](https://bruy.me/plugins/whitebox-tools-for-processing/) | [Geospatial Software: WhiteboxTools Open Core - Whitebox Geospatial Inc](https://www.whiteboxgeo.com/geospatial-software/)
