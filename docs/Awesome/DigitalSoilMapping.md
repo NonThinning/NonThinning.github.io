@@ -66,6 +66,8 @@ date: 2024-10-16
 
 [Digital mapping of soil carbon fractions with machine learning - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S001670611732030X)
 
+[Soil carbon storage informed by particulate and mineral-associated organic matter | Nature Geoscience](https://www.nature.com/articles/s41561-019-0484-6) | 土壤理化的拉丁超立方体采样+碳组分的专家知识采样
+
 #### Phenology
 
 [A CNN-LSTM Model for Soil Organic Carbon Content Prediction with Long Time Series of MODIS-Based Phenological Variables](https://www.mdpi.com/2072-4292/14/18/4441) | 多种采样方法结合

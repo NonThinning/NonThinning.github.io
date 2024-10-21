@@ -18,4 +18,4 @@ date: 2024-10-17
 
 ### Blog
 
-[]()
+[QGIS及Open Geodata資源網@Sinica](https://gis.rchss.sinica.edu.tw/qgis/)
