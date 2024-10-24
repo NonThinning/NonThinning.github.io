@@ -26,7 +26,7 @@ date: 2024-10-21
 >
 > 30mg干土 →  50μL银箔胶囊，50μL水润湿 → 100mL 12M 浓盐酸 → 放入真空干燥器6-8h → 60°C干燥4h
 >
-> 补充参考：[Carbonate removal by acid fumigation for measuring the δ13C of soil organic carbon](https://cdnsciencepub.com/doi/full/10.4141/cjss10066)
+> 酸化补充参考：[Carbonate removal by acid fumigation for measuring the δ13C of soil organic carbon](https://cdnsciencepub.com/doi/full/10.4141/cjss10066)
 >
 > 300mg 球磨干土 → 20mL玻璃瓶，150μL去离子水润湿 → 100mL 12M 浓盐酸 → 真空干燥器80kPa → 完全去除30-56h（0-50cm） → 取出烧杯后抽真空1-1.5h排除HCl蒸汽 → 60°C干燥16h
 
