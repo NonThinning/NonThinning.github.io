@@ -7,6 +7,8 @@ date: 2024-10-18
 > [Library Genesis (Libgen) 可用网站 - 最优网址](https://www.ooopn.com/tool/libgen/)
 >
 > [安娜的档案](https://zh.annas-archive.org/)
+>
+> [Z-library Project - Official Library Z. Download eBooks free](https://z-lib.gs/)
 
 ------
 

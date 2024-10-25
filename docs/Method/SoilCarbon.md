@@ -37,3 +37,7 @@ date: 2024-10-21
 [土壤中碳相关分析方法--中国科学院东北地理与农业生态研究所分析测试部](https://neigae.cas.cn/fxcs/fwzn/202405/t20240516_7163436.html)
 
 20g 2mm筛分干土 → 100ml 0.5% (5g/L) 六偏磷酸钠 → 90r/min 震荡18h → 53μm筛子冲洗 → 保留MAOM和POM → 60°C干燥10h+（过夜） → 测定OC
+
+------
+
+[Unlocking complex soil systems as carbon sinks: multi-pool management as the key | Nature Communications](https://www.nature.com/articles/s41467-023-38700-5)
