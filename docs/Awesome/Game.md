@@ -21,4 +21,24 @@ date: 2024-10-24
 > > [Vol.111.撼动星空的诗魔法——星空的波涛协奏曲 - Ar Live 动漫电台 - 电台节目 - 网易云音乐](https://music.163.com/#/program?id=905193797&djId=79486362)
 > > 
 > > [S.P.2.来自Ar世界的魔塔大陆-Ar tonelico - Ar Live 动漫电台 - 电台节目 - 网易云音乐](https://music.163.com/#/program?id=11778070&djId=79486362)
-> 
+
+> [よるのないくに2 攻略Wiki (wikisp.com)](http://wikisp.com/yorukuni2/)
+
+
+## Com
+
+[GalaxyTrail, LLC - Developer of Freedom Planet](https://galaxytrail.com/home)
+
+## Info
+
+[ESRB Ratings | Entertainment Software Ratings Board](https://www.esrb.org/) | 游戏分级
+
+## Wiki
+
+[The Visual Novel Database | vndb](https://vndb.org/)
+
+[D&D Wiki (dandwiki.com)](https://www.dandwiki.com/wiki/Main_Page)
+
+[DnD Wiki | Dungeons and Dragons (D&D 5E) Wiki](https://www.dndwiki.io/)
+
+[DDO wiki](https://ddowiki.com/)

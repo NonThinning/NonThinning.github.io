@@ -15,3 +15,9 @@ date: 2024-10-16
 [前言 | 数据科学中的 R 语言](https://bookdown.org/wangminjie/R4DS/) | ⭐⭐⭐⭐
 
 > [R for Data Science (2e)](https://r4ds.hadley.nz/)
+
+### Community
+
+[统计之都](https://cosx.org/)
+
+[Julia 中文社区](https://cn.julialang.org/)
