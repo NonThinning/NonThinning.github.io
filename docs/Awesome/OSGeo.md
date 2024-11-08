@@ -2,6 +2,8 @@
 date: 2024-10-17
 ---
 
+[Free and Open Source for Geospatial Conference](https://foss4g.org/)
+
 ## QGIS
 
 ### Plugin

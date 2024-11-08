@@ -40,6 +40,12 @@ date: 2024-10-25
 
 [瓦特工具箱(Steam++官网) - Watt Toolkit](https://steampp.net/) | Steam辅助
 
+[Greenplum：开源、多云、并行大数据平台 - Greenplum 中文社区](https://cn.greenplum.org/)
+
+[Ditto clipboard manager](https://ditto-cp.sourceforge.io/)
+
+[CopyQ](https://hluk.github.io/CopyQ/)
+
 ### Android
 
 [NekoBox & NekoRay](https://getnekobox.com/) | [GitHub - MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | [MatsuriDayo](https://matsuridayo.github.io/) | [GitHub - MatsuriDayo/Matsuri： Matsuri](https://github.com/MatsuriDayo/Matsuri) | [GitHub - SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)

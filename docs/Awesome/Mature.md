@@ -21,3 +21,7 @@ date: 2024-10-25
 [Варез от m0nkrus'a [Warez by m0nkrus]](https://w14.monkrus.ws/)
 
 [05的资源小站发布页](https://05fx.pages.dev/)
+
+[Game-2u.com - Download last GAMES FOR PC ISO, XBOX 360, XBOX ONE, PS2, PS3, PS4 PKG, PSP, PS VITA, ANDROID, MAC, NINTENDO WII U, 3DS](https://game-2u.com/)
+
+[nsw2u.com | Download Switch Roms eShop NSP XCI NSZ](https://nsw2u.com/)

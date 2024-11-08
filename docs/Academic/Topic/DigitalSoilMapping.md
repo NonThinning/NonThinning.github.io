@@ -17,7 +17,10 @@ date: 2024-10-16
 [FAO - Soil Information and Data](https://github.com/FAO-SID)
 
 > [FAO-SID/SOC-Mapping-Cookbook: Soil Organic Carbon mapping Cookbook](https://github.com/FAO-SID/SOC-Mapping-Cookbook) | ⭐⭐⭐
+>
+> [Online training on digital soil mapping | Global Soil Partnership | Food and Agriculture Organization of the United Nations](https://www.fao.org/global-soil-partnership/resources/events/detail/en/c/1274165/) | ⭐⭐⭐
 
+> [GSP Events Archive | Global Soil Partnership | Food and Agriculture Organization of the United Nations](https://www.fao.org/global-soil-partnership/resources/events/en/)
 ------
 
 [ISRIC — World Soil Information](https://github.com/ISRICWorldSoil/)
@@ -85,3 +88,35 @@ date: 2024-10-16
 [Lei Zhang](https://leizhang-geo.github.io/)
 
 > [leizhang-geo/CNN-LSTM_for_DSM: Using CNN-LSTM deep learning model for digital soil mapping. This is the code for paper "Zhang et al. A CNN-LSTM model for soil organic carbon content prediction with long time series of MODIS-based phenological variables"](https://github.com/leizhang-geo/CNN-LSTM_for_DSM)
+
+### Meeting
+
+[Holisoils - European Forest Soils - HoliSoils](https://holisoils.eu/) | ♥
+
+[Re-cap: IUSS “Digital Soil Mapping” and “Global Soil Map” workshop | ISRIC](https://www.isric.org/news/re-cap-iuss-digital-soil-mapping-and-global-soil-map-workshop)
+
+[6th Global Workshop on Digital Soil Mapping](https://gsf.globalsoilweek.org/event/6th-global-workshop-on-digital-soil-mapping)
+
+[7th Global Digital Soil Mapping Workshop 2016](https://projects.au.dk/digitalsoilmapping/7th-global-digital-soil-mapping-workshop-2016/)
+
+### Global
+
+#### US
+
+[Digital Soil Mapping (DSM) | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/data-and-reports/digital-soil-mapping-dsm)
+
+[A new era of digital soil mapping across forested landscapes [Chapter 14] | US Forest Service Research and Development](https://research.fs.usda.gov/treesearch/60394)
+
+[Soil Property and Class Maps of the Conterminous United States at 100‐Meter Spatial Resolution - Ramcharan - 2018 - Soil Science Society of America Journal - Wiley Online Library](https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj2017.04.0122)
+
+#### CA
+
+[Digging into Canadian Soils – Simple Book Publishing](https://openpress.usask.ca/soilscience/)
+
+> [Digital Soil Mapping – Digging into Canadian Soils](https://openpress.usask.ca/soilscience/chapter/digital-soil-mapping/) | ※
+
+[CIF-IFC](https://www.cif-ifc.org/)
+
+#### EU
+
+[DSM: Digital Soil Mapping - ESDAC - European Commission](https://esdac.jrc.ec.europa.eu/projects/dsm-digital-soil-mapping)
