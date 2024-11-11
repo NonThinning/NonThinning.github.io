@@ -6,16 +6,6 @@ hide:
 
 # Home
 
-## About
-
-`R` (2+ years); `Python` (0+ years)
-
-`C/C++`, `Fortran`, `Pascal`, `GDScript`...
-
-## News
-
-[HackerNews - SuperTechFans](https://www.supertechfans.com/cn/) | [ruanyf/weekly](https://www.ruanyifeng.com/blog/)
-
 ## Basic Software (Personal Computer)
 
 [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) WIN11 USE | [Classic Shell](https://www.classicshell.net/) WIN7 USE

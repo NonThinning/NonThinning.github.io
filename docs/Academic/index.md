@@ -1,28 +1,37 @@
----
-hide:
-  - toc
----
-
 # Home
 
-[CopyTranslator](https://copytranslator.github.io/)
+## Search
 
-> [英语真题在线 - 试卷排版设计 | 官网](https://zhenti.burningvocabulary.cn/)
+[PubScholar公益学术平台](https://pubscholar.cn/)
 
-------
+[中国科学院知识服务平台 (las.ac.cn)](https://www.las.ac.cn/)
 
-[Science hub Mutual Aid community](https://www.smartquantai.com/)
+[NSTL国家科技图书文献中心](https://www.nstl.gov.cn/index.html)
 
-> [谷粉学术论坛-文献互助](https://bbs.99lb.net/)
+[国家科技报告服务系统](https://www.nstrs.cn/index)
 
-[science_nexus](https://www.reddit.com/r/science_nexus/?rdt=59788)
+[中国科学院知识服务平台](https://www.las.ac.cn/)
 
-[OATD – Open Access Theses and Dissertations](https://oatd.org/)
+### Open
 
-[教育网联邦认证与资源共享基础设施CARSI](https://www.carsi.edu.cn/index.html)
+[EarthArXiv](https://eartharxiv.org/)
 
-------
+[Open Access Library (OALib)](https://www.oalib.com/)
 
-[Waveland Press - Forest Measurements, Sixth Edition, by Harold E. Burkhart, Thomas Eugene Avery, Bronson P. Bullock](https://waveland.com/browse.php?t=668) | ⭐⭐⭐⭐
+### Pay
 
-[Satellite Remote Sensing of Terrestrial Hydrology | SpringerLink](https://link.springer.com/book/10.1007/978-3-030-99577-5) | Not Found
+[ScienceDirect.com | Science, health and medical journals, full text articles and books.](https://www.sciencedirect.com/)
+
+### Shadow
+
+[SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)
+
+> [Library Genesis (Libgen) 可用网站 - 最优网址](https://www.ooopn.com/tool/libgen/)
+>
+> [安娜的档案](https://zh.annas-archive.org/)
+>
+> [Z-library Project - Official Library Z. Download eBooks free](https://z-lib.gs/)
+
+## Tool
+
+[Zotero 中文小组](https://zotero-chinese.github.io/)
