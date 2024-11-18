@@ -22,3 +22,5 @@
 > [Harmonized World Soil Database (HWSD) version 2.0](https://data.isric.org/geonetwork/srv/chi/catalog.search#/metadata/54aebf11-ec73-4ff8-bf6c-ecff4b0725ea) 
 
 [Size, distribution, and vulnerability of the global soil inorganic carbon | Science](https://www.science.org/doi/10.1126/science.adi7918) | [Global Soil Inorganic Carbon Database](https://figshare.com/s/26f03972cc42b2e1e09f) | 无机碳制图
+
+[Circum-Arctic Map of Permafrost and Ground-Ice Conditions, Version 2 | National Snow and Ice Data Center](https://nsidc.org/data/ggd318/versions/2) | 冻土分布图，包含大兴安岭

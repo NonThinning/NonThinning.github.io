@@ -20,3 +20,7 @@
 [祁连山俄博岭地区热融洼地与冻胀草丘活动层融化深度差异性对比研究](http://www.bcdt.ac.cn/article/2022/1000-0240/1000-0240-2022-44-1-188.shtml)
 
 > 冻胀（草）丘、钎探法测量冻土活动层；注意该区域与漠河区域的温度差异
+
+[Evaluation of Soil Organic Layers Thickness and Soil Organic Carbon Stock in Hemiboreal Forests in Latvia](https://www.mdpi.com/1999-4907/12/7/840)
+
+> 以泥炭层上界作为土壤0cm

@@ -13,4 +13,12 @@
 >
 > [Navigator | One Earth](https://www.oneearth.org/navigator/)
 >
+> [Ecotenet | Connect nature-based knowledge to place](https://www.ecotenet.org/)
+>
 > Da Hinggan-Dzhagdy Mountains Conifer Forests
+
+[North American boreal zone map shapefiles](https://natural-resources.canada.ca/our-natural-resources/forests/sustainable-forest-management/boreal-forest/north-american-boreal-zone-map-shapefiles/14252)
+
+> [The extent of the North American boreal zone](https://cdnsciencepub.com/doi/abs/10.1139/A09-004) 
+>
+> Hemiboreal forests

@@ -33,3 +33,6 @@
 
 [Home - Soil | Soil Science Society of America](https://www.soils.org/) | [SSSA Book Series :](https://acsess.onlinelibrary.wiley.com/series/5170)
 
+------
+
+[Free and Open Source for Geospatial Conference](https://foss4g.org/)

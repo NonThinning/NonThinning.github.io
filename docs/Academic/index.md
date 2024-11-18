@@ -1,9 +1,5 @@
 # Home
 
-## Conf
-
-[Free and Open Source for Geospatial Conference](https://foss4g.org/)
-
 ## Publish
 
 [Российские научные академические журналы](https://sciencejournals.ru/) | 俄罗斯科学期刊出版社 上年（-1年）文献可阅读
@@ -13,6 +9,8 @@
 [CNKI Overseas](https://www.cnki.net/) | [ScienceReading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do)
 
 ## Search
+
+[Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
 
 [PubScholar公益学术平台](https://pubscholar.cn/)
 

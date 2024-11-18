@@ -18,8 +18,6 @@ Cyberspace：[ZoomEye](https://www.zoomeye.org/) | [360网络空间测绘](https
 
 OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint)
 
-OJ：[洛谷](https://www.luogu.com.cn/) | [UOJ](https://uoj.ac/)
-
 [CTF Wiki](https://ctf-wiki.org/) | [Hello CTF](https://hello-ctf.com/)
 
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
@@ -27,6 +25,12 @@ OJ：[洛谷](https://www.luogu.com.cn/) | [UOJ](https://uoj.ac/)
 ["Reverse Engineering for Beginners" book](https://beginners.re/)
 
 [Introduction | Red Team Guides](https://book.redteamguides.com/)
+
+## OJ
+
+[洛谷](https://www.luogu.com.cn/) | [UOJ](https://uoj.ac/)
+
+[CSES](https://cses.fi/) | [CSES - Competitive programming books](https://cses.fi/book/index.php)
 
 ## HPC
 
