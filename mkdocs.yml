@@ -48,3 +48,5 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/NonThinning
+    - icon: fontawesome/brands/square-git
+      link: https://gitee.com/NonThinning

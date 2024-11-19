@@ -5,7 +5,7 @@
 
 [轻小说机翻机器人](https://books.fishhawk.top/)
 
-[哔哩轻小说](https://www.bilinovel.com/) | [轻小说文库](https://www.wenku8.net/index.php) | [轻之国度](https://www.lightnovel.us/)
+[哔哩轻小说](https://www.bilinovel.com/) | [轻小说文库](https://www.wenku8.net/index.php) | [轻之国度](https://www.lightnovel.us/) | [神凑轻小说文库](https://m.shencou.com/) | [輕小說百科](https://lnovel.tw/)
 
 [书格 (shuge.org)](https://www.shuge.org/) | [中國哲學書電子化計劃](https://ctext.org/zhs)
 

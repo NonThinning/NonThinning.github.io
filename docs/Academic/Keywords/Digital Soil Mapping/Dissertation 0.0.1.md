@@ -5,6 +5,8 @@
 
 [Model-based Bayesian geostatistics for multi-scale mapping of soil and agronomic variables — Research@WUR](https://research.wur.nl/en/publications/model-based-bayesian-geostatistics-for-multi-scale-mapping-of-soi)
 
+[Enhancement of the use of machine learning in digital soil mapping - Research@WUR](https://research.wur.nl/en/publications/enhancement-of-the-use-of-machine-learning-in-digital-soil-mappin)
+
 ## Lancaster University
 
 [An interdisciplinary approach to mapping soil carbon - Research Portal | Lancaster University](https://www.research.lancs.ac.uk/portal/en/publications/an-interdisciplinary-approach-to-mapping-soil-carbon(060d3b8f-4f5b-443a-bb3c-8e0349530c91)/export.html)
@@ -28,4 +30,10 @@
 ## University of Wisconsin-Madison
 
 [Digital soil mapping, modeling and legacy data rescue in Chile - Catalog - UW-Madison Libraries](https://search.library.wisc.edu/catalog/9912848572002121)
+
+## 沈阳农业大学
+
+[黑河流域中游地区关键土壤属性的空间变异特征与预测制图 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=WStw-Pbchox6_HcNLciVAv5XQAi4a0d9z_mOSC47LgmZIGlkQlci6cEPO1vnzGtxLNmNOEfOqKmoGKtx2Ma8IWJzEtCcYE7RJn2skZ_98Gajp9oXH9m6c9SjnFISH2G00S5LTm9TDLyl-yzOtjjsi2IO_WpptbF48_UTMcm2F7nDiPzT5hMNMpLhcADBx8qBF-xvN6E5Ntc=&uniplatform=NZKPT&language=CHS)
+
+> [王帅-沈阳农业大学土地与环境学院](https://thxy.syau.edu.cn/info/1612/6291.htm)
 
