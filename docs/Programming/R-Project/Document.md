@@ -67,7 +67,7 @@
 
 [Composite Variables](https://jslefche.github.io/sem_book/)
 
-[Causal Inference in R](https://www.r-causal.org/)
+[Causal Inference in R](https://www.r-causal.org/) | 因果推断
 
 [Welcome to Causal Inference: What If!](https://causalai.github.io/what-if/index.html)
 

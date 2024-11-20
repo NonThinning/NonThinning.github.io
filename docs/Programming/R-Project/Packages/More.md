@@ -14,6 +14,11 @@
 
 [SEMinR: SEMinR News](https://sem-in-r.github.io/posts.html)
 
+- [Composite Variables](https://jslefche.github.io/sem_book/)
+- [Causal Inference in R](https://www.r-causal.org/)
+
+[Framework for Easy Statistical Modeling, Visualization, and Reporting • easystats](https://easystats.github.io/easystats/)
+
 ## Forestry
 
 [forestscientist/StemAnalysis (github.com)](https://github.com/forestscientist/StemAnalysis)

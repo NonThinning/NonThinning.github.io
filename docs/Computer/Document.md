@@ -8,6 +8,8 @@
 
 ## CTF
 
+[Amazon Best Sellers: Best Computer Hacking](https://www.amazon.com/gp/bestsellers/books/3648/ref=pd_zg_hrsr_books)
+
 News：[8090安全门户](https://www.8090-sec.com/) | [FreeBuf](https://www.freebuf.com/) | [CN-SEC](https://cn-sec.com/) | [0day.today](https://cn.0day.today/) | [安全内参](https://www.secrss.com/) | [unSafe.sh](https://buaq.net/) | [渊龙Sec](https://dh.aabyss.cn/)
 
 Con：[2024北京网络安全大会(BCS)](https://bcs.qianxin.com/)
@@ -16,7 +18,7 @@ Tools：[CTFever Toolkit by uniiem](https://ctfever.uniiem.com/)
 
 Cyberspace：[ZoomEye](https://www.zoomeye.org/) | [360网络空间测绘](https://quake.360.net/quake/#/index) | [FOFA网络空间测绘系统](https://fofa.info/)
 
-OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint)
+OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint) | [IntelTechniques by Michael Bazzell](https://inteltechniques.com/index.html)
 
 [CTF Wiki](https://ctf-wiki.org/) | [Hello CTF](https://hello-ctf.com/)
 
@@ -66,7 +68,6 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 平台：[Poe](https://poe.com/) | [Shared Chat](https://sharedchat.fun/) | [ChatGPT Mirror](https://ai.44vl.cc/) | [GPT镜像](https://go.gptdsb.com/list) | [通义灵码](https://tongyi.aliyun.com/lingma/)
 
-
 [Learn Prompting | Generative AI, Prompt Engineering, & Free Online Courses (webflow.io)](https://learn-prompting.webflow.io/)
 
 [提示工程指南 | Prompt Engineering Guide](https://www.promptingguide.ai/zh)
@@ -78,6 +79,10 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 [AwesomeAI / awesome-chatgpt-zh · GitLab](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
 
 [WayToAGI](https://new.waytoagi.com/)
+
+## IC
+
+[dendibakh/perf-book: The book "Performance Analysis and Tuning on Modern CPU"](https://github.com/dendibakh/perf-book)
 
 ## More
 

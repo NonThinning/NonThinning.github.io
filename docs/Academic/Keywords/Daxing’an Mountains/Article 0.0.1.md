@@ -31,7 +31,7 @@
 
 > GEE; 森林恢复，抢救性采伐, 1987.05.06火灾
 
-[Revealing post-megafire spectral and compositional recovery in the Siberian boreal forest using Landsat time series and regression-based unmixing approach - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0034425724003250) | Top
+⭐[Revealing post-megafire spectral and compositional recovery in the Siberian boreal forest using Landsat time series and regression-based unmixing approach - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0034425724003250) | Top
 
 > 森林恢复，1987.05.06火灾
 

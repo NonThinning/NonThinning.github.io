@@ -1,4 +1,8 @@
 
+## Method
+
+[Multivariate random forest for digital soil mapping - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706123000423) | 多元随机森林方法
+
 ## Quality Control
 
 [An integrated approach for the evaluation of quantitative soil maps through Taylor and solar diagrams - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706121004122)

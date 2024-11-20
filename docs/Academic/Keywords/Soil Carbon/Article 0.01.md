@@ -12,3 +12,5 @@
 [A trade-off between plant and soil carbon storage under elevated CO2 | Nature](https://www.nature.com/articles/s41586-021-03306-8) | 小样本Meta分析
 
 > [Cesarterrer/SoilC_CO2](https://github.com/cesarterrer/SoilC_CO2) | 包含完整数据和代码 R Code
+
+[Global Distributions of Reactive Iron and Aluminum Influence the Spatial Variation of Soil Organic Carbon](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17576) | 使用glmm.hp, 方法可参考 | [CRAN: Package glmm.hp](https://cran.r-project.org/web/packages/glmm.hp/index.html)
