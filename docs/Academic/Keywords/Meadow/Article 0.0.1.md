@@ -1,6 +1,9 @@
 
 [Vegetation transition from meadow to forest reduces priming effect on SOM decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071723001852) | 植被从草甸向森林的过渡降低了对 SOM 分解的引发效应
 
+- [Succession from meadow to mature forest: Impacts on soil biological, chemical and physical properties—Evidence from the Pieniny Mountains, Poland - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816220300527)
+- [Resetting the baseline: using machine learning to find lost meadows | Landscape Ecology](https://link.springer.com/article/10.1007/s10980-023-01726-7) | [Sierra Nevada Meadows](https://meadows.ucdavis.edu/) | 草甸数据集
+
 > 草甸-森林过渡带
 
 [Major Type of Mattic-Epipedon Ruptures in Alpine Meadow Ecosystems on the Qinghai–Tibet Plateau | Ecosystem Health and Sustainability](https://spj.science.org/doi/10.34133/ehs.0082)
@@ -24,3 +27,5 @@
 [Evaluation of Soil Organic Layers Thickness and Soil Organic Carbon Stock in Hemiboreal Forests in Latvia](https://www.mdpi.com/1999-4907/12/7/840)
 
 > 以泥炭层上界作为土壤0cm
+
+[Large-scale probabilistic identification of boreal peatlands using Google Earth Engine, open-access satellite data, and machine learning | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218165) | 泥炭地制图

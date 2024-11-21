@@ -203,3 +203,72 @@ geemap.download_ee_image(
     max_tile_dim = 512
 )
 ```
+
+## Calculate Landsat-5 dNBR
+
+取值范围符合 [EFFIS - Fire Severity](https://forest-fire.emergency.copernicus.eu/about-effis/technical-background/fire-severity)
+
+缺陷：未地形矫正、去云后未填充、图像直方图配准
+
+```python
+import ee
+import geemap
+geemap.ee_initialize()
+
+scale = geemap.geojson_to_ee(r"C:\Users\Qiao\Documents\GEE\MoTa.geojson")
+
+def addNBR(image):
+    nbr = image.normalizedDifference(['SR_B4', 'SR_B5']).rename('NBR')
+    return image.addBands(nbr)
+def apply_scale_factors(image):
+  optical_bands = image.select('SR_B.').multiply(0.0000275).add(-0.2)
+  thermal_bands = image.select('ST_B6').multiply(0.00341802).add(149.0)
+  return image.addBands(optical_bands, None, True).addBands(
+      thermal_bands, None, True
+  )
+def Mask(image):
+    qaMask = image.select('QA_PIXEL').bitwiseAnd(int('11111', 2)).eq(0)
+    return image.updateMask(qaMask)
+
+dataset = (
+    ee.ImageCollection("LANDSAT/LT05/C02/T1_L2")
+    .filterDate('1986-05-01', '1986-09-01')
+    .filterBounds(scale)
+    .filter(ee.Filter.lte('CLOUD_COVER', 25))
+    .sort('CLOUD_COVER')
+    .map(apply_scale_factors)
+    .map(Mask)
+    .map(addNBR)
+)
+postset = (
+    ee.ImageCollection("LANDSAT/LT05/C02/T1_L2")
+    .filterDate('1987-06-01', '1987-09-01')
+    .filterBounds(scale)
+    .filter(ee.Filter.lte('CLOUD_COVER', 25))
+    .sort('CLOUD_COVER')
+    .map(apply_scale_factors)
+    .map(Mask)
+    .map(addNBR)
+)
+
+dNBR = (dataset.select("NBR").mosaic().clip(scale)).subtract(postset.select("NBR").mosaic().clip(scale))
+
+Vis = {
+  "min": -1.0,
+  "max": 1.0,
+  "palette": ['0000ff','00ffff','ffff00','ff0000','ffffff'],
+}
+
+Map = geemap.Map()
+Map.addLayer(dNBR, Vis, "dNBR")
+Map
+
+geemap.download_ee_image(
+    dNBR, 
+    filename="dNBR-ROI.tif", 
+    scale=30, 
+    region=scale.geometry(),
+    crs='EPSG:4326',
+    max_tile_dim = 512
+)
+```

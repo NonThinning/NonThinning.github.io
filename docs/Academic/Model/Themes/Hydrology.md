@@ -18,3 +18,5 @@
 [GitHub - Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox)
 
 > [CPlantBox, a whole-plant modelling framework for the simulation of water- and carbon-related processes | in silico Plants | Oxford Academic](https://academic.oup.com/insilicoplants/article/2/1/diaa001/5709632?login=false)
+
+[GMD - HydroMix v1.0: a new Bayesian mixing framework for attributing uncertain hydrological sources](https://gmd.copernicus.org/articles/13/2433/2020/)

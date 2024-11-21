@@ -38,3 +38,25 @@
 [土壤中碳相关分析方法--中国科学院东北地理与农业生态研究所分析测试部](https://neigae.cas.cn/fxcs/fwzn/202405/t20240516_7163436.html)
 
 20g 2mm筛分干土 → 100ml 0.5% (5g/L) 六偏磷酸钠 → 90r/min 震荡18h → 53μm筛子冲洗 → 保留MAOM和POM → 60°C干燥10h+（过夜） → 测定OC
+
+[Does microbial carbon use efficiency differ between particulate and mineral‐associated organic matter? - Ma - 2024 - Functional Ecology - Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14569) | [Xiaojuan Feng: microbial Carbon use efficiency did not consistently differ between particulate and mineral-associated organic matter – Functional Ecologists](https://functionalecologists.com/2024/08/01/xiaojuan-feng-microbial-carbon-use-efficiency-did-not-consistently-differ-between-particulate-and-mineral-associated-organic-matter/)
+
+2mm筛分干土 → 1：5 土水比 → 180r/min 震荡30min → 53μm筛子冲洗 → 冷冻干燥 → 保留MAOM和POM → 微生物培养
+
+> 根据其文章和参考文献，推测将筛分后沉淀、可离心的部分作为MAOM
+
+## More
+
+⭐[Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14859) | 将土壤有机质概念化为颗粒和矿物相关形式，以应对 21 世纪的全球变化 高被引
+
+- 分组：POM、MAOM、DOM（可忽略）
+
+[Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17080) | 对全球颗粒物和矿物相关有机碳储存进行独特、直接和气候介导的环境控制 
+
+- POC 储量与 MAT 和土壤 pH 值呈负相关
+- MAOC 储量与 NPP 和 MAP-PET 呈正相关，与土壤 % 沙子呈负相关
+- 20μm 作为矿质结合有机碳的下限，对应900目，使用倾析法分离
+
+[Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17092)
+
+- MAOM和POM与微生物生物量碳氮的关系，混合效应模型

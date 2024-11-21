@@ -28,6 +28,8 @@
 > [libLoL 兼容层 | 安同开源社区 (AOSC)](https://aosc.io/liblol)
 >
 > [计算机体系结构基础](https://foxsen.github.io/archbase/)
+>
+> [Banana Pi BPI-3A6000 Mini Computer with Loongson 3A6000 chip design | BananaPi Docs](https://docs.banana-pi.org/en/BPI-3A6000/BananaPi_BPI-3A6000)
 
 ## Cyber Security
 
