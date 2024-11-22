@@ -22,3 +22,9 @@
 > [The extent of the North American boreal zone](https://cdnsciencepub.com/doi/abs/10.1139/A09-004) 
 >
 > Hemiboreal forests
+
+[中国植被分布图](https://www.plantplus.cn/dsite/zhibei/b12.html)
+
+> [中华人民共和国植被图（1:1000000）——植物科学数据中心](https://www.plantplus.cn/doi/10.12282/plantdata.0155)
+>
+> [nsii.org.cn/2017/chinavegetaion.php](http://nsii.org.cn/2017/chinavegetaion.php) 中国植被图(1:100万)在线系统

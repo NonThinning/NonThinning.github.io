@@ -84,6 +84,10 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 [dendibakh/perf-book: The book "Performance Analysis and Tuning on Modern CPU"](https://github.com/dendibakh/perf-book)
 
+## GIS
+
+[GIS入行指南 - GIS Career Entry Guide](https://gis-career-entry-guide.readthedocs.io/zh-cn/latest/)
+
 ## More
 
 [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)

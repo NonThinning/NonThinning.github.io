@@ -53,12 +53,17 @@
 
 [Windows Firewall Control](https://www.binisoft.org/wfc) | Install Cracked Software Use, Like ArcGIS
 
-
 ## Uninstall
 
 [Bulk Crap Uninstaller - Remove large amounts of unwanted applications](https://www.bcuninstaller.com/) | [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
 [Geek Uninstaller](https://geekuninstaller.com/)
+
+## Download
+
+[subhra74/xdm: Powerfull download accelerator and video downloader](https://github.com/subhra74/xdm) Beta Version
+
+[Home Page » Neat Download Manager](https://neatdownload.com/)
 
 ## Info
 

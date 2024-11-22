@@ -29,6 +29,8 @@ NSP Download
 
 [Switch520](https://www.gamer520.com/) | [永久防迷路](https://sway.cloud.microsoft/1ESaLEE3x47BTgZC)
 
+[nsw2u.com](https://nsw2u.com/) | [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) 
+
 ## Windows
 
 [Main Page - Exagear International](https://www.exagear.wiki/index.php?title=Main_Page)
