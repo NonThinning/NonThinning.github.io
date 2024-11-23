@@ -28,3 +28,5 @@
 > [中华人民共和国植被图（1:1000000）——植物科学数据中心](https://www.plantplus.cn/doi/10.12282/plantdata.0155)
 >
 > [nsii.org.cn/2017/chinavegetaion.php](http://nsii.org.cn/2017/chinavegetaion.php) 中国植被图(1:100万)在线系统
+
+[Intact Forest Landscapes](https://www.intactforests.org/) | 完整的森林景观制图，不包含漠河市但有部分大兴安岭山脉区域

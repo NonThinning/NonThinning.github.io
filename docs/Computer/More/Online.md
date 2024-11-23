@@ -8,3 +8,5 @@
 [LINUX DO](https://linux.do/) | [Linux DO 导航站](https://nav.linux.do/)
 
 [V2EX](https://www.v2ex.com/)
+
+[Компьютерный форум Ru.Board](https://forum.ru-board.com/) | 计算机相关

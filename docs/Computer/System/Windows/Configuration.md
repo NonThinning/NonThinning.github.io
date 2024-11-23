@@ -5,6 +5,8 @@
 
 [MSDN系统库](https://www.xitongku.com/) | [HelloWindows.cn](https://hellowindows.cn/) | [山己几子木](https://msdn.sjjzm.com/) | [NEXT, ITELLYOU](https://next.itellyou.cn/)
 
+[Официальный сайт by adguard | Разработки от adguard](https://rg-adguard.net/) | [Forum from @rgadguard](https://forum.rg-adguard.net/)
+
 ## Activation
 
 > [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)
@@ -14,6 +16,8 @@
 [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 
 [Microsoft KMS Activation | vlmcsd](http://wind4.github.io/vlmcsd/) | [Wind4/vlmcsd: KMS Emulator in C](https://github.com/Wind4/vlmcsd)
+
+[MSFree Soft](https://msfree.su/index.php)
     
 1. 运行`floppy`文件夹内虚拟机文件
 
@@ -146,3 +150,5 @@ VSCodium Extension: Markdown All in One / Markdown Preview Enhanced / Chinese (S
 重新启用Internet Explorer 11
 
 - `dism /online /Add-Capability /CapabilityName:Browser.InternetExplorer~~~~0.0.11.0`
+
+[最大路径长度限制 - Win32 apps | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/win32/fileio/maximum-file-path-limitation?tabs=registry)

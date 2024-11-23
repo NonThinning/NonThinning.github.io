@@ -30,3 +30,11 @@
 > - 演替：火后长时间，原有植被被泥炭藓覆盖
 > 演替的沼泽化可被严重的自然火灾或造林逆转；皆伐会进一步促进沼泽化
 > 沼泽化>40cm时，对森林生产力产生负面影响，沼泽化制图有利于林业生产
+
+[Predicting soil properties in the Canadian boreal forest with limited data: Comparison of spatial and non-spatial statistical approaches - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706116308734) | 利用有限数据预测加拿大北方森林的土壤特性：空间和非空间统计方法的比较
+
+> [JulienBeguin/Digital-Soil-Mapping](https://github.com/JulienBeguin/Digital-Soil-Mapping) | 代码可参考
+
+[Soil organic carbon stocks and their determining factors in the Dano catchment (Southwest Burkina Faso) - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816218301280) | 流域内，多采样方式结合
+
+[Estimating soil organic carbon stock change at multiple scales using machine learning and multivariate geostatistics - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706121004365) | 容重和砾石含量被视作静态

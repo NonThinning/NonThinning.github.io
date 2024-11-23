@@ -35,3 +35,6 @@
 
 > 森林恢复，1987.05.06火灾
 
+[Soil moisture as a key factor in carbon release from thawing permafrost in a boreal forest - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706119307487)
+
+> 土壤pH<6.8，假设其不含有碳酸盐，土壤总碳被认为是土壤有机碳
