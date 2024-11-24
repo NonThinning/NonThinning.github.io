@@ -59,4 +59,8 @@
 
 [Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17092)
 
-- MAOM和POM与微生物生物量碳氮的关系，混合效应模型
+- MAOM和POM与微生物生物量碳氮的关系，化学计量比
+
+[Modeling Global Soil Carbon and Soil Microbial Carbon by Integrating Microbial Processes into the Ecosystem Process Model TRIPLEX‐GHG - Wang - 2017 - Journal of Advances in Modeling Earth Systems - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017MS000920)
+
+- 区分POC和MOC的降解酶

@@ -1,6 +1,8 @@
 
 [Почвенная классификация](https://www.infosoil.ru/) | RU 土壤分类
 
+[Информационная система «Почвенно-географическая база данных России»](https://soil-db.ru/) | 俄罗斯土壤信息系统
+
 > [Keys to Soil Taxonomy | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/keys-to-soil-taxonomy) | US 土壤分类
 >
 > [Soil Survey Manual | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-survey-manual) | NCSS

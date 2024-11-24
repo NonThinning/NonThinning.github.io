@@ -4,6 +4,8 @@
 
 [Российские научные академические журналы](https://sciencejournals.ru/) | 俄罗斯科学期刊出版社 上年（-1年）文献可阅读
 
+[НАУЧНАЯ ЭЛЕКТРОННАЯ БИБЛИОТЕКА](https://elibrary.ru/defaultx.asp) | [КиберЛенинка](https://cyberleninka.ru/) | 俄罗斯文献索引&获取
+
 [SpringerLink](https://link.springer.com/) | [ScienceDirect.com](https://www.sciencedirect.com/)
 
 [CNKI Overseas](https://www.cnki.net/) | [ScienceReading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do)

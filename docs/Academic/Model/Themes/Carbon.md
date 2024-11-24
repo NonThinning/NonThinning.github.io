@@ -25,6 +25,14 @@ APSIM: [APSIMInitiative/APSIM710： APSIM](https://github.com/APSIMInitiative/AP
 
 Yasso: [Soil carbon model Yasso - Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/yasso)
 
+- [Carbon and decomposition model Yasso for forest soils - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0304380005002012)
 - [YASSOmodel](https://github.com/YASSOmodel) | Github
 - [The Yasso07 soil carbon model – Testing against repeated soil carbon inventory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0378112712005257)
 - [GMD - Improving Yasso15 soil carbon model estimates with ensemble adjustment Kalman filter state data assimilation](https://gmd.copernicus.org/articles/13/5959/2020/) | 卡尔曼滤波
+
+iLand: [iLand | startpage](https://iland-model.org/startpage) | 基于个体的景观森林和干扰模型
+
+- [iLand | permafrost](https://iland-model.org/permafrost) | 冻土模块
+- [GMD - The Permafrost and Organic LayEr module for Forest Models (POLE-FM) 1.0](https://gmd.copernicus.org/articles/16/2011/2023/)
+- [edfm-tum/iland-model: iLand - the individual-based forest landscape and disturbance model (see https://iland-model.org/)](https://github.com/edfm-tum/iland-model)
+- [Ecosystem Dynamics and Forest Management Lab - School of Life Sciences - Technical University of Munich](https://github.com/edfm-tum)
