@@ -1,7 +1,10 @@
 
 [WMO OSCAR  |  Observing Systems Capability Analysis and Review Tool - Home](https://space.oscar.wmo.int/) | 卫星信息
 
- [IDB - Index DataBase](https://www.indexdatabase.de/) | 遥感指数
+- [Прикладной потребительский центр ГЛОНАСС](https://glonass-iac.ru/)
+- [中国卫星导航系统管理办公室测试评估研究中心](https://csno-tarc.cn/)
+
+[IDB - Index DataBase](https://www.indexdatabase.de/) | 遥感指数
 
 [NASA | LANCE | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) | 卫星火点
 

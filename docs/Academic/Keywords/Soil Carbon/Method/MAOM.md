@@ -64,3 +64,7 @@
 [Modeling Global Soil Carbon and Soil Microbial Carbon by Integrating Microbial Processes into the Ecosystem Process Model TRIPLEX‐GHG - Wang - 2017 - Journal of Advances in Modeling Earth Systems - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017MS000920)
 
 - 区分POC和MOC的降解酶
+
+[Soil Carbon Saturation: Linking Concept and Measurable Carbon Pools - Stewart - 2008 - Soil Science Society of America Journal - Wiley Online Library](https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj2007.0104)
+
+- 物理、化学、密度分馏土壤有机碳，和MAOM比更细致

@@ -38,3 +38,7 @@
 [Soil organic carbon stocks and their determining factors in the Dano catchment (Southwest Burkina Faso) - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816218301280) | 流域内，多采样方式结合
 
 [Estimating soil organic carbon stock change at multiple scales using machine learning and multivariate geostatistics - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706121004365) | 容重和砾石含量被视作静态
+
+[Using quantile regression forest to estimate uncertainty of digital soil mapping products - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S001670611631059X?via%3Dihub) | 分位数回归森林算法
+
+- [SOIL - SoilGrids 2.0: producing soil information for the globe with quantified spatial uncertainty](https://soil.copernicus.org/articles/7/217/2021/)
