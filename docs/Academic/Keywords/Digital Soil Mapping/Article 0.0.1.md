@@ -23,7 +23,7 @@
 
 [Predicting Soil Organic Carbon and Soil Nitrogen Stocks in Topsoil of Forest Ecosystems in Northeastern China Using Remote Sensing Data](https://www.mdpi.com/2072-4292/12/7/1115) | 对属性聚类后根据道路进行采样
 
-⭐ [Digital mapping of paludification in soils under black spruce forests of eastern Canada - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S235200941830172X) | 北方森林泥炭地（沼泽化）土地的制图
+⭐ [Digital mapping of paludification in soils under black spruce forests of eastern Canada - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S235200941830172X) | 北方森林泥炭地（沼泽化）土地的制图 有机层厚度
 
 > 沼泽化的两种形式：
 > - 永久：地形位置和自然排水

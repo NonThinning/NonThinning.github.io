@@ -1,10 +1,10 @@
 # Document
 
-[ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | [tangx/Stop-Ask-Questions-The-Stupid-Ways](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways)
+提问：[ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | [tangx/Stop-Ask-Questions-The-Stupid-Ways](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways)
 
-------
+指南：[CS自学指南](https://csdiy.wiki/) | [HackWay技术学习路线](https://hackway.org/) | [Developer Roadmaps](https://roadmap.sh/)
 
-[CS自学指南](https://csdiy.wiki/) | [HackWay技术学习路线](https://hackway.org/) | [Developer Roadmaps](https://roadmap.sh/)
+排名：[CSRankings: Computer Science Rankings](https://csrankings.org/)
 
 ## CTF
 

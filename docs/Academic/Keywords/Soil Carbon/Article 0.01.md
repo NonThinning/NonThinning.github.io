@@ -31,3 +31,8 @@
 
 - [Domwoolf/Somic1](https://github.com/domwoolf/somic1) | SOMic 微生物土壤碳模型
 - [ESCOMP/CTSM: Community Terrestrial Systems Model (includes the Community Land Model of CESM)](https://github.com/ESCOMP/CTSM)
+
+[Emergent temperature sensitivity of soil organic carbon driven by mineral associations | Nature Geoscience](https://www.nature.com/articles/s41561-024-01384-7) | 使用MIMICS-CN，代码可用
+
+- [katerina-georgiou/global-soilCpools: Analysis of global soil carbon pools in data and models](https://github.com/katerina-georgiou/global-soilCpools)
+- [katerina-georgiou/soilC-saturation: Mineral-associated soil organic carbon stocks and capacity](https://github.com/katerina-georgiou/soilC-saturation)

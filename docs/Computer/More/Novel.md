@@ -27,3 +27,7 @@ TTS: [jing332/tts-server-android](https://github.com/jing332/tts-server-android)
 - [阅读APP源 - AOAOSTAR](https://legado.aoaostar.com/)
 - [阅读 - 书源 \ 订阅](https://flowus.cn/ycheng/share/923f5a35-6dcf-47d1-b8eb-b9c5ef3ed39b)
 - [源仓库最新地址发布页 (yckceo.vip)](https://yckceo.vip/)
+
+## More
+
+[Worldbuilding Stack Exchange](https://worldbuilding.stackexchange.com/)

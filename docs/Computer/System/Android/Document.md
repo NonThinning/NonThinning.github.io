@@ -39,6 +39,10 @@
 
 [koreader/koreader](https://github.com/koreader/koreader) | PDF
 
+## Picture
+
+[WSTxda/QP-Gallery-Releases：QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) 快图 32bit
+
 ## Input
 
 [WeChat Input Method](https://z.weixin.qq.com/)

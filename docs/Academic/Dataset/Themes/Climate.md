@@ -1,4 +1,6 @@
 
+⭐[ClimEx Handbook – Handbook for standardized measurements in Climate Change Experiments](https://climexhandbook.w.uib.no/) | 气候变化实验手册
+
 [Chelsa Climate – Climatologies at high resolution for the earth’s land surface areas](https://chelsa-climate.org/)
 
 [Historical climate data — WorldClim 1 documentation](https://www.worldclim.org/data/worldclim21.html)

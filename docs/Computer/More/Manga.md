@@ -15,4 +15,6 @@ Tachiyomi: [Home | Mihon](https://mihon.app/) | [Keiyoushi](https://keiyoushi.gi
 
 [watari (@nijimukiokuiro) / X](https://twitter.com/nijimukiokuiro) | [watari | POTOFU](https://potofu.me/nijimukiokuiro) | [watari (@nijimukiokuiro) Threads](https://www.threads.net/@nijimukiokuiro)
 
+[安田現象（gensho_yasuda）| Pinterest](https://jp.pinterest.com/gensho_yasuda/)
+
 [TSUKUSHI TEAM つくしチーム](https://tsukushi-team.com/)

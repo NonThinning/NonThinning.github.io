@@ -31,6 +31,10 @@
 
 [acgeospatial/awesome-earthobservation-code: A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery](https://github.com/acgeospatial/awesome-earthobservation-code)
 
+[Spatial Thoughts – An Open Learning Platform For Modern Geospatial Technologies](https://spatialthoughts.com/)
+
+> [Tiling Large Exports in Google Earth Engine – Spatial Thoughts](https://spatialthoughts.com/2024/10/23/large-image-exports-gee/) | 在 Google Earth Engine 中平铺大型导出数据
+
 ### Package
 
 [leftfield-geospatial/geedim: Search, composite, and download Google Earth Engine imagery.](https://github.com/leftfield-geospatial/geedim)
