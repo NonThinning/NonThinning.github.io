@@ -55,7 +55,16 @@
 
 - POC 储量与 MAT 和土壤 pH 值呈负相关
 - MAOC 储量与 NPP 和 MAP-PET 呈正相关，与土壤 % 沙子呈负相关
-- 20μm 作为矿质结合有机碳的下限，对应900目，使用倾析法分离
+
+[Does microbial carbon use efficiency differ between particulate and mineral‐associated organic matter? - Ma - 2024 - Functional Ecology - Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.14569)
+
+- 使用倾析法分离
+
+[SOIL - Shifts in controls and abundance of particulate and mineral-associated organic matter fractions among subfield yield stability zones](https://soil.copernicus.org/articles/10/307/2024/)
+
+- 混合效应模型 lme4
+- POM:MAOM
+- 20μm 作为矿质结合有机碳的下限，对应800-900目
 
 [Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17092)
 
@@ -68,3 +77,7 @@
 [Soil Carbon Saturation: Linking Concept and Measurable Carbon Pools - Stewart - 2008 - Soil Science Society of America Journal - Wiley Online Library](https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj2007.0104)
 
 - 物理、化学、密度分馏土壤有机碳，和MAOM比更细致
+
+[Global distribution, formation and fate of mineral‐associated soil organic matter under a changing climate: A trait‐based perspective - Sokol - 2022 - Functional Ecology - Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14040)
+
+- 北方森林含有中等浓度的 MAOM-C和低比例的 MAOM-C：SOC
