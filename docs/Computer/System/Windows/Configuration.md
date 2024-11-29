@@ -69,6 +69,8 @@
 
 [Home Page » Neat Download Manager](https://neatdownload.com/)
 
+[JDownloader.org - Official Homepage](https://jdownloader.org/home/index) | SVN
+
 ## Info
 
 [HWiNFO - Free System Information, Monitoring and Diagnostics](https://www.hwinfo.com)

@@ -39,6 +39,8 @@
 
 [koreader/koreader](https://github.com/koreader/koreader) | PDF
 
+[Reading books is easy with ReadEra](https://readera.org/) | PDF
+
 ## Picture
 
 [WSTxda/QP-Gallery-Releases：QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) 快图 32bit

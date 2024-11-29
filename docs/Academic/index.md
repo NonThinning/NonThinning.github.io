@@ -6,9 +6,11 @@
 
 [НАУЧНАЯ ЭЛЕКТРОННАЯ БИБЛИОТЕКА](https://elibrary.ru/defaultx.asp) | [КиберЛенинка](https://cyberleninka.ru/) | 俄罗斯文献索引&获取
 
-[SpringerLink](https://link.springer.com/) | [ScienceDirect.com](https://www.sciencedirect.com/)
+[SpringerLink](https://link.springer.com/) | [ScienceDirect.com](https://www.sciencedirect.com/) | [De Gruyter](https://www.degruyter.com/)
 
-[CNKI Overseas](https://www.cnki.net/) | [ScienceReading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do)
+[CNKI Overseas](https://www.cnki.net/) | [ScienceReading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) | [高等教育出版社产品信息检索系统](https://xuanshu.hep.com.cn/) | 中国出版机构
+
+[北京大学学报自然科学版](https://xbna.pku.edu.cn/CN/0479-8023/home.shtml)
 
 ## Search
 

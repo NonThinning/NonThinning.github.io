@@ -11,6 +11,10 @@
 
 [Data Basin](https://databasin.org/)
 
+[Zenodo](https://zenodo.org/)
+
+[OpenAIRE | Find and Share research](https://explore.openaire.eu/)
+
 ## CN
 
 [国家生态数据中心资源共享服务平台](https://www.nesdc.org.cn/)
