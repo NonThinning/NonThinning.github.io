@@ -81,3 +81,8 @@
 [Global distribution, formation and fate of mineral‐associated soil organic matter under a changing climate: A trait‐based perspective - Sokol - 2022 - Functional Ecology - Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14040)
 
 - 北方森林含有中等浓度的 MAOM-C和低比例的 MAOM-C：SOC
+
+⭐[Soil carbon storage informed by particulate and mineral-associated organic matter | Nature Geoscience](https://www.nature.com/articles/s41561-019-0484-6)
+
+- 结合实测数据和欧洲土壤数据库进行碳组分估算
+- [Global turnover of soil mineral-associated and particulate organic carbon | Nature Communications](https://www.nature.com/articles/s41467-024-49743-7) | 使用文献计量方法对碳组分估算

@@ -37,3 +37,6 @@
 
 > [王帅-沈阳农业大学土地与环境学院](https://thxy.syau.edu.cn/info/1612/6291.htm)
 
+## 中国科学院东北地理与农业生态研究所
+
+[基于深度学习模型东北耕作土壤有机碳时空分布及驱动因素研究 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=YMwpULBJqz7zKcPUfFKl-8OAOYWN9BYBTT9eWEsMXICYfxK3sAAL1LJOLDBdbejcSRUAhZhD6Tf-VpY5pJrgOvHIhgqkvH_J9NZeMz_2n6DVCos90PxdSftsIcKrIUF76lXOtmOoApScpiYyp1dSjH5AHtvOdM4mpnP33Ofz_yQticRQyzHCRout6IAt9WNfjjjsIs-KH6I=&uniplatform=NZKPT&language=CHS)

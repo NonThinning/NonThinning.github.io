@@ -42,3 +42,5 @@
 [Using quantile regression forest to estimate uncertainty of digital soil mapping products - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S001670611631059X?via%3Dihub) | 分位数回归森林算法
 
 - [SOIL - SoilGrids 2.0: producing soil information for the globe with quantified spatial uncertainty](https://soil.copernicus.org/articles/7/217/2021/)
+
+[Predicting mattic epipedons in the northeastern Qinghai-Tibetan Plateau using Random Forest - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352009417300299?via=ihub) | 土壤碳组分制图
