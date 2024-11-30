@@ -86,3 +86,5 @@
 
 - 结合实测数据和欧洲土壤数据库进行碳组分估算
 - [Global turnover of soil mineral-associated and particulate organic carbon | Nature Communications](https://www.nature.com/articles/s41467-024-49743-7) | 使用文献计量方法对碳组分估算
+
+[pH: A core node of interaction networks among soil organo-mineral fractions - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0160412023003318) | pH与MAOM的关系
