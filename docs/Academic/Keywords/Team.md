@@ -31,6 +31,10 @@
 
 [Future Water Systems Lab](https://future-water.org/)
 
+[清华遥感水文团队](https://www.hydrors.cn/)
+
+[EcoHAT](https://ecohat.bnu.edu.cn/)
+
 ## Forest
 
 [ICP Forests](https://icp-forests.net/)
