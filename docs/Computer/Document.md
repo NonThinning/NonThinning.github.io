@@ -56,7 +56,7 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 ## Game/CG
 
-比赛：[Game Developers Conference (GDC)](https://gdconf.com/)
+比赛：[Game Developers Conference (GDC)](https://gdconf.com/) | [GWB腾讯独立游戏孵化器-腾讯游戏学堂](https://gwb.tencent.com/)
 
 [GAMES: Graphics And Mixed Environment Symposium](https://games-cn.org/)
 

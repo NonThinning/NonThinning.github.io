@@ -36,3 +36,5 @@ iLand: [iLand | startpage](https://iland-model.org/startpage) | 基于个体的�
 - [GMD - The Permafrost and Organic LayEr module for Forest Models (POLE-FM) 1.0](https://gmd.copernicus.org/articles/16/2011/2023/)
 - [edfm-tum/iland-model: iLand - the individual-based forest landscape and disturbance model (see https://iland-model.org/)](https://github.com/edfm-tum/iland-model)
 - [Ecosystem Dynamics and Forest Management Lab - School of Life Sciences - Technical University of Munich](https://github.com/edfm-tum)
+
+LPJ-GUESS Ecosystem Model: [LPJ-GUESS home page at Lund University](https://web.nateko.lu.se/lpj-guess/index.html) | 基于过程的动态植被-陆地生态系统模型，包含冻土、野火模块
