@@ -1,10 +1,30 @@
 
 
+## Viewpoint
+
+大兴安岭：Luvisol 淋溶土（棕色针叶林土）、Gleysol 湿地土壤（泥炭沼泽土）
+
+## Data
+
 [The special book of soils | Soilbook](https://www.soilbook.info/?lang=en) | 土壤剖面照片
 
-[The Canadian System of Soil Classification, 3rd edition](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html) | 加拿大土壤分类系统，在线访问
+⭐[Почвенная классификация](https://www.infosoil.ru/) | RU 土壤分类
+
+- [Информационная система «Почвенно-географическая база данных России»](https://soil-db.ru/) | 俄罗斯土壤信息系统
+- [НАЦИОНАЛЬНЫЙ АТЛАС РОССИИ](https://nationalatlas.ru/) | 俄罗斯地图集
+- [Main Page | ENG - V.V. Dokuchaev Soil Science Institute](https://eng.esoil.ru/)
+
+⭐[Keys to Soil Taxonomy | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/keys-to-soil-taxonomy) | US 土壤分类
+
+- [Soil Survey Manual | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-survey-manual) | NCSS
+
+⭐[The Canadian System of Soil Classification, 3rd edition](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html) | CA 土壤分类系统，在线访问
 
 - [Welcome - Soils of Canada](https://soilsofcanada.ca/index.php) | 包含对加拿大土壤分类的部分解释
+
+⭐[国家土壤信息服务平台](http://www.soilinfo.cn/map/index.aspx) | CN 土壤分类
+
+⭐[World Reference Base for Soil Resources](https://obrl-soil.github.io/wrbsoil2022/) | WRB 土壤分类系统
 
 ## Organization
 
@@ -16,3 +36,6 @@
 [FAO SOILS PORTAL | Food and Agriculture Organization of the United Nations](https://www.fao.org/soils-portal/en/)
 
 - [Data Hub | FAO SOILS PORTAL | Food and Agriculture Organization of the United Nations](https://www.fao.org/soils-portal/data-hub/en/) | 土壤调查与数字土壤制图/测绘
+- [Soil information and data | Global Soil Partnership | Food and Agriculture Organization of the United Nations](https://www.fao.org/global-soil-partnership/areas-of-work/soil-information-and-data/en/)
+- [FAO GloSIS](https://data.apps.fao.org/glosis/?lang=en)
+- [Global Soil Organic Carbon Map v1.5 (GSOC) - Datasets - "FAO catalog"](https://data.apps.fao.org/catalog/dataset/7730e747-eb73-49c9-bfe6-84ebae718743) | 有机碳制图，相对准确

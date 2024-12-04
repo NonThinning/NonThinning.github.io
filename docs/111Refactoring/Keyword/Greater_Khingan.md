@@ -6,6 +6,12 @@
 - the Greater Khingan Mountains: [Inner Mongolia approved to implement territorial spatial planning](https://english.www.gov.cn/policies/latestreleases/202312/21/content_WS6584026dc6d0868f4e8e2699.html)
 - the Greater Khingan Range: [Forest winter carnival kicks off - Chinadaily.com.cn](https://www.chinadaily.com.cn/a/202212/26/WS63a9120aa31057c47eba62d1_1.html)
 
+## Data
+
+[黑龙江史志网](https://www.hljszw.org.cn/) | [数字方志](https://www.hljszw.org.cn/home/book/index/id/42/fid/1.html) | 大兴安岭相关方志历史资料
+
+[Circum-Arctic Map of Permafrost and Ground-Ice Conditions, Version 2 | National Snow and Ice Data Center](https://nsidc.org/data/ggd318/versions/2) | 冻土分布图，包含大兴安岭
+
 ## Thesis
 
 [大兴安岭南部森林和草甸过渡地区的林火模拟研究 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=MdENDFpkZq41D4GjGlnwsAmCThfqMV01WXnwjoRYDGMIALqFK8fVo3F6RhcBwdOGtNbr1KJuvoB-HcXkSgEjWpt5ACG9G3HoVOyuLfSu2WBKtdk3H3Hn0zfVCZtHUS351GJM7dur-AaOI1fgDufIPRWr2e6RjaNGUB656me63ciokSWzYran_VMLbtD_nHooRDmmgEzcy2trFHpA1Dq2ug==&uniplatform=NZKPT)
@@ -13,6 +19,10 @@
 [大兴安岭林区表层土壤有机碳密度动态研究 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=WStw-Pbchoy2oH-d1EfkWES7oIJKc3MS2KXoChH3o0iqV2L_qAOHmc_35JBJGDeM66QjRc-PB1xF0e3to6A4whmLoXgrTs_UBrRWXKiOlOXVbbN-MRPT8ywdqWa17M6YKVSfgIAZhitK_GKRl_71Quc6yTlqKucvbllJ---imBNE9jRt-c3K9oFpA78r_AONM2FgHUQP5xU=&uniplatform=NZKPT&language=CHS)
 
 ## Article
+
+⭐[Eco-hydrological responses of the Black Dragon fire in three forested basins in the Daxing’an Mountains, northeast China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1470160X22010962)
+
+- Black Dragon fire; Emuer River / Pangu River 受林火影响
 
 [Predicting the wetland distributions under climate warming in the Great Xing’an Mountains, northeastern China | Ecological Research](https://link.springer.com/article/10.1007/s11284-011-0819-2) | 气候变暖下大兴安岭湿地分布预测
 

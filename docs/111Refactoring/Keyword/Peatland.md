@@ -49,6 +49,7 @@ comments: true
 
 - [Revealing the hidden carbon in forested wetland soils | Nature Communications](https://www.nature.com/articles/s41467-024-44888-x) | 泥炭地制图，DSM，实地调查
 - [Open digital mapping as a cost-effective method for mapping peat thickness and assessing the carbon stock of tropical peatlands - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S001670611731306X) | 开放式数字制图是绘制泥炭厚度和评估热带泥炭地碳储量的一种经济高效的方法, DSM, 实地调查
+- [Sensor-based peat thickness mapping of a cultivated bog in Denmark - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706124003203) | 丹麦耕地沼泽的基于传感器的泥炭厚度测绘；近端测量、遥感
 
 ⭐[GMD - A map of global peatland extent created using machine learning (Peat-ML)](https://gmd.copernicus.org/articles/15/4709/2022/gmd-15-4709-2022.html) | 使用公开数据的泥炭地全球范围制图，数字土壤制图
 

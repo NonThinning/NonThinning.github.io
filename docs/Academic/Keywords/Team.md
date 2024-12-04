@@ -25,7 +25,6 @@
 
 ## Soil
 
-[Main Page | ENG - V.V. Dokuchaev Soil Science Institute](https://eng.esoil.ru/)
 
 ## Hydro 
 

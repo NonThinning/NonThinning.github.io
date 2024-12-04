@@ -3,11 +3,9 @@
 
 [daac.ornl.gov for Biogeochemical Dynamics](https://daac.ornl.gov/)
 
-[ASF Data Search (alaska.edu)](https://search.asf.alaska.edu/#/) | NASA
-
-[Earthdata Search | Earthdata Search (nasa.gov)](https://search.earthdata.nasa.gov/search) | NASA
-
-[NASA Earth Exchange (NEX) Data Collection - Registry of Open Data on AWS](https://registry.opendata.aws/nasanex/) |NASA
+- [ASF Data Search (alaska.edu)](https://search.asf.alaska.edu/#/) | NASA
+- [Earthdata Search | Earthdata Search (nasa.gov)](https://search.earthdata.nasa.gov/search) | NASA
+- [NASA Earth Exchange (NEX) Data Collection - Registry of Open Data on AWS](https://registry.opendata.aws/nasanex/) |NASA
 
 [Data Basin](https://databasin.org/)
 
