@@ -31,6 +31,10 @@
 >
 > [Banana Pi BPI-3A6000 Mini Computer with Loongson 3A6000 chip design | BananaPi Docs](https://docs.banana-pi.org/en/BPI-3A6000/BananaPi_BPI-3A6000)
 
+## GNSS
+
+[和芯星通](https://www.unicorecomm.com/)
+
 ## Cyber Security
 
 [QAX](https://en.qianxin.com/) | [商用密码证书可信计划](https://www.qianxin.com/ctp/index.html)

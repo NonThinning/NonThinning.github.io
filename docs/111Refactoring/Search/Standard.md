@@ -1,4 +1,6 @@
 
+## CN
+
 [首页 - 全国标准信息公共服务平台](https://std.samr.gov.cn/)
 
 > 森林资源规划设计调查技术规程 | [国家标准计划 - 全国标准信息公共服务平台](https://std.samr.gov.cn/gb/search/gbDetailed?id=208E4F29ADC5661BE06397BE0A0A21CE)
@@ -20,3 +22,7 @@
 > [土壤 有机碳的测定 燃烧氧化-非分散红外法](https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/jcffbz/201403/W020140421394684147827.pdf)
 
 [全国土壤质量标准化技术委员会](http://www.china-soilquality.com/)
+
+## ISO
+
+[ISO 10694:1995 - Soil quality — Determination of organic and total carbon after dry combustion (elementary analysis)](https://www.iso.org/standard/18782.html)

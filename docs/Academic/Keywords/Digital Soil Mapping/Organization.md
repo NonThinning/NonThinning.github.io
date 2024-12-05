@@ -35,4 +35,3 @@
 
 ------
 
-[Free and Open Source for Geospatial Conference](https://foss4g.org/)

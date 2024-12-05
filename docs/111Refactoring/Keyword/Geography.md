@@ -1,9 +1,21 @@
+---
+data: 2024-12-03
+comments: true
+---
+
+## News
+
+[Canadian Geographic](https://canadiangeographic.ca/) | 加拿大地理，加拿大皇家地理学会出版物
 
 ## Organization
+
+[Free and Open Source for Geospatial Conference](https://foss4g.org/)
 
 [Pangeo: A community for open, reproducible, scalable geoscience](https://www.pangeo.io/) | Python Xarray 作者
 
 [李英冰研究组的主页](https://geo365.net/) | [ybli/bookcode: code for the book of the <<programming test for surveying and mapping>>(测绘程序设计）](https://github.com/ybli/bookcode)
+
+[Land-Atmosphere Interaction Research Group at Sun Yat-sen University](http://globalchange.bnu.edu.cn/home) | 陆地-大气相互作用 中山大学
 
 ## Data
 

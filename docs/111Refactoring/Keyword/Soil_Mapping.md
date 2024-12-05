@@ -1,3 +1,7 @@
+---
+data: 2024-12-03
+comments: true
+---
 
 ## Person
 
@@ -22,6 +26,8 @@
 [黄元元 中国科学院地理科学与资源研究所](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/stxt/202304/t20230428_6747260.html)
 
 [孙孝林 中山大学地理科学与规划学院](https://gp.sysu.edu.cn/teacher/207)
+
+[上官微 中山大学大气科学学院](https://atmos.sysu.edu.cn/teacher/372)
 
 [刘焕军 中国科学院大学](https://people.ucas.edu.cn/~liuhuanjun) | [长春净月潭遥感实验室](https://jyrs.iga.cas.cn/)
 

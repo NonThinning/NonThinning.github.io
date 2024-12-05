@@ -1,3 +1,7 @@
+---
+data: 2024-12-03
+comments: true
+---
 
 ## Viewpoint
 
@@ -11,13 +15,25 @@
 
 [Home - Observatoire Satellital des Forêts d'Afrique Centrale](https://osfac.net/index.php) | 中非森林卫星观测站
 
+[Homepage - Forest Research](https://www.forestresearch.gov.uk/) | 英国林业和树木相关研究的主要组织
+
 [ICP Forests](https://icp-forests.net/) | 评估和监测空气污染对森林影响的国际合作计划
+
+[Forest Monitoring, Land Use & Deforestation Trends | Global Forest Watch](https://www.globalforestwatch.org/) | 数据公众收集、部分数据在线访问
+
+- [LiVegetation: an investigative tool for vegetation mapping in the era of citizen science](https://www.sciengine.com/SSV/doi/10.1360/SSV-2020-0209) | 生物多样性，数据公众收集
+
+[GLAD | Global Land Analysis & Discovery](https://glad.umd.edu/) | 马里兰大学地理科学系的全球土地分析和发现（GLAD）实验室
 
 ## Post
 
 [Satellites offer new ways to study ecosystems—and maybe even save them | Science | AAAS](https://www.science.org/content/article/satellites-offer-new-ways-study-ecosystems-maybe-even-save-them)
 
 - 遥感为在全球范围内实现更快、更标准化的监测提供了可能性。
+
+[Ecology’s remote-sensing revolution](https://www.nature.com/articles/d41586-018-03924-9)
+
+- 卫星数据以及生态学家用来分析它们的工具比以往任何时候都更容易获得和丰富。
 
 ## Data
 
@@ -27,10 +43,16 @@
 
 [Forest Monitoring, Land Use & Deforestation Trends | Global Forest Watch](https://www.globalforestwatch.org/)
 
-[Intact Forest Landscapes](https://www.intactforests.org/) | 完整的森林景观制图，不包含漠河市但有部分大兴安岭山脉区域
+[Intact Forest Landscapes](https://www.intactforests.org/)
+
+- 完整的森林景观制图，不包含漠河市但有部分大兴安岭山脉区域
 
 ## Article
 
 [Need and vision for global medium-resolution Landsat and Sentinel-2 data products - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0034425723004704) | 全球中分辨率 Landsat 和 Sentinel-2 数据产品的需求和愿景
 
 - 土地覆盖、土地覆盖变化、燃烧面积、森林损失、植被指数、物候、动态栖息地指数、反照率、地表温度、积雪覆盖、冰范围、地表水范围和蒸散
+
+[Forestation at the right time with the right species can generate persistent carbon benefits in China | PNAS](https://www.pnas.org/doi/10.1073/pnas.2304988120) | 在正确的时间使用正确的树种植树造林可以在中国产生持久的碳效益
+
+- 物种分布模型MaxEnt

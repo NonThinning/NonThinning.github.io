@@ -1,10 +1,13 @@
-
+---
+data: 2024-12-03
+comments: true
+---
 
 ## Viewpoint
 
 大兴安岭：Luvisol 淋溶土（棕色针叶林土）、Gleysol 湿地土壤（泥炭沼泽土）
 
-## Data
+## Book&Online
 
 [The special book of soils | Soilbook](https://www.soilbook.info/?lang=en) | 土壤剖面照片
 
@@ -26,6 +29,8 @@
 
 ⭐[World Reference Base for Soil Resources](https://obrl-soil.github.io/wrbsoil2022/) | WRB 土壤分类系统
 
+[Publication: Soil Organic Carbon MRV Sourcebook for Agricultural Landscapes](https://hdl.handle.net/10986/35923) | 农业景观土壤有机碳 MRV 资源手册
+
 ## Organization
 
 [ISRIC — World Soil Information](https://www.isric.org/)
@@ -39,3 +44,9 @@
 - [Soil information and data | Global Soil Partnership | Food and Agriculture Organization of the United Nations](https://www.fao.org/global-soil-partnership/areas-of-work/soil-information-and-data/en/)
 - [FAO GloSIS](https://data.apps.fao.org/glosis/?lang=en)
 - [Global Soil Organic Carbon Map v1.5 (GSOC) - Datasets - "FAO catalog"](https://data.apps.fao.org/catalog/dataset/7730e747-eb73-49c9-bfe6-84ebae718743) | 有机碳制图，相对准确
+- [Global Soil Organic Carbon Map – GSOCmap v.1.6](https://openknowledge.fao.org/items/612deb84-1cb3-41cc-97cb-72e219e9f5d0)
+
+[Theoretical Ecosystem Ecology](https://www.bgc-jena.mpg.de/TEE/index.html)
+
+- [Open Science](https://www.bgc-jena.mpg.de/TEE/software/)
+- [MPIBGC-TEE/SoilR: Development version of the SoilR package](https://github.com/MPIBGC-TEE/SoilR)
