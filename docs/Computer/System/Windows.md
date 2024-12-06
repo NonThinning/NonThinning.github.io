@@ -79,7 +79,9 @@
 
 [易数一键还原](https://www.onekeyrestore.cn/)
 
-[微PE工具箱 - 超好用的装机维护工具](https://www.wepe.com.cn/) | ♥
+[微PE工具箱 - 超好用的装机维护工具](https://www.wepe.com.cn/)
+
+[FirPE Project - 也许是最适合年轻人使用的第三方WinPE](https://www.firpe.cn/)
 
 ## Proxy
 

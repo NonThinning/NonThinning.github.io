@@ -50,3 +50,7 @@ comments: true
 
 - [Open Science](https://www.bgc-jena.mpg.de/TEE/software/)
 - [MPIBGC-TEE/SoilR: Development version of the SoilR package](https://github.com/MPIBGC-TEE/SoilR)
+
+[Home | Scotland's soils](https://soils.environment.gov.scot/) | 苏格兰土壤信息系统
+
+- [Mapping peat in Scotland with remote sensing and site characteristics - Aitkenhead - 2017 - European Journal of Soil Science - Wiley Online Library](https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/ejss.12393) | 苏格兰泥炭地制图
