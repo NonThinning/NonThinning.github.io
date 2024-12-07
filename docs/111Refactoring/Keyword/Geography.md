@@ -32,3 +32,8 @@ comments: true
 
 [IDB - Index DataBase](https://www.indexdatabase.de/) | 遥感指数
 
+## Article
+
+[Sentinel-1 SAR Backscatter Analysis Ready Data Preparation in Google Earth Engine](https://www.mdpi.com/2072-4292/13/10/1954) | GEE哨兵-1SAR数据处理
+
+- [adugnag/gee_s1_ard: Creates an analysis ready sentinel-1 SAR image collection in Google Earth Engine by applying additional border noise correction, speckle filtering and radiometric terrain normalization.](https://github.com/adugnag/gee_s1_ard)

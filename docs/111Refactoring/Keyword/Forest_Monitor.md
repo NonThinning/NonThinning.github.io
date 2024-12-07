@@ -17,6 +17,9 @@ comments: true
 
 [Homepage - Forest Research](https://www.forestresearch.gov.uk/) | 英国林业和树木相关研究的主要组织
 
+- [Home - The Institute of Chartered Foresters](https://www.charteredforesters.org/) | 英国特许林务员协会
+- [The UK Forestry Standard - GOV.UK](https://www.gov.uk/government/publications/the-uk-forestry-standard)
+
 [ICP Forests](https://icp-forests.net/) | 评估和监测空气污染对森林影响的国际合作计划
 
 [Forest Monitoring, Land Use & Deforestation Trends | Global Forest Watch](https://www.globalforestwatch.org/) | 数据公众收集、部分数据在线访问

@@ -18,3 +18,5 @@ Tachiyomi: [Home | Mihon](https://mihon.app/) | [Keiyoushi](https://keiyoushi.gi
 [安田現象（gensho_yasuda）| Pinterest](https://jp.pinterest.com/gensho_yasuda/)
 
 [TSUKUSHI TEAM つくしチーム](https://tsukushi-team.com/)
+
+[ASCII Art and ANSI Art - Text Art by Roy/SAC - Superior Art Creations](http://www.roysac.com/default.html) | Roy/SAC aka Carsten Cumbrowski

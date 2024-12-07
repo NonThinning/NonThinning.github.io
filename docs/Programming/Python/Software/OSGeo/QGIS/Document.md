@@ -48,6 +48,8 @@ TianDiTu: [TianDiTu Tools](https://plugins.qgis.org/plugins/tianditu-tools/)
 
 Project Packager: [Project Packager](https://plugins.qgis.org/plugins/ProjectPackager/) 
 
+MOLUSCE: [nextgis/qgis_molusce: Modules for Land Use Change Simulations](https://github.com/nextgis/qgis_molusce)
+
 ------
 
 [GRASS GIS 8.3.2dev Reference Manual - GRASS GIS Manual (osgeo.org)](https://grass.osgeo.org/grass83/manuals/index.html)
@@ -56,9 +58,16 @@ Project Packager: [Project Packager](https://plugins.qgis.org/plugins/ProjectPac
 
 [Orfeo ToolBox – Orfeo ToolBox is not a black box](https://www.orfeo-toolbox.org/)
 
+[Web GIS made easy | NextGIS](https://nextgis.com/)
+
+- [NextGIS QGIS](https://nextgis.com/nextgis-qgis/)
+- [NextGIS Mobile](https://nextgis.com/nextgis-mobile/)
+
 ## Blog
 
 [QGIS及Open Geodata資源網@Sinica](https://gis.rchss.sinica.edu.tw/qgis/)
+
+[一般社団法人OSGeo日本支部(OSGeo.JP)](https://www.osgeo.jp/)
 
 ## Tips
 

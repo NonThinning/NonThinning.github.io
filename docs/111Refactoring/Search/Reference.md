@@ -12,8 +12,15 @@
 
 [CNKI Overseas](https://www.cnki.net/)
 
-- [ScienceReading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do) |
+- [ScienceReading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do)
 - [高等教育出版社产品信息检索系统](https://xuanshu.hep.com.cn/)
+- [Frontiers Journals of Higher Education Press](https://journal.hep.com.cn/hep/EN/hep/home.shtml)
+
+[The Innovation](https://www.the-innovation.org/) | A Cell Press partner journal
+
+- [One Earth: Cell Press](https://www.cell.com/one-earth/home)
+
+[Frontiers | Publisher of peer-reviewed articles in open access journals](https://www.frontiersin.org/)
 
 ## Search
 
@@ -28,6 +35,8 @@
 [国家科技报告服务系统](https://www.nstrs.cn/index)
 
 [国外学位论文中国集团全文检索平台](https://www.pqdtcn.com/)
+
+[中国人民大学 - 云书房](https://vstudy.ruc.edu.cn/mystudy/search/index)
 
 ## Open
 
@@ -44,6 +53,10 @@
 [SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)
 
 > [Library Genesis](https://www.ooopn.com/tool/libgen/) | [安娜的档案](https://zh.annas-archive.org/) | [Z-library Project](https://z-lib.gs/)
+
+## Information
+
+[SciProfiles | Scholarly community for scientific authors](https://sciprofiles.com/)
 
 ## Journal
 

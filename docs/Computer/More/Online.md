@@ -12,3 +12,5 @@
 [V2EX](https://www.v2ex.com/)
 
 [Компьютерный форум Ru.Board](https://forum.ru-board.com/) | 计算机相关
+
+[网上读书园地 - Powered by Discuz!](https://www.readfree.net/bbs/) | 超星读秀

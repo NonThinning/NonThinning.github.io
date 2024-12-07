@@ -24,6 +24,7 @@ comments: true
 ⭐[The Canadian System of Soil Classification, 3rd edition](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html) | CA 土壤分类系统，在线访问
 
 - [Welcome - Soils of Canada](https://soilsofcanada.ca/index.php) | 包含对加拿大土壤分类的部分解释
+- [Digging into Canadian Soils – Simple Book Publishing](https://openpress.usask.ca/soilscience/) | 挖掘加拿大土壤——土壤科学简介
 
 ⭐[国家土壤信息服务平台](http://www.soilinfo.cn/map/index.aspx) | CN 土壤分类
 
