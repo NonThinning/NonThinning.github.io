@@ -18,7 +18,7 @@ Tools：[CTFever Toolkit by uniiem](https://ctfever.uniiem.com/)
 
 Cyberspace：[ZoomEye](https://www.zoomeye.org/) | [360网络空间测绘](https://quake.360.net/quake/#/index) | [FOFA网络空间测绘系统](https://fofa.info/)
 
-OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint) | [IntelTechniques by Michael Bazzell](https://inteltechniques.com/index.html)
+OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint) | [IntelTechniques by Michael Bazzell](https://inteltechniques.com/index.html) | [你分享的链接泄露隐私了吗？](https://uid.ejfkdev.com/)
 
 [CTF Wiki](https://ctf-wiki.org/) | [Hello CTF](https://hello-ctf.com/)
 

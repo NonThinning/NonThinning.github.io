@@ -9,13 +9,23 @@
 
 [QField - Efficient field work built for QGIS](https://qfield.org/)
 
+- [OPENGIS.ch – OPEN-SOURCE GEONINJAS](https://www.opengis.ch/)
+- [opengisch/QField: A simplified touch optimized interface for QGIS](https://github.com/opengisch/QField)
+- [Pictures - QField Ecosystem Documentation](https://docs.qfield.org/how-to/pictures/) | QField的高级用法
+
 [barbeau/gpstest: The #1 open-source Android GNSS/GPS test program](https://github.com/barbeau/gpstest)
+
+[kylecorry31/Trail-Sense: An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.](https://github.com/kylecorry31/Trail-Sense)
 
 ## Browser
 
 [海阔视界 (lanzouj.com)](https://haikuo.lanzouj.com/b0ekkjzi)
 
 [Alook浏览器官网](https://www.alookweb.com/)
+
+[mozilla-mobile/reference-browser: A full-featured browser reference implementation using Mozilla Android Components.](https://github.com/mozilla-mobile/reference-browser)
+
+[Fennec F-Droid | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 
 ## BBS
 
@@ -43,7 +53,14 @@
 
 ## Picture
 
+[Open Camera](https://opencamera.org.uk/) | 可限制定位精度达到要求后拍照
+
+- [Open Camera | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
+- [Open Camera download | SourceForge.net](https://sourceforge.net/projects/opencamera/)
+
 [WSTxda/QP-Gallery-Releases：QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) 快图 32bit
+
+[deckerst/aves: Aves is a gallery and metadata explorer app, built for Android with Flutter.](https://github.com/deckerst/aves)
 
 ## Input
 

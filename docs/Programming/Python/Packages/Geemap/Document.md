@@ -78,6 +78,14 @@ scoop install main/nodejs
 
 [gee-community/ee-packages-py: Python version of some usefuly Google Earth Engine utilities (migrated from /users/gena/packages JavaScript)](https://github.com/gee-community/ee-packages-py)
 
+[jmlea16/GEEClimT: Google Earth Engine Climate Tool - easy point and click interface to extract climate reanalysis data for research, education and outreach](https://github.com/jmlea16/GEEClimT)
+
+- [University of Liverpool Google Earth Engine Tools](https://liverpoolgee.wordpress.com/)
+
+[Sentinel-1 SAR Backscatter Analysis Ready Data Preparation in Google Earth Engine](https://www.mdpi.com/2072-4292/13/10/1954) | GEE哨兵-1SAR数据处理
+
+- [adugnag/gee_s1_ard: Creates an analysis ready sentinel-1 SAR image collection in Google Earth Engine by applying additional border noise correction, speckle filtering and radiometric terrain normalization.](https://github.com/adugnag/gee_s1_ard)
+
 ## People
 
 [fitoprincipe (Rodrigo E. Principe)](https://github.com/fitoprincipe)
@@ -105,3 +113,4 @@ scoop install main/nodejs
 [Open Land Data services](https://openlandmap.github.io/book/) | STAC Support
 
 [AI Earth (aliyun.com)](https://engine-aiearth.aliyun.com/#/)
+

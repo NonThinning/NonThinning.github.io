@@ -7,6 +7,8 @@ comments: true
 
 [Global Water Futures | University of Saskatchewan](https://gwf.usask.ca/index.php) | 全球水资源未来团队
 
+[数字黑河](https://heihe.tpdc.ac.cn/zh-hans/)
+
 ## Data
 
 [HydroBASINS](https://www.hydrosheds.org/products/hydrobasins) | 流域划分

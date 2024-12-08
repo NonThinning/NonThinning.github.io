@@ -13,11 +13,15 @@
 
 [哔哩轻小说](https://www.bilinovel.com/) | [轻小说文库](https://www.wenku8.net/index.php) | [轻之国度](https://www.lightnovel.us/) | [神凑轻小说文库](https://m.shencou.com/) | [輕小說百科](https://lnovel.tw/)
 
+- [Light-Novel-Yuedu-Source/docs/websites.md at main · ZWolken/Light-Novel-Yuedu-Source · GitHub](https://github.com/ZWolken/Light-Novel-Yuedu-Source/blob/main/docs/websites.md)
+
 [书格 (shuge.org)](https://www.shuge.org/) | [中國哲學書電子化計劃](https://ctext.org/zhs)
 
 [搜书吧](http://www.soushu2025.com)
 
 ## Single
+
+[Author Nelson Johnson / Boardwalk Empire & Darrow's Nightmare](https://nelsonjohnsonauthor.com/)
 
 [Judge Dee / Robert van Gulik](http://www.judge-dee.info/welcome/index.jsp)
 

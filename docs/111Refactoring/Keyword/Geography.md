@@ -17,7 +17,16 @@ comments: true
 
 [Land-Atmosphere Interaction Research Group at Sun Yat-sen University](http://globalchange.bnu.edu.cn/home) | 陆地-大气相互作用 中山大学
 
+[PERMALAB: 地表过程集成建模 – Zhuotong Nan's research group](https://permalab.science/)
+
+- [南宅自留地 | Zhuotong Nan's shared space](https://nanzt.info/)
+- [nanzt](https://github.com/nanzt)
+
+[Satellite Data Analytics And Imagery Analysis By EOSDA](https://eos.com/)
+
 ## Data
+
+[Earth Observation Missions - eoPortal](https://www.eoportal.org/) | 卫星任务
 
 [WMO OSCAR  |  Observing Systems Capability Analysis and Review Tool - Home](https://space.oscar.wmo.int/) | 卫星信息
 
@@ -34,6 +43,3 @@ comments: true
 
 ## Article
 
-[Sentinel-1 SAR Backscatter Analysis Ready Data Preparation in Google Earth Engine](https://www.mdpi.com/2072-4292/13/10/1954) | GEE哨兵-1SAR数据处理
-
-- [adugnag/gee_s1_ard: Creates an analysis ready sentinel-1 SAR image collection in Google Earth Engine by applying additional border noise correction, speckle filtering and radiometric terrain normalization.](https://github.com/adugnag/gee_s1_ard)

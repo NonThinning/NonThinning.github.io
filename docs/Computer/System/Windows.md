@@ -117,6 +117,8 @@ IP纯净度查询: [PING0](https://ping0.cc/) | [Scamalytics](https://scamalytic
 
 [AdGuard AdBlocker Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html)
 
+- [AdguardTeam/AdguardBrowserExtension： AdGuard 浏览器扩展](https://github.com/AdguardTeam/AdguardBrowserExtension)
+
 ## Programming
 
 [WinGet](https://github.com/microsoft/winget-cli) | [Scoop](https://github.com/ScoopInstaller/Scoop)

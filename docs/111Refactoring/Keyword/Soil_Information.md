@@ -20,6 +20,7 @@ comments: true
 ⭐[Keys to Soil Taxonomy | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/keys-to-soil-taxonomy) | US 土壤分类
 
 - [Soil Survey Manual | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-survey-manual) | NCSS
+- [Field Book for Describing and Sampling Soils | Natural Resources Conservation Service](https://www.nrcs.usda.gov/resources/guides-and-instructions/field-book-for-describing-and-sampling-soils) | 土壤描述和采样现场手册
 
 ⭐[The Canadian System of Soil Classification, 3rd edition](https://sis.agr.gc.ca/cansis/taxa/cssc3/index.html) | CA 土壤分类系统，在线访问
 
@@ -55,3 +56,10 @@ comments: true
 [Home | Scotland's soils](https://soils.environment.gov.scot/) | 苏格兰土壤信息系统
 
 - [Mapping peat in Scotland with remote sensing and site characteristics - Aitkenhead - 2017 - European Journal of Soil Science - Wiley Online Library](https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/ejss.12393) | 苏格兰泥炭地制图
+
+## Data
+
+[Native database in China--based on the second national soil soil survey data sets](https://www.scidb.cn/en/detail?dataSetId=633694460877733888)
+
+- [Soil Type Database of China: A nationwide soil dataset based on the Second National Soil Survey](https://www.sciengine.com/CSD/doi/10.11922/csdata.170.2015.0033)
+- [Cladistic analysis of Chinese Soil Taxonomy - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S235200941730055X)
