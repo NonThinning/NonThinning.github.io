@@ -70,3 +70,23 @@ comments: true
 [Organic matter decomposition in mountain peatlands: effects of substrate quality and peatland degradation | Plant and Soil](https://link.springer.com/article/10.1007/s11104-024-06725-4) | 山地泥炭地有机质分解：基质质量对泥炭地退化的影响；包含完整和退化的泥炭地图片
 
 [Carbon budgets for 1.5 and 2 °C targets lowered by natural wetland and permafrost feedbacks | Nature Geoscience](https://www.nature.com/articles/s41561-018-0174-9) | 自然湿地和永久冻土反馈降低的 1.5 °C 和 2 °C 目标的碳收支；湿地和冻土的碳释放
+
+[Vegetation transition from meadow to forest reduces priming effect on SOM decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071723001852) | 植被从草甸向森林的过渡降低了对 SOM 分解的引发效应
+
+- [Succession from meadow to mature forest: Impacts on soil biological, chemical and physical properties—Evidence from the Pieniny Mountains, Poland - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816220300527)
+- [Resetting the baseline: using machine learning to find lost meadows | Landscape Ecology](https://link.springer.com/article/10.1007/s10980-023-01726-7) | [Sierra Nevada Meadows](https://meadows.ucdavis.edu/) | 草甸数据集
+- 草甸-森林过渡带
+
+[Evaluation of Soil Organic Layers Thickness and Soil Organic Carbon Stock in Hemiboreal Forests in Latvia](https://www.mdpi.com/1999-4907/12/7/840)
+
+> 以泥炭层上界作为土壤0cm
+
+[Large-scale probabilistic identification of boreal peatlands using Google Earth Engine, open-access satellite data, and machine learning | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218165) | 泥炭地制图
+
+[Emerging forest–peatland bistability and resilience of European peatland carbon stores | PNAS](https://www.pnas.org/doi/10.1073/pnas.2101742118?doi=10.1073%2Fpnas.2101742118) | （北方）新兴森林-泥炭地碳储量的双稳定性和韧性
+
+[我国东北地区沼泽湿地碳累积研究 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=YMwpULBJqz5vKKVOniieem8uxXEj6mw8Ili_tAzh8i6m6K6tUGjXUJ9Wgdk5O3xPpCi8XbdNlFcYB11EXJ9YNPRvXPuSYttT0SaZfBaN8LJOkFfAe4kLML43vEMvoPOIC9xb_lqiDj05JsA9H012n5F_WdovzzMdrIxHY7ffCIhF8P6IoDz4wNIEFD1TBApN9rAUqBTNn_o=&uniplatform=NZKPT&language=CHS)
+
+[东北地区中高纬沼泽湿地演化过程及驱动因子分析 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=YMwpULBJqz4fmZ4ago9_9wq5uIpfRUfMQLg7rQGqKTSXObTD4I8IpZ6rBhN9q3YlIm3PTh8UwL0yxPqf_34R6nKblmRkP2Cj2_CmrwyLE0QGnKwf8kLLipOfUhLdHpVWNWJg81n1yi4ZUj2o9rtcesdI0TNXEzQMkmcaLZ8meaGVLZBB9F_jE739kec0kTNn-SRXsdd3fdo=&uniplatform=NZKPT&language=CHS)
+
+[苔草草丘湿地景观—结构—碳汇功能变化对水文条件的响应 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=YMwpULBJqz4EWziDj_m7GmhwEnsOrpxu9gXNbLlb1d5q1CaPh5tiMajWQbQtH02JPKjwXKLFuy2dj1hWLXJYPVVFU1oEVZFLTI0uwAu27pYLPsJYY1cmvlPj9BMBin-TCiKpHtXifTFW_FRRaBKsRegfdNonWKqsj1loW9lTySkMarb1yJdXQ1hy1eOVTl5WSa28OrW8Yo4=&uniplatform=NZKPT&language=CHS)

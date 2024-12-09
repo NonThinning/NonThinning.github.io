@@ -39,6 +39,8 @@ comments: true
 
 - [ISRIC Data Hub](https://data.isric.org/geonetwork/srv/eng/catalog.search#/home)
 - [Harmonized World Soil Database (HWSD) version 2.0](https://data.isric.org/geonetwork/srv/eng/catalog.search#/metadata/54aebf11-ec73-4ff8-bf6c-ecff4b0725ea)
+- [SoilGrids250m 2.0](https://soilgrids.org/)
+- [ISRIC — World Soil Information](https://github.com/ISRICWorldSoil)
 
 [FAO SOILS PORTAL | Food and Agriculture Organization of the United Nations](https://www.fao.org/soils-portal/en/)
 
@@ -47,6 +49,14 @@ comments: true
 - [FAO GloSIS](https://data.apps.fao.org/glosis/?lang=en)
 - [Global Soil Organic Carbon Map v1.5 (GSOC) - Datasets - "FAO catalog"](https://data.apps.fao.org/catalog/dataset/7730e747-eb73-49c9-bfe6-84ebae718743) | 有机碳制图，相对准确
 - [Global Soil Organic Carbon Map – GSOCmap v.1.6](https://openknowledge.fao.org/items/612deb84-1cb3-41cc-97cb-72e219e9f5d0)
+- [FAO - Soil Information and Data](https://github.com/FAO-SID)
+- [Global Soil Partnership | Food and Agriculture Organization of the United Nations](https://www.fao.org/global-soil-partnership/en/)
+
+[Iuss - iuss.org](https://www.iuss.org/)
+
+- [Centennial of the IUSS Florence – Italy May 19 – 21, 2024 – Centennial of the IUSS Florence](https://centennialiuss2024.org/)
+- WCSS: [The 23rd World Congress of Soil Science](http://www.23wcss.org.cn/) | [22ND WORLD CONGRESS OF SOIL SCIENCE](https://soils.org.uk/wcss22/)
+- [NAFSC-ISFS2018](https://www.cef-cfr.ca/index.php?n=Colloque.NAFSC-ISFS2018)
 
 [Theoretical Ecosystem Ecology](https://www.bgc-jena.mpg.de/TEE/index.html)
 
@@ -56,6 +66,20 @@ comments: true
 [Home | Scotland's soils](https://soils.environment.gov.scot/) | 苏格兰土壤信息系统
 
 - [Mapping peat in Scotland with remote sensing and site characteristics - Aitkenhead - 2017 - European Journal of Soil Science - Wiley Online Library](https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/ejss.12393) | 苏格兰泥炭地制图
+
+[ncss-tech](https://github.com/ncss-tech)
+
+- [AQP](https://ncss-tech.github.io/AQP/) | Algorithms for Quantitative Pedology project
+
+[ESDAC - European Commission](https://esdac.jrc.ec.europa.eu/)
+
+[Home - British Society of Soil Science](https://soils.org.uk/)
+
+[Home - Soil | Soil Science Society of America](https://www.soils.org/) | [SSSA Book Series :](https://acsess.onlinelibrary.wiley.com/series/5170)
+
+[ISMC - The International Soil Modeling Consortium — ISMC](https://soil-modeling.org/)
+
+[ФНЦ Биоразнообразия наземной биоты Восточной Азии ДВО РАН (ФНЦ Биоразнообразия ДВО РАН)](https://www.biosoil.ru/Home)
 
 ## Data
 

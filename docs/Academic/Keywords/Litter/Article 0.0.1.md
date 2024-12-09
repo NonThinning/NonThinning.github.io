@@ -1,2 +1,0 @@
-
-[Living and decaying roots as regulators of soil aggregation and organic matter formation—from the rhizosphere to the detritusphere - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071724001925) | 根系分解进入到碎屑层

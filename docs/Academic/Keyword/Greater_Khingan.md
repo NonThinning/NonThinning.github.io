@@ -28,6 +28,10 @@ comments: true
 
 - Black Dragon fire; Emuer River / Pangu River 受林火影响
 
+⭐[Revealing post-megafire spectral and compositional recovery in the Siberian boreal forest using Landsat time series and regression-based unmixing approach - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0034425724003250) | Top 森林恢复，1987.05.06火灾
+
+- [Continuous Tracking of Forest Disturbance and Recovery in the Greater Khingan Mountains from Annual Landsat Imagery](https://www.mdpi.com/2072-4292/15/22/5426) | dNBR取值; GEE; 森林恢复，抢救性采伐, 1987.05.06火灾
+
 [Predicting the wetland distributions under climate warming in the Great Xing’an Mountains, northeastern China | Ecological Research](https://link.springer.com/article/10.1007/s11284-011-0819-2) | 气候变暖下大兴安岭湿地分布预测
 
 [Drivers of lightning- and human-caused fire regimes in the Great Xing’an Mountains - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0378112714003533) | 大兴安岭闪电和人为火灾的驱动因素
@@ -48,3 +52,27 @@ comments: true
 - Guoping Wang, Chuanyu Gao; 大兴安岭泥炭地历史重建
 - [Diatom evidence for late Holocene environmental change in a permafrost peatland in the northern Greater Khingan Mountains, Northeast China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031018223002833) | 中国东北大兴安岭北部永久冻土泥炭地全新世晚期环境变化的硅藻证据
 - [Organic matter sources in permafrost peatlands changed by high-intensity fire during the last 150 years in the northern Great Khingan Mountains, China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S003101822300439X) | 中国北部大兴安岭地区多年冻土泥炭地近 150 年高温火灾改变的有机质来源
+
+[Characteristics of Larch Forests in Daxingan Mountains, Northeast China | SpringerLink](https://link.springer.com/chapter/10.1007/978-1-4020-9693-8_19)
+
+- 火灾频率和强度与植被恢复速度的相互作用；
+- 杜香等灌木形成植被覆盖，抑制天然林再生；烧毁程度差异对于自然再生的影响
+
+[大兴安岭多年冻土泥炭地无机氮动态对秋季冻融的响应 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=xEDmK2-VgJifg1Go7LZieWl4NJJtYRNPCwQGhzocadR2H1saW31bgsReaDg8KVXCQRZ5JtSbx3nVO9PJzHnyfvfQ5YZRvcOFuCP_B_cBQEbMzAenN1cIwCCi7a9l4gCXQNKwcBWH0lxteX0HwyRJKuwbfGB1i7sHEPAkS_KNG3qHxuhN9CBwwlZ6Vo-xNEQV&uniplatform=NZKPT&language=CHS)
+
+- boreal forests & peatlands；泥炭地和泥炭沼泽土是否等价？
+
+[ESSD - An integrated dataset of ground hydrothermal regimes and soil nutrients monitored in some previously burned areas in hemiboreal forests in Northeast China during 2016–2022](https://essd.copernicus.org/articles/16/5009/2024/)
+
+- hemiboreal forests；半北方森林；dNBR取值范围；世界其他地区的半北方森林？
+
+[Vegetation change at the southern boreal forest margin in Northeast China over the last millennium: The role of permafrost dynamics - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031018220304041)
+
+- 植被改变，北方森林南缘（半北方森林）；冻土南缘
+
+[Full article: Differentiating effects of salvage logging and recovery patterns on post-fire boreal forests in Northeast China using a modified forest disturbance index](https://www.tandfonline.com/doi/full/10.1080/15481603.2023.2188674)
+
+
+
+
+

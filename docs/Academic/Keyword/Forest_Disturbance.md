@@ -1,5 +1,39 @@
+---
+data: 2024-12-03
+comments: true
+---
 
-## Forest Disturbances
+## Organization
+
+[Welcome | Fire Research and Management Exchange System](https://www.frames.gov/)
+
+## Software
+
+[Forest](https://forest.jrc.ec.europa.eu/en/activities/lpa/gtb/) | GuidosToolbox (GTB)
+
+> [ec-jrc/GTB: GTB source code](https://github.com/ec-jrc/GTB)
+
+[FlamMap | Missoula Fire Sciences Laboratory](https://www.firelab.org/project/flammap)
+
+[FireGrowthModel.ca - W.I.S.E.](https://firegrowthmodel.ca/pages/wise_software_e.html)
+
+> [WISE-Developers/WISE_Application: WISE_Application formerly known as WISE](https://github.com/WISE-Developers/WISE_Application)
+
+## Data
+
+[NASA | LANCE | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) | 卫星火点
+
+[Remote Sensing | Free Full-Text | 30 m Resolution Global Annual Burned Area Mapping Based on Landsat Images and Google Earth Engine](https://www.mdpi.com/2072-4292/11/5/489) | [Updated 30 m resolution global annual burned area map - Remote Sensing of Global Change](https://vapd.gitlab.io/post/gabam/) | 年度火烧面积
+
+## Thesis
+
+[Impacts of a changing fire frequency on soil carbon stocks in interior Alaskan boreal forests](https://drum.lib.umd.edu/items/a624253d-9d4d-4112-a421-3bbdf80fc039)
+
+[INTEGRATED MONITORING OF DISTURBANCE AND FOREST ATTRIBUTES](https://drum.lib.umd.edu/items/20205c26-4d91-4bf4-8f47-cb9730d6279b/full)
+
+## Article
+
+[Boreal Forest Snow Damage Mapping Using Multi-Temporal Sentinel-1 Data](https://www.mdpi.com/2072-4292/11/4/384) | 使用多时态 Sentinel-1 数据的北方森林雪害制图
 
 [Mapping the forest disturbance regimes of Europe | Nature Sustainability](https://www.nature.com/articles/s41893-020-00609-y)
 
@@ -13,7 +47,7 @@
 
 > [Patawaitte/FoDiM: Boreal Forest Disturbance Map, using Deep Learning](https://github.com/Patawaitte/FoDiM?tab=readme-ov-file) | Code
 
-## Wildfire
+### Wildfire
 
 [Wildfire severity and vegetation recovery drive post‐fire evapotranspiration in a southwestern pine‐oak forest, Arizona, USA - Poulos - 2021 - Remote Sensing in Ecology and Conservation - Wiley Online Library](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.210) | 火灾后植被基质和火灾严重程度对蒸散的影响，ECOSTRESS数据
 

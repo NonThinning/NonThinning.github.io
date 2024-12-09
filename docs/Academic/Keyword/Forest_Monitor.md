@@ -28,6 +28,8 @@ comments: true
 
 [GLAD | Global Land Analysis & Discovery](https://glad.umd.edu/) | 马里兰大学地理科学系的全球土地分析和发现（GLAD）实验室
 
+[Global Forest Resources Assessments | Food and Agriculture Organization of the United Nations](https://www.fao.org/forest-resources-assessment/en/)
+
 ## Post
 
 [Satellites offer new ways to study ecosystems—and maybe even save them | Science | AAAS](https://www.science.org/content/article/satellites-offer-new-ways-study-ecosystems-maybe-even-save-them)
@@ -49,6 +51,14 @@ comments: true
 [Intact Forest Landscapes](https://www.intactforests.org/)
 
 - 完整的森林景观制图，不包含漠河市但有部分大兴安岭山脉区域
+
+## Thesis
+
+[Modelling forest regeneration in Europe — Research@WUR](https://research.wur.nl/en/publications/modelling-forest-regeneration-in-europe)
+
+[FUSING GEDI LIDAR AND TANDEM-X INSAR OBSERVATIONS FOR IMPROVED FOREST STRUCTURE AND BIOMASS MAPPING](https://drum.lib.umd.edu/items/02d22986-c09c-4989-aa1f-80610e0791a7)
+
+[Modelling Forest Inventory and Biophysical Variables for an Uneven-Aged Forest Using Multi-Source Remotely-Sensed Data](https://qspace.library.queensu.ca/items/76f9dcfa-3bd1-4c62-b2e8-bcc541f9764e)
 
 ## Article
 

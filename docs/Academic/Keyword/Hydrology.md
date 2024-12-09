@@ -9,6 +9,12 @@ comments: true
 
 [数字黑河](https://heihe.tpdc.ac.cn/zh-hans/)
 
+[Future Water Systems Lab](https://future-water.org/)
+
+[清华遥感水文团队](https://www.hydrors.cn/)
+
+[EcoHAT](https://ecohat.bnu.edu.cn/)
+
 ## Data
 
 [HydroBASINS](https://www.hydrosheds.org/products/hydrobasins) | 流域划分
@@ -56,3 +62,7 @@ comments: true
 [OpenCDSS/cdss-app-statecu-fortran: Colorado's Decision Support Systems (CDSS) StateCU consumptive use model code, documentation, tests](https://github.com/OpenCDSS/cdss-app-statecu-fortran) | 水资源消耗建模
 
 - [Welcome to Colorado's Decision Support Systems! | Colorado's Decision Support Systems](https://cdss.colorado.gov/)
+
+## Article
+
+[天然河湾几何形态统计分析](http://skxjz.nhri.cn/article/id/1696)

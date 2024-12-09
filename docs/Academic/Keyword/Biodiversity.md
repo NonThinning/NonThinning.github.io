@@ -3,6 +3,14 @@ data: 2024-12-03
 comments: true
 ---
 
+## Organization
+
+[Biodiversity and Ecoinformatics Group](https://ecoinfor.github.io/cn.html)
+
+[Ming Chen's Group of Bioinformatics!](https://bis.zju.edu.cn/binfo/index.htm)
+
+[the-brown-lab: spatial evolutionary evology & conservation](https://www.jasonleebrown.org/) | [Software | the-brown-lab](https://www.jasonleebrown.org/software) | SDMs
+
 ## Data
 
 [Terrestrial Ecoregions of the World | Publications | WWF](https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world)

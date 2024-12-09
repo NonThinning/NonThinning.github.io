@@ -18,3 +18,11 @@
 [LLeiSong/sentinelPot: This is a python package to preprocess sentinel-1&2 imagery](https://github.com/LLeiSong/sentinelPot)
 
 [Py6S - A Python interface to 6S — Py6S 1.9.2 documentation](https://py6s.readthedocs.io/en/latest/)
+
+## Compute
+
+[pyopencl ·PyPI](https://pypi.org/project/pyopencl/)
+
+- [pyopencl 2024.3 documentation](https://documen.tician.de/pyopencl/)
+- [OpenCL Overview - The Khronos Group Inc](https://www.khronos.org/opencl/)
+- [pycuda 2024.1.2 documentation](https://documen.tician.de/pycuda/)

@@ -3,6 +3,8 @@
 
 [Ovear's Blog – I'am Ovear,Ovear is me.](https://ovear.info/) | [X岛揭示板](https://www.nmbxd1.com/Forum)
 
+[obaby@mars – Artificial Intelligence / Reverse Engineering / Internet of Things / Full Stack Developer](https://oba.by/)
+
 ## BBS
 
 [LINUX DO](https://linux.do/) | [Linux DO 导航站](https://nav.linux.do/)
