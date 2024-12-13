@@ -57,6 +57,8 @@
 
 [Windows Firewall Control](https://www.binisoft.org/wfc) | Install Cracked Software Use, Like ArcGIS
 
+[Puran Software - Quality First](http://www.puransoftware.com/index.html)
+
 ## Uninstall
 
 [Bulk Crap Uninstaller - Remove large amounts of unwanted applications](https://www.bcuninstaller.com/) | [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)

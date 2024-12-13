@@ -29,6 +29,8 @@ comments: true
 
 ⭐[国家土壤信息服务平台](http://www.soilinfo.cn/map/index.aspx) | CN 土壤分类
 
+- [第三次全国土壤普查 中国科学院南京土壤研究所](https://www.issas.cas.cn/tnss/)
+
 ⭐[World Reference Base for Soil Resources](https://obrl-soil.github.io/wrbsoil2022/) | WRB 土壤分类系统
 
 [Publication: Soil Organic Carbon MRV Sourcebook for Agricultural Landscapes](https://hdl.handle.net/10986/35923) | 农业景观土壤有机碳 MRV 资源手册

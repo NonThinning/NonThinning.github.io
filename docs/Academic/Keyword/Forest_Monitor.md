@@ -69,3 +69,5 @@ comments: true
 [Forestation at the right time with the right species can generate persistent carbon benefits in China | PNAS](https://www.pnas.org/doi/10.1073/pnas.2304988120) | 在正确的时间使用正确的树种植树造林可以在中国产生持久的碳效益
 
 - 物种分布模型MaxEnt
+
+[A Global 250-m Downscaled NDVI Product from 1982 to 2018](https://www.mdpi.com/2072-4292/14/15/3639) | 1982 年至 2018 年全球 250 m 降尺度 NDVI 产品；含代码

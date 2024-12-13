@@ -55,6 +55,8 @@ comments: true
 
 [isikdogan/rivamap: an automated river analysis and mapping engine](https://github.com/isikdogan/rivamap) | 河流形态
 
+[Fluvial Corridor Toolbox](https://tramebleue.github.io/fct-cli/)
+
 [cyschneck/centerline-width: A Python package to find the centerline and width of rivers based on the latitude and longitude of the right and left bank](https://github.com/cyschneck/centerline-width) | 河流中心线
 
 [ZhiLiHydro/pyRiverBed: Generate Synthetic Riverbed Topography for Meandering Rivers](https://github.com/ZhiLiHydro/pyRiverBed) | 河床计算

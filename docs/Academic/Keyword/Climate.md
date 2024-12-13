@@ -22,3 +22,14 @@ comments: true
 - [What are the changes from ERA-Interim to ERA5 and ERA5-Land? - Copernicus Knowledge Base - ECMWF Confluence Wiki](https://confluence.ecmwf.int/pages/viewpage.action?pageId=74764925)
 
 [Welcome to ECOSTRESS — ECOSTRESS](https://ecostress.jpl.nasa.gov/) | 植被/裸地温度
+
+## Model
+
+### Data Assimilation
+
+[GMD - The CarbonTracker Data Assimilation Shell (CTDAS) v1.0: implementation and global carbon balance 2001–2015](https://gmd.copernicus.org/articles/10/2785/2017/gmd-10-2785-2017.html)
+
+- [CarbonTracker Europe](https://www.carbontracker.eu/)
+- [Welcome to the CTDAS documentation! — CarbonTracker DAS](https://www.carbontracker.eu/ctdas/index.html)
+- [ICOS - Integrated Carbon Observation System](https://www.icos-cp.eu/)
+- [CTDAS / CTDAS · GitLab](https://git.wur.nl/ctdas/CTDAS)

@@ -30,7 +30,7 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 ## OJ
 
-[洛谷](https://www.luogu.com.cn/) | [UOJ](https://uoj.ac/)
+[洛谷](https://www.luogu.com.cn/) | [UOJ](https://uoj.ac/) | [Virtual Judge](https://vjudge.net/)
 
 [CSES](https://cses.fi/) | [CSES - Competitive programming books](https://cses.fi/book/index.php)
 
@@ -93,3 +93,5 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
 
 [现代科研指北](https://bookdown.org/yufree/sciguide/)
+
+- [Home - Cute.Guides - Cute.Guides at 九州大学 Kyushu University](https://guides.lib.kyushu-u.ac.jp/cuteguides/home)

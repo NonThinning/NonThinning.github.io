@@ -17,6 +17,7 @@ comments: true
 
 - [FAO-SID/GSNmap-TM: GSNmap Technical Manual](https://github.com/FAO-SID/GSNmap-TM) | R markdown
 - [FAO-SID/SOC-Mapping-Cookbook: Soil Organic Carbon mapping Cookbook](https://github.com/FAO-SID/SOC-Mapping-Cookbook) 
+- [Soil Sampling Design](https://fao-sid.github.io/Sampling-Design-TM/)
 
 [ncss-tech](https://github.com/ncss-tech/)
 
@@ -39,6 +40,7 @@ comments: true
 
 [Prof. A-Xing Zhu](https://solim.geography.wisc.edu/axing/) | [Zhu, A-Xing – Department of Geography – UW–Madison](https://geography.wisc.edu/staff/zhu-a-xing/) | [EasyGeoComputation](https://github.com/lreis2415)
 
+- [SoLIM](https://lreis2415.github.io/SoLIMSolutions/team.html)
 - [秦承志 中国科学院地理科学与资源研究所](https://igsnrr.cas.cn/sourcedb/zw/zjrck/yjdw_yxqnjjhdz/200906/t20090626_1842392.html)
 - [杨琳 中国科学院大学](https://people.ucas.edu.cn/~LinYANG)
 - [Guiming Zhang, Ph.D.](https://guiming.github.io/)

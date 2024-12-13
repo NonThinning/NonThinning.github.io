@@ -13,6 +13,8 @@
 
 [Earth Engine Data Catalog  |  Google for Developers](https://developers.google.cn/earth-engine/datasets)
 
+- [Landsat Collection 2 Tier 1 Level 2 32-Day NDVI Composite  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_COMPOSITES_C02_T1_L2_32DAY_NDVI) | 仅有初步预处理
+
 ### Document
 
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
@@ -68,6 +70,10 @@ scoop install main/nodejs
 
 [Adriadescals/LandSurfacePhenology_Sentinel2](https://github.com/adriadescals/LandSurfacePhenology_Sentinel2)
 
+[gee-community/ee-LandsatLinkr](https://github.com/gee-community/ee-LandsatLinkr)
+
+- 使用多源卫星数据运行 LandTrendr 算法
+
 ### Code
 
 [ekhiroteta/BAMT](https://github.com/ekhiroteta/BAMT)
@@ -85,6 +91,8 @@ scoop install main/nodejs
 [Sentinel-1 SAR Backscatter Analysis Ready Data Preparation in Google Earth Engine](https://www.mdpi.com/2072-4292/13/10/1954) | GEE哨兵-1SAR数据处理
 
 - [adugnag/gee_s1_ard: Creates an analysis ready sentinel-1 SAR image collection in Google Earth Engine by applying additional border noise correction, speckle filtering and radiometric terrain normalization.](https://github.com/adugnag/gee_s1_ard)
+
+[Automated generation of consistent annual maximum NDVI on coal bases with a new algorithm | Scientific Data](https://www.nature.com/articles/s41597-024-03543-2) | GEE Code
 
 ## People
 

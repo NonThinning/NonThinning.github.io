@@ -36,6 +36,8 @@ comments: true
 
 [Clark Labs](https://clarklabs.org/) | TerrSet 2020 Software
 
+[Geo-Wiki](https://www.geo-wiki.org/)
+
 ## Software
 
 [CNES/MAJA: Level-2A processor used for atmospheric correction and cloud-detection. The active repository is the one below, this one is kept to leave access to the older issues.](https://github.com/CNES/MAJA)
@@ -65,3 +67,4 @@ comments: true
 
 ## Article
 
+[A practical approach to reconstruct high-quality Landsat NDVI time-series data by gap filling and the Savitzky–Golay filter - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0924271621002215) | 遥感，时间序列缺失信息重建；一种通过间隙填充和 Savitzky-Golay 滤波器重建高质量 Landsat NDVI 时间序列数据的实用方法

@@ -11,6 +11,8 @@
 
 [R CHARTS](https://r-charts.com/) | [The R Graph Gallery](https://r-graph-gallery.com/)
 
+[Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
+
 ## Book
 
 [Chapman & Hall/CRC The R Series - Book Series - Routledge & CRC Press](https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER)

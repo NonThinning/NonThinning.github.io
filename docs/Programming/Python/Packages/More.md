@@ -13,11 +13,15 @@
 
 [robinthibaut/pysgems: Use SGeMS (Stanford Geostatistical Modeling Software) within Python. (github.com)](https://github.com/robinthibaut/pysgems) | [SGeMS download | SourceForge.net](https://sourceforge.net/projects/sgems/)
 
-## RemoteSensing
+## Remote Sensing
 
 [LLeiSong/sentinelPot: This is a python package to preprocess sentinel-1&2 imagery](https://github.com/LLeiSong/sentinelPot)
 
 [Py6S - A Python interface to 6S — Py6S 1.9.2 documentation](https://py6s.readthedocs.io/en/latest/)
+
+## Machine Learning
+
+[Welcome to the SHAP documentation — SHAP latest documentation](https://shap.readthedocs.io/en/latest/index.html)
 
 ## Compute
 

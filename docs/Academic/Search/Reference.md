@@ -6,9 +6,11 @@
 - [Российские научные академические журналы](https://sciencejournals.ru/)
 - [НАУЧНАЯ ЭЛЕКТРОННАЯ БИБЛИОТЕКА](https://elibrary.ru/defaultx.asp)
 
-[SpringerLink](https://link.springer.com/) | [ScienceDirect.com](https://www.sciencedirect.com/)
+[SpringerLink](https://link.springer.com/)
 
+- [ScienceDirect.com](https://www.sciencedirect.com/)
 - [De Gruyter](https://www.degruyter.com/)
+- [Frontiers | Publisher of peer-reviewed articles in open access journals](https://www.frontiersin.org/)
 
 [CNKI Overseas](https://www.cnki.net/)
 
@@ -19,8 +21,6 @@
 [The Innovation](https://www.the-innovation.org/) | A Cell Press partner journal
 
 - [One Earth: Cell Press](https://www.cell.com/one-earth/home)
-
-[Frontiers | Publisher of peer-reviewed articles in open access journals](https://www.frontiersin.org/)
 
 ## Search
 
@@ -37,6 +37,8 @@
 [国外学位论文中国集团全文检索平台](https://www.pqdtcn.com/)
 
 [中国人民大学 - 云书房](https://vstudy.ruc.edu.cn/mystudy/search/index)
+
+[中国农业科技文献与信息服务平台](https://nais.net.cn/)
 
 ## Open
 
@@ -58,9 +60,15 @@
 
 [SciProfiles | Scholarly community for scientific authors](https://sciprofiles.com/)
 
+[欢迎来到中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/) | 学校账号登陆
+
+[Scimago Journal & Country Rank](https://www.scimagojr.com/) | 期刊排名
+
 ## Journal
 
 [北京大学学报自然科学版](https://xbna.pku.edu.cn/CN/0479-8023/home.shtml)
+
+------
 
 [Nature Geoscience](https://www.nature.com/ngeo/)
 
@@ -75,3 +83,13 @@
 
 [GMD - Home](https://geoscientific-model-development.net/) | [Journal of Advances in Modeling Earth Systems - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/journal/19422466)
 
+------
+
+[Journal of Statistical Software](https://www.jstatsoft.org/index)
+
+- [R Journal](https://journal.r-project.org/)
+- [Foundation for Open Access Statistics - promoting free software, open access publishing, and reproducible research in statistics.](https://www.foastat.org/)
+
+[Environmental Modelling & Software | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/environmental-modelling-and-software)
+
+[Computers and Electronics in Agriculture | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)

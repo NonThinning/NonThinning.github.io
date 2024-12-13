@@ -17,6 +17,8 @@ CBM-CFS3: [Carbon Budget Model](https://natural-resources.canada.ca/climate-chan
 
 > [cat-cfs/libcbm_py: Carbon budget model library based on CBM-CFS3](https://github.com/cat-cfs/libcbm_py)
 
+IBIS: [ORNL DAAC INTEGRATED BIOSPHERE SIMULATOR MODEL (IBIS), VERSION 2.5](https://daac.ornl.gov/MODELS/guides/IBIS_Guide.html)
+
 ROTHC: [Rothamsted Carbon Model (ROTHC) | Rothamsted Research](https://www.rothamsted.ac.uk/rothamsted-carbon-model-rothc)
 
 > [Theoretical Ecosystem Ecology](https://www.bgc-jena.mpg.de/TEE/index.html) | [Run the RothC model for a site](https://www.bgc-jena.mpg.de/TEE/basics/2015/11/19/RothC/)
@@ -30,8 +32,11 @@ DNDC: [GRAMP: Home (ags.io)](http://gramp.ags.io/)
 MIMICS: [GitHub - wwieder/MIMICS: MIMICS Code Repository](https://github.com/wwieder/MIMICS/)
 
 > [GMD - Stoichiometrically coupled carbon and nitrogen cycling in the MIcrobial-MIneral Carbon Stabilization model version 1.0 (MIMICS-CN v1.0)](https://gmd.copernicus.org/articles/13/4413/2020/)
+> [GMD - Modeling boreal forest soil dynamics with the microbially explicit soil model MIMICS+ (v1.0)](https://gmd.copernicus.org/articles/17/2929/2024/)
 
-IBIS: [ORNL DAAC INTEGRATED BIOSPHERE SIMULATOR MODEL (IBIS), VERSION 2.5](https://daac.ornl.gov/MODELS/guides/IBIS_Guide.html)
+Millennial Version 2: [Improved global-scale predictions of soil carbon stocks with Millennial Version 2 - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071721003400)
+
+- [rabramoff/Millennial: This is a repository for the newly developed Millennial model](https://github.com/rabramoff/Millennial)
 
 APSIM: [APSIMInitiative/APSIM710： APSIM](https://github.com/APSIMInitiative/APSIM710) | [APSIM](https://www.apsim.info/)
 
@@ -43,15 +48,43 @@ APSIM: [APSIMInitiative/APSIM710： APSIM](https://github.com/APSIMInitiative/AP
 - [YASSOmodel](https://github.com/YASSOmodel) | Github
 - [The Yasso07 soil carbon model – Testing against repeated soil carbon inventory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0378112712005257)
 - [GMD - Improving Yasso15 soil carbon model estimates with ensemble adjustment Kalman filter state data assimilation](https://gmd.copernicus.org/articles/13/5959/2020/) | 卡尔曼滤波
+- [Improving forest soil carbon models using spatial data and geostatistical approaches - ScienceDirect](https://doi.org/10.1016/j.geoderma.2014.05.022)
+- [GMD - Modelling boreal forest's mineral soil and peat C dynamics with the Yasso07 model coupled with the Ricker moisture modifier](https://gmd.copernicus.org/articles/17/5349/2024/)
 
 Century Model: [Century – Natural Resource Ecology Laboratory at Colorado State University](https://www.nrel.colostate.edu/projects/century/)
+
+ICBM: [Olof Andrén: Ecology, Environmental Conservation & Soil Biology](https://oandren.com/icbm.html)
+
+rCTOOL: [francagiannini/rCTOOL: C-TOOL a simple and flexible SOM turnover model](https://github.com/francagiannini/rCTOOL)
+
+- [Modelling and validating soil carbon dynamics at the long-term plot scale using the rCTOOL R package - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364815224002901)
+
+------
+
+CASMOFOR: [CASMOFOR - CArbon Sequestration MOdel for FORestations](https://www.scientia.hu/casmofor/indexE.php)
+
+CO2Fix: [EuropeanForestInstitute/CO2Fix-distribution: CO2Fix model software](https://github.com/EuropeanForestInstitute/CO2Fix-distribution)
+
+- [| European Forest Institute](https://efi.int/)
+- [Homepage - European Institute of Planted Forest - IEFC](https://www.plantedforests.org/)
+- [CO2FIX V 3.1 A modelling framework for quantifying carbon sequestration in forest ecosystems - Research@WUR](https://research.wur.nl/en/publications/co2fix-v-31-a-modelling-framework-for-quantifying-carbon-sequestr)
+- [EuropeanForestInstitute/efiscen: The European Forest Information SCENario Model (EFISCEN)](https://github.com/EuropeanForestInstitute/efiscen)
+
+3-PG: [3-PG Forest Growth Model | Process Introduction](https://3pg.forestry.ubc.ca/)
+
+- [The process-based forest growth model 3-PG for use in forest management: A review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0304380019300213)
+- [r3PG – An r package for simulating forest growth using the 3‐PG process‐based model - Trotsiuk - 2020 - Methods in Ecology and Evolution - Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13474)
+- [trotsiuk/r3PG: An R package for forest growth simulation using the 3-PG process-based model](https://github.com/trotsiuk/r3PG)
 
 ⭐iLand: [iLand | startpage](https://iland-model.org/startpage) | 基于个体的景观森林和干扰模型
 
 - [iLand | permafrost](https://iland-model.org/permafrost) | 冻土模块
 - [GMD - The Permafrost and Organic LayEr module for Forest Models (POLE-FM) 1.0](https://gmd.copernicus.org/articles/16/2011/2023/)
+- [Data and code associated with: The Permafrost and Organic LayEr module for Forest Models (POLE-FM) 1.0](https://doi.org/10.25390/caryinstitute.21339090.v3)
 - [edfm-tum/iland-model: iLand - the individual-based forest landscape and disturbance model (see https://iland-model.org/)](https://github.com/edfm-tum/iland-model)
 - [Ecosystem Dynamics and Forest Management Lab - School of Life Sciences - Technical University of Munich](https://github.com/edfm-tum)
+- [The individual-based forest landscape and disturbance model iLand: Overview, progress, and outlook - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S030438002400173X)
+- [Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17121)
 
 LANDIS-II: [LANDIS-II Forest landscape model](https://www.landis-ii.org/home)
 
@@ -62,6 +95,20 @@ FORCCHN V2.0: [JingF1/FORCCHN2_model: These files includes the run code, DLL pac
 - [GMD - FORCCHN V2.0: an individual-based model for predicting multiscale forest carbon dynamics](https://gmd.copernicus.org/articles/15/6863/2022/)
 
 LPJ-GUESS Ecosystem Model: [LPJ-GUESS home page at Lund University](https://web.nateko.lu.se/lpj-guess/index.html) | 基于过程的动态植被-陆地生态系统模型，包含冻土、野火模块
+
+forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potential Productivity Calculation 森林碳汇计量和潜力计算](https://github.com/caf-ifrit/forestat) | 森林碳汇，不包括土壤
+
+------
+
+[LukeEcomod/SoilCarbon: Soil Carbon models](https://github.com/LukeEcomod/SoilCarbon)
+
+- [LukeEcomod/SpaFHy_v1: Spatial Forest Hydrology (Launiainen et al. Hydrological and Earth System Sciences, 2019)](https://github.com/LukeEcomod/SpaFHy_v1)
+
+[bsulman/INTERFACE-model-experiment-synthesis: Code from soil carbon model-experiment synthesis project coming out of INTERFACE workshop](https://github.com/bsulman/INTERFACE-model-experiment-synthesis)
+
+## Organization
+
+[VEMAP](https://www2.cgd.ucar.edu/vemap/index.html)
 
 ## Thesis
 
@@ -88,6 +135,11 @@ LPJ-GUESS Ecosystem Model: [LPJ-GUESS home page at Lund University](https://web.
 [Soil carbon sequestration: factors influencing mechanisms, allocation and vulnerability](https://krex.k-state.edu/items/f71de0c3-d79e-4e05-9396-e182eace1319)
 
 ["Merging Ecology and Earth System Modeling: Biotic and Abiotic Controls" by Emily Kyker-Snowman](https://scholars.unh.edu/dissertation/2624/)
+
+["The Effect of Sample Grinding on Color-based Predictions of Soil Organ" by Mason Rutgers](https://digitalcommons.unl.edu/honorstheses/718/)
+
+- [Discover the Power of Nix Mini 3: The #1 Choice for Color Matching – Nix Sensor Ltd](https://www.nixsensor.com/mini-3-color-sensor/) | 114$
+- [PANTONE® USA | Munsell Soil Color Book](https://www.pantone.com/munsell-soil-color-charts) | 300$
 
 ## Article
 
@@ -148,6 +200,8 @@ LPJ-GUESS Ecosystem Model: [LPJ-GUESS home page at Lund University](https://web.
 ### Litter
 
 [Living and decaying roots as regulators of soil aggregation and organic matter formation—from the rhizosphere to the detritusphere - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071724001925) | 根系分解进入到碎屑层
+
+[Spatial modeling of litter and soil carbon stocks on forest land in the conterminous United States - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969718342591)
 
 ### SOC
 
