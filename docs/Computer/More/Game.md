@@ -56,9 +56,16 @@
 
 [MCDL 我的世界国际版下载](https://mc.minebbs.com/)
 
-> [GitHub - HMCL-dev/HMCL-PE: Hello Minecraft! Launcher for Android](https://github.com/HMCL-dev/HMCL-PE)
->
-> [GitHub - FCL-Team/FoldCraftLauncher: Fold Craft Launcher, an Android Minecraft : Java Edition launcher.](https://github.com/FCL-Team/FoldCraftLauncher)
+[Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)
+
+- [GitHub - HMCL-dev/HMCL-PE: Hello Minecraft! Launcher for Android](https://github.com/HMCL-dev/HMCL-PE)
+- [GitHub - FCL-Team/FoldCraftLauncher: Fold Craft Launcher, an Android Minecraft : Java Edition launcher.](https://github.com/FCL-Team/FoldCraftLauncher)
+- [BakaXL 启动器 - 官方网站](https://www.bakaxl.com/)
+
+- [MCNav | MC导航网 | Minecraft 网址导航站 | MC工具大全](https://www.mcnav.net/)
+- [我的世界国际版全版本下载](https://mcapks.com/)
+- [星月Minecraft版本库](https://spectrollay.github.io/minecraft_repository/)
+- [MC版本库-我的世界国际版下载|Minecraft游戏下载|最新版本下载](https://bbk.endyun.ltd/main) | [zihao_il的破站](https://zihao-il.github.io/)
 
 ## CustomMaid3D
 

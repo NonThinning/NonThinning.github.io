@@ -5,6 +5,8 @@
 
 [F-Droid](https://f-droid.org/) | [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
 
+[SAI | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.aefyr.sai.fdroid/) | .Apks Install
+
 ## GIS/GNSS
 
 [QField - Efficient field work built for QGIS](https://qfield.org/)
@@ -65,6 +67,8 @@
 ## Input
 
 [WeChat Input Method](https://z.weixin.qq.com/)
+
+[手心输入法](https://www.xinshuru.com/index.html?p=win)
 
 ## More
 

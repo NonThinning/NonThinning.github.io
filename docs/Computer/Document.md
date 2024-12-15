@@ -90,8 +90,11 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 ## More
 
-[名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
-
 [现代科研指北](https://bookdown.org/yufree/sciguide/)
 
 - [Home - Cute.Guides - Cute.Guides at 九州大学 Kyushu University](https://guides.lib.kyushu-u.ac.jp/cuteguides/home)
+- [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
+- [AcWiki 大学生的百科全书](https://ac-wiki.github.io/AcWiKi/)
+
+[Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
+

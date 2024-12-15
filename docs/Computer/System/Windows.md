@@ -121,6 +121,8 @@ IP纯净度查询: [PING0](https://ping0.cc/) | [Scamalytics](https://scamalytic
 
 - [AdguardTeam/AdguardBrowserExtension： AdGuard 浏览器扩展](https://github.com/AdguardTeam/AdguardBrowserExtension)
 
+[終結內容農場](https://danny0838.github.io/content-farm-terminator/zh/)
+
 ## Programming
 
 [WinGet](https://github.com/microsoft/winget-cli) | [Scoop](https://github.com/ScoopInstaller/Scoop)
