@@ -113,6 +113,8 @@ comments: true
 
 [Spatial statistics and soil mapping: A blossoming partnership under pressure - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2211675322000264) | 空间统计和土壤制图：压力下的蓬勃发展的合作伙伴关系
 
+[Digital mapping of GlobalSoilMap soil properties at a broad scale: A review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706121006479)
+
 ### Computing
 
 [PyCLiPSM: Harnessing heterogeneous computing resources on CPUs and GPUs for accelerated digital soil mapping - Zhang - 2021 - Transactions in GIS - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12730) | PyCLiPSM：利用 CPU 和 GPU 上的异构计算资源加速数字土壤测绘

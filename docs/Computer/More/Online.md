@@ -5,6 +5,16 @@
 
 [obaby@mars – Artificial Intelligence / Reverse Engineering / Internet of Things / Full Stack Developer](https://oba.by/)
 
+------
+
+[Probably Possible](https://dzhu.page/) | Darren Zhu
+
+[About | Zangwei](https://zhengzangw.github.io/) | Zangwei Zheng
+
+[Motherbase/Index](https://daiwz.net/index.html) | Wang-Zhou DAI
+
+- [符号学习](https://www.lamda.nju.edu.cn/sym2022/)
+
 ## BBS
 
 [LINUX DO](https://linux.do/) | [Linux DO 导航站](https://nav.linux.do/)

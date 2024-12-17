@@ -42,6 +42,8 @@ comments: true
 
 ## Data
 
+[Delivering Global Omniscience • Umbra](https://umbra.space/) | 高分辨率SAR影像，可用于测试
+
 [WorldCover | WORLDCOVER](https://esa-worldcover.org/en) | 包含NDVI
 
 ⭐[ESSDD - GLC_FCS30D: The first global 30-m land-cover dynamic monitoring product with a fine classification system from 1985 to 2022 using dense time-series Landsat imagery and continuous change-detection method](https://essd.copernicus.org/preprints/essd-2023-320/)
@@ -51,6 +53,11 @@ comments: true
 [Intact Forest Landscapes](https://www.intactforests.org/)
 
 - 完整的森林景观制图，不包含漠河市但有部分大兴安岭山脉区域
+
+[ibm-nasa-geospatial (IBM-NASA Prithvi Models Family)](https://huggingface.co/ibm-nasa-geospatial) | 地理空间基础模型
+
+- [NASA-IMPACT/hls-foundation-os: This repository contains examples of fine-tuning Harmonized Landsat and Sentinel-2 (HLS) Prithvi foundation model.](https://github.com/NASA-IMPACT/hls-foundation-os) | 火灾后迹地检测
+- [Prithvi 100M Burn Scars Demo - a Hugging Face Space by ibm-nasa-geospatial](https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-100M-Burn-scars-demo)
 
 ## Thesis
 
@@ -71,3 +78,15 @@ comments: true
 - 物种分布模型MaxEnt
 
 [A Global 250-m Downscaled NDVI Product from 1982 to 2018](https://www.mdpi.com/2072-4292/14/15/3639) | 1982 年至 2018 年全球 250 m 降尺度 NDVI 产品；含代码
+
+[A dataset of NDVI for the vegetation growing season in Central Asia with a resolution of 250 m (2001–2020) and 30 m (2020)](https://www.sciengine.com/CSD/doi/10.11922/11-6035.csd.2023.0095.zh;JSESSIONID=7f7b6a08-a881-4ccc-8cf9-972f58389e76)
+
+- [中亚地区2001–2020年250 m及2020年30 m分辨率植被生长季NDVI数据集](http://csdata.org/p/926/)
+- [中国科学数据](http://csdata.org/p/) | [SciEngine](https://www.sciengine.com/)
+
+[Annual 30-m maps of global grassland class and extent (2000–2022) based on spatiotemporal Machine Learning | Research Square](https://www.researchsquare.com/article/rs-4514820/v3) | 全球牧场观察
+
+- [wri/global-pasture-watch](https://github.com/wri/global-pasture-watch)
+- [World Resources Institute](https://github.com/wri)
+- [Homepage— Land & Carbon Lab](https://landcarbonlab.org/)
+- [Bezos Earth Fund](https://www.bezosearthfund.org/)

@@ -34,6 +34,8 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 [CSES](https://cses.fi/) | [CSES - Competitive programming books](https://cses.fi/book/index.php)
 
+[OI Wiki - OI Wiki](https://oi-wiki.org/)
+
 ## HPC
 
 竞赛：[ASC Student Supercomputer Challenge](http://www.asc-events.org/)
@@ -66,7 +68,9 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 ## LLM
 
-平台：[Poe](https://poe.com/) | [Shared Chat](https://sharedchat.fun/) | [ChatGPT Mirror](https://ai.44vl.cc/) | [GPT镜像](https://go.gptdsb.com/list) | [通义灵码](https://tongyi.aliyun.com/lingma/)
+平台：[Poe](https://poe.com/) | [Shared Chat](https://sharedchat.fun/) | [ChatGPT Mirror](https://ai.44vl.cc/) | [GPT镜像](https://go.gptdsb.com/list) | [通义灵码](https://tongyi.aliyun.com/lingma/) | [AI工具集](https://ai-bot.cn/)
+
+NEWS: [HyperAI超神经](https://hyper.ai/cn)
 
 [Learn Prompting | Generative AI, Prompt Engineering, & Free Online Courses (webflow.io)](https://learn-prompting.webflow.io/)
 

@@ -42,6 +42,12 @@
 
 ## Open
 
+[arXiv.org e-Print archive](https://arxiv.org/)
+
+[АрхивОрг. Все научные статьи на русском языке в одном месте.](https://arxivorg.ru/)
+
+[ChinaXiv.org 中国科学院科技论文预发布平台](https://www.chinaxiv.org/home.htm) | [SMBU中俄国际合作预印本平台](https://smbu.chinaxiv.org/server/generalindex.htm)
+
 [EarthArXiv](https://eartharxiv.org/)
 
 [Open Access Library (OALib)](https://www.oalib.com/)

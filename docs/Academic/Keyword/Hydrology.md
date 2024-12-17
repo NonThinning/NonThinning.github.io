@@ -68,3 +68,7 @@ comments: true
 ## Article
 
 [天然河湾几何形态统计分析](http://skxjz.nhri.cn/article/id/1696)
+
+[近50年长三角地区水系时空变化及其驱动机制](https://www.geog.com.cn/CN/10.11821/dlxb201505012)
+
+[Satellites reveal hotspots of global river extent change | Nature Communications](https://www.nature.com/articles/s41467-023-37061-3) | 卫星揭示了全球河流范围变化的热点

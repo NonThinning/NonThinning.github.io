@@ -11,6 +11,13 @@ comments: true
 
 [Expasy - ENZYME](https://enzyme.expasy.org/index.html)
 
+### Microbiome
+
+[微生物组实验手册：架起各领域通向微生物组世界的桥梁_Bio-protocol](https://cn.bio-protocol.org/bio101/mpb)
+
+- [Bio-101 | Bio-protocol](https://cn.bio-protocol.org/bio101/default.aspx)
+- [Bio-protocol Journal | Bio-protocol](https://bio-protocol.org/cn)
+
 ## Model
 
 CBM-CFS3: [Carbon Budget Model](https://natural-resources.canada.ca/climate-change/climate-change-impacts-forests/carbon-accounting/carbon-budget-model/13107)
@@ -105,6 +112,10 @@ forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potenti
 - [LukeEcomod/SpaFHy_v1: Spatial Forest Hydrology (Launiainen et al. Hydrological and Earth System Sciences, 2019)](https://github.com/LukeEcomod/SpaFHy_v1)
 
 [bsulman/INTERFACE-model-experiment-synthesis: Code from soil carbon model-experiment synthesis project coming out of INTERFACE workshop](https://github.com/bsulman/INTERFACE-model-experiment-synthesis)
+
+[SoilR: Models of Soil Organic Matter Decomposition](https://www.bgc-jena.mpg.de/TEE/software/soilr/)
+
+- [Theoretical Ecosystem Ecology](https://www.bgc-jena.mpg.de/TEE/index.html)
 
 ## Organization
 

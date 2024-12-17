@@ -77,6 +77,8 @@
 
 [rstudio/rticles: LaTeX Journal Article Templates for R Markdown](https://github.com/rstudio/rticles)
 
+[readODS: Read and Write ODS Files](https://ropensci.r-universe.dev/readODS)
+
 ## Graphics
 
 [Bioconductor - Rgraphviz (development version)](https://bioconductor.org/packages/devel/bioc/html/Rgraphviz.html) | [Graphviz](https://graphviz.org/)
