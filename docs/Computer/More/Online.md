@@ -9,6 +9,12 @@
 
 - [降维/排序分析（ordination analysis）](https://asa-blog.netlify.app/p/ordination-analysis/)
 
+[集智俱乐部](https://swarma.org/)
+
+- [复杂系统 Complex Systems - 集智百科](https://wiki.swarma.org/index.php/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F_Complex_Systems)
+- [博弈论 Game Theory - 集智百科](https://wiki.swarma.org/index.php/%E5%8D%9A%E5%BC%88%E8%AE%BA)
+- [范畴论：迈向数学的统一 | 集智俱乐部](https://swarma.org/?p=33134)
+
 ------
 
 [Probably Possible](https://dzhu.page/) | Darren Zhu

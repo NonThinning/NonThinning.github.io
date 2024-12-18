@@ -20,6 +20,8 @@
 
 [书格 (shuge.org)](https://www.shuge.org/) | [中國哲學書電子化計劃](https://ctext.org/zhs)
 
+[马克思主义文库](https://www.marxists.org/chinese/index.html)
+
 [搜书吧](http://www.soushu2025.com)
 
 ## Single
