@@ -84,6 +84,8 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 
 [WayToAGI](https://new.waytoagi.com/)
 
+[OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)
+
 ## IC
 
 [dendibakh/perf-book: The book "Performance Analysis and Tuning on Modern CPU"](https://github.com/dendibakh/perf-book)

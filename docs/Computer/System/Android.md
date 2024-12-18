@@ -70,6 +70,10 @@
 
 [手心输入法](https://www.xinshuru.com/index.html?p=win)
 
+## Game
+
+[Andor's Trail - Index page](https://andorstrail.com/)
+
 ## More
 
 2023测试可用，积分兑换话费短信

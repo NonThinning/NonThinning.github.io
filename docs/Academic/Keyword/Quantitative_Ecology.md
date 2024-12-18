@@ -1,0 +1,2 @@
+
+[Applications of structural equation modeling (SEM) in ecological studies: an updated review | Ecological Processes | Full Text](https://ecologicalprocesses.springeropen.com/articles/10.1186/s13717-016-0063-3)

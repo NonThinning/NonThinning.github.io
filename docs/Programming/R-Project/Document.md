@@ -53,6 +53,10 @@
 
 [Just Enough R](https://benwhalley.github.io/just-enough-r/)
 
+[Applied Multivariate Statistics in R – Simple Book Publishing](https://uw.pressbooks.pub/appliedmultivariatestatistics/)
+
+- [Types of Ordination Methods – Applied Multivariate Statistics in R](https://uw.pressbooks.pub/appliedmultivariatestatistics/chapter/types-of-ordination-methods/)
+
 [Applied Multivariate Statistics in R – Simple Book Publishing (pressbooks.pub)](https://uw.pressbooks.pub/appliedmultivariatestatistics/)
 
 [Preface | ANOVA and Mixed Models (ethz.ch)](https://people.math.ethz.ch/~meier/teaching/anova/index.html)

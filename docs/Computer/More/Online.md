@@ -5,6 +5,10 @@
 
 [obaby@mars – Artificial Intelligence / Reverse Engineering / Internet of Things / Full Stack Developer](https://oba.by/)
 
+[Asa's blog](https://asa-blog.netlify.app/)
+
+- [降维/排序分析（ordination analysis）](https://asa-blog.netlify.app/p/ordination-analysis/)
+
 ------
 
 [Probably Possible](https://dzhu.page/) | Darren Zhu
@@ -26,3 +30,7 @@
 [Компьютерный форум Ru.Board](https://forum.ru-board.com/) | 计算机相关
 
 [网上读书园地 - Powered by Discuz!](https://www.readfree.net/bbs/) | 超星读秀
+
+[NGA玩家社区](https://ngabbs.com/)
+
+- [开源项目到底怎么玩的 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=41963007&_fp=4)
