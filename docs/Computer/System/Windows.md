@@ -115,6 +115,8 @@ IP纯净度查询: [PING0](https://ping0.cc/) | [Scamalytics](https://scamalytic
 
 ## Edge
 
+[沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费 - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-/amkbmndfnliijdhojkpoglbnaaahippg)
+
 [belaviyo/webrtc-protect](https://github.com/belaviyo/webrtc-protect/)
 
 [AdGuard AdBlocker Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html)
@@ -122,6 +124,14 @@ IP纯净度查询: [PING0](https://ping0.cc/) | [Scamalytics](https://scamalytic
 - [AdguardTeam/AdguardBrowserExtension： AdGuard 浏览器扩展](https://github.com/AdguardTeam/AdguardBrowserExtension)
 
 [終結內容農場](https://danny0838.github.io/content-farm-terminator/zh/)
+
+[Ruffle - Flash Emulator - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/ruffle-flash-emulator/pipjjbgofgieknlpefmcckdmgaaegban)
+
+- [Ruffle - Flash Emulator](https://ruffle.rs/)
+
+[PAGENOTE一页一记 - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/pagenote%E4%B8%80%E9%A1%B5%E4%B8%80%E8%AE%B0/ablhdlecfphodoohfacojdngdfkgneaa)
+
+- [小而美的网页标记插件·PAGENOTE](https://pagenote.cn/)
 
 ## Programming
 

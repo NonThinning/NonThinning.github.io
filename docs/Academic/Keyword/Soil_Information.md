@@ -89,3 +89,8 @@ comments: true
 
 - [Soil Type Database of China: A nationwide soil dataset based on the Second National Soil Survey](https://www.sciengine.com/CSD/doi/10.11922/csdata.170.2015.0033)
 - [Cladistic analysis of Chinese Soil Taxonomy - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S235200941730055X)
+
+[中国高分辨率国家土壤信息格网基本属性数据集（2010-2018）](https://soil.geodata.cn/data/datadetails.html?dataguid=36810085119113)
+
+- [High-resolution and three-dimensional mapping of soil texture of China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706119314612)
+- [Mapping high resolution National Soil Information Grids of China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2095927321006538)

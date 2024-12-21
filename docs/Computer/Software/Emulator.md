@@ -32,6 +32,10 @@ NSP Download
 
 [nsw2u.com](https://nsw2u.com/) | [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) 
 
+## Xbox
+
+[XenonLibrary](https://xenonlibrary.com/wiki/Main_Page)
+
 ## Windows
 
 [Main Page - Exagear International](https://www.exagear.wiki/index.php?title=Main_Page)

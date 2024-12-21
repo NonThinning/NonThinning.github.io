@@ -151,6 +151,7 @@ forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potenti
 
 - [Discover the Power of Nix Mini 3: The #1 Choice for Color Matching – Nix Sensor Ltd](https://www.nixsensor.com/mini-3-color-sensor/) | 114$
 - [PANTONE® USA | Munsell Soil Color Book](https://www.pantone.com/munsell-soil-color-charts) | 300$
+- [新版　標準土色帖](https://fujihira.shop-pro.jp/?pid=18364052) | [FHK 富士平工業株式会社｜トップページ](https://www.fujihira.co.jp/index.html)
 
 ## Article
 

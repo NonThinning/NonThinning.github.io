@@ -18,7 +18,7 @@ Tools：[CTFever Toolkit by uniiem](https://ctfever.uniiem.com/)
 
 Cyberspace：[ZoomEye](https://www.zoomeye.org/) | [360网络空间测绘](https://quake.360.net/quake/#/index) | [FOFA网络空间测绘系统](https://fofa.info/)
 
-OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint) | [IntelTechniques by Michael Bazzell](https://inteltechniques.com/index.html) | [你分享的链接泄露隐私了吗？](https://uid.ejfkdev.com/)
+OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint) | [IntelTechniques by Michael Bazzell](https://inteltechniques.com/index.html) | [你分享的链接泄露隐私了吗？](https://uid.ejfkdev.com/) | [零零信安](https://0.zone/)
 
 [CTF Wiki](https://ctf-wiki.org/) | [Hello CTF](https://hello-ctf.com/)
 
@@ -56,6 +56,13 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 > [Fourmilab](https://www.fourmilab.ch/) | [Computer Graphics Museum | The story of computer graphics](https://computergraphicsmuseum.org/)
 
+## CFD
+
+[OpenFOAM | Free CFD Software | The OpenFOAM Foundation](https://openfoam.org/)
+
+- [Free Software Licence | OpenFOAM](https://openfoam.org/licence/)
+- [CFD中文网](https://www.cfd-china.com/)
+
 ## Game/CG
 
 比赛：[Game Developers Conference (GDC)](https://gdconf.com/) | [GWB腾讯独立游戏孵化器-腾讯游戏学堂](https://gwb.tencent.com/)
@@ -85,6 +92,8 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 [WayToAGI](https://new.waytoagi.com/)
 
 [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)
+
+[Genesis-Embodied-AI/Genesis: A generative world for general-purpose robotics & embodied AI learning.](https://github.com/Genesis-Embodied-AI/Genesis)
 
 [AI-EDU | 本站由<openai.wiki>提供技术支持](https://ai-edu.openai.wiki/index.html)
 

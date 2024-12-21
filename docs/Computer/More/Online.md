@@ -15,6 +15,11 @@
 - [博弈论 Game Theory - 集智百科](https://wiki.swarma.org/index.php/%E5%8D%9A%E5%BC%88%E8%AE%BA)
 - [范畴论：迈向数学的统一 | 集智俱乐部](https://swarma.org/?p=33134)
 
+[首页 [OSQDU 维基]](https://wiki.osqdu.org/)
+
+- [OSQDU Blog « Blog of OSQDU members](https://blog.osqdu.org/)
+- [IPv6 中文资料和培训站点 | IPv6 中文资料和培训](https://www.ipv6-cn.com/)
+
 ------
 
 [Probably Possible](https://dzhu.page/) | Darren Zhu
@@ -29,9 +34,7 @@
 
 [LINUX DO](https://linux.do/) | [Linux DO 导航站](https://nav.linux.do/)
 
-- [NodeSeek](https://www.nodeseek.com/) | [HOSTLOC](https://hostloc.com/forum.php)
-
-[V2EX](https://www.v2ex.com/)
+- [NodeSeek](https://www.nodeseek.com/) | [HOSTLOC](https://hostloc.com/forum.php) | [V2EX](https://www.v2ex.com/)
 
 [Компьютерный форум Ru.Board](https://forum.ru-board.com/) | 计算机相关
 
