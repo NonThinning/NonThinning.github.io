@@ -35,6 +35,8 @@
 
 ## Data Science
 
+[R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html) | [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/) | ♥
+
 [数据科学中的 R 语言](https://bookdown.org/wangminjie/R4DS/) | ♥
 
 [R数据分析入门](https://bookdown.org/lhe/a-quick-start-on-data-analysis-in-r/)

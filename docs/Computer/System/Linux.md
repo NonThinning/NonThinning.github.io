@@ -10,3 +10,10 @@
 ## Software
 
 [netblue30/firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail) | Firejail 是一种轻量级安全工具，旨在通过 设置用于运行的受限环境（可能不可信） 应用
+
+## Distro
+
+[index | Alpine Linux](https://www.alpinelinux.org/)
+
+- [musl libc](https://musl.libc.org/)
+- [BusyBox](https://www.busybox.net/)
