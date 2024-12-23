@@ -39,6 +39,10 @@
 
 [gsantner/markor](https://github.com/gsantner/markor)
 
+[saber-notes/saber: The cross-platform open-source app built for handwriting](https://github.com/saber-notes/saber)
+
+- [Saber | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.adilhanney.saber/) | 手写笔记
+
 ## Read
 
 [gedoor/legado](https://github.com/gedoor/legado) | Novel
@@ -73,6 +77,10 @@
 ## Game
 
 [Andor's Trail - Index page](https://andorstrail.com/)
+
+## CS
+
+⭐[2754LM/oj_helper: 一款帮助你查询各大oj信息的应用。](https://github.com/2754LM/oj_helper)
 
 ## More
 

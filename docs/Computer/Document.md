@@ -30,6 +30,8 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 ## OJ
 
+[The Algorithms](https://the-algorithms.com/)
+
 [洛谷](https://www.luogu.com.cn/) | [UOJ](https://uoj.ac/) | [Virtual Judge](https://vjudge.net/)
 
 [CSES](https://cses.fi/) | [CSES - Competitive programming books](https://cses.fi/book/index.php)

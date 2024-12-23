@@ -5,6 +5,10 @@
 
 [拷貝漫畫](https://www.mangacopy.com/)
 
+[漫蛙走失页](https://manwajs.vip/)
+
+[ようこそ、紳士会所へ！](https://www.sshs.pw/)
+
 ## Software
 
 Tachiyomi: [Home | Mihon](https://mihon.app/) | [Keiyoushi](https://keiyoushi.github.io/extensions/)

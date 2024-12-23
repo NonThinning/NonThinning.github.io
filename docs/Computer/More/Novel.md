@@ -18,7 +18,7 @@
 
 - [Light-Novel-Yuedu-Source/docs/websites.md at main · ZWolken/Light-Novel-Yuedu-Source · GitHub](https://github.com/ZWolken/Light-Novel-Yuedu-Source/blob/main/docs/websites.md)
 
-[书格 (shuge.org)](https://www.shuge.org/) | [中國哲學書電子化計劃](https://ctext.org/zhs)
+[书格 (shuge.org)](https://www.shuge.org/) | [中國哲學書電子化計劃](https://ctext.org/zhs) | [国学大师网](https://www.guoxuedashi.net/) | [浙江大学大型文献库](http://csid.zju.edu.cn/doclib/#) | [東里書齋](https://www.donglishuzhai.net/) | [中华古典文库](https://www.zhonghuashu.com/)
 
 [马克思主义文库](https://www.marxists.org/chinese/index.html)
 
@@ -43,6 +43,7 @@ TTS: [jing332/tts-server-android](https://github.com/jing332/tts-server-android)
 - [阅读 - 书源 \ 订阅](https://flowus.cn/ycheng/share/923f5a35-6dcf-47d1-b8eb-b9c5ef3ed39b)
 - [源仓库最新地址发布页 (yckceo.vip)](https://yckceo.vip/)
 - [各种源大型整合](https://source.zgqinc.gq/)
+- [xiaohan231阅读源发布页](https://qyyuapi.com/)
 
 ## List
 

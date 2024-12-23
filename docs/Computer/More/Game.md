@@ -115,5 +115,5 @@ illusion: [BetterRepack](https://betterrepack.com/) | [BR Public Download](https
 
 [FLiNG Trainer - PC Game Cheats and Mods](https://flingtrainer.com/)
 
-
+[Special Moves](https://www.spmoves.com/index.html) | 动作游戏出招表
 
