@@ -18,6 +18,7 @@
 - [高等教育出版社产品信息检索系统](https://xuanshu.hep.com.cn/)
 - [Frontiers Journals of Higher Education Press](https://journal.hep.com.cn/hep/EN/hep/home.shtml)
 - [轻工教学服务网](https://edu.chlip.com.cn/blog)
+- [CCF数字图书馆](https://dl.ccf.org.cn/)
 
 [The Innovation](https://www.the-innovation.org/) | A Cell Press partner journal
 

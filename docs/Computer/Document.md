@@ -12,6 +12,8 @@
 
 News：[8090安全门户](https://www.8090-sec.com/) | [FreeBuf](https://www.freebuf.com/) | [CN-SEC](https://cn-sec.com/) | [0day.today](https://cn.0day.today/) | [安全内参](https://www.secrss.com/) | [unSafe.sh](https://buaq.net/) | [渊龙Sec](https://dh.aabyss.cn/)
 
+- [系统解读美国策动“混合战争”的基本模式与策略手法 - 安全内参](https://www.secrss.com/articles/42953)
+
 Con：[2024北京网络安全大会(BCS)](https://bcs.qianxin.com/)
 
 Tools：[CTFever Toolkit by uniiem](https://ctfever.uniiem.com/)
@@ -38,6 +40,14 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 [OI Wiki - OI Wiki](https://oi-wiki.org/)
 
+## SE
+
+[The Architecture of Open Source Applications](https://aosabook.org/en/)
+
+- [The Architecture of Open Source Applications (Volume 1)LLVM](https://aosabook.org/en/v1/llvm.html)
+
+[Software Design by Example](https://third-bit.com/sdxpy/)
+
 ## HPC
 
 竞赛：[ASC Student Supercomputer Challenge](http://www.asc-events.org/)
@@ -52,6 +62,8 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 
 [上海交大超算平台用户手册](https://docs.hpc.sjtu.edu.cn/index.html)
 
+[化学高性能计算平台](https://ifmc.nenu.edu.cn/)
+
 ## CAD
 
 [The Engineering Design Revolution - A History of CAD](https://www.shapr3d.com/blog/history-of-cad)
@@ -65,7 +77,7 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 - [Free Software Licence | OpenFOAM](https://openfoam.org/licence/)
 - [CFD中文网](https://www.cfd-china.com/)
 
-## Game/CG
+## CG
 
 比赛：[Game Developers Conference (GDC)](https://gdconf.com/) | [GWB腾讯独立游戏孵化器-腾讯游戏学堂](https://gwb.tencent.com/)
 
@@ -89,19 +101,21 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 
 [大规模语言模型：从理论到实践 (intro-llm.github.io)](https://intro-llm.github.io/)
 
-[AwesomeAI / awesome-chatgpt-zh · GitLab](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+[WayToAGI](https://new.waytoagi.com/) | [AI-EDU](https://ai-edu.openai.wiki/index.html) | [AwesomeAI](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
 
-[WayToAGI](https://new.waytoagi.com/)
+[Apache TVM](https://tvm.hyper.ai/)
 
 [OpenVLA: An Open-Source Vision-Language-Action Model](https://openvla.github.io/)
 
 [Genesis-Embodied-AI/Genesis: A generative world for general-purpose robotics & embodied AI learning.](https://github.com/Genesis-Embodied-AI/Genesis)
 
-[AI-EDU | 本站由<openai.wiki>提供技术支持](https://ai-edu.openai.wiki/index.html)
-
 ## IC
 
 [dendibakh/perf-book: The book "Performance Analysis and Tuning on Modern CPU"](https://github.com/dendibakh/perf-book)
+
+[PLCT Lab | Compilers, Runtimes, and Emulators.](https://plctlab.org/en/)
+
+[香山项目总体介绍 - XiangShan 官方文档](https://docs.xiangshan.cc/zh-cn/dev/)
 
 ## GIS
 
@@ -117,3 +131,12 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 
 [Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
 
+[Cyber-physical Systems: Theory, Methodology, and Applications | IEEE eBooks | IEEE Xplore](https://ieeexplore.ieee.org/book/9794564)
+
+- [Introduction to Cyber-Physical System - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-cyber-physical-system/)
+
+[[1809.07430] CRN++: Molecular Programming Language](https://arxiv.org/abs/1809.07430)
+- [Organic synthesis in a modular robotic system driven by a chemical programming language | Science](https://www.science.org/doi/10.1126/science.aav2211)
+- [GitHub - croningp/ChemputerSoftware: Software for running the Chemputer in association with the supporting publication in Science](https://github.com/croningp/ChemputerSoftware)
+- [Chemify | Technology](https://www.chemify.io/technology)
+- [XDL 2.0 Standard — xdl 2.0.1.dev12+g8fdf586b documentation](https://croningroup.gitlab.io/chemputer/xdl/standard/index.html)

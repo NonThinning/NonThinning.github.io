@@ -29,6 +29,10 @@
 
 [Fennec F-Droid | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 
+## System
+
+[Storage Isolation](https://sr.rikka.app/)
+
 ## BBS
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)
@@ -42,6 +46,16 @@
 [saber-notes/saber: The cross-platform open-source app built for handwriting](https://github.com/saber-notes/saber)
 
 - [Saber | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.adilhanney.saber/) | 手写笔记
+
+[GitHub - Zimbelstern/Tournant: Tournant is a recipe manager which serves your dishes on your Android device! It is compatible with the Gourmand desktop application.](https://github.com/zimbelstern/Tournant)
+
+## Video
+
+[GitHub - guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。](https://github.com/guozhigq/pilipala)
+
+[GitHub - xiaye13579/ACAC: 一个第三方AcFun TV和Pad客户端，A third-party AcFun client for TV & Pad。](https://github.com/xiaye13579/ACAC)
+
+[GitHub - xiaoyaocz/dart_simple_live: 简简单单的看直播](https://github.com/xiaoyaocz/dart_simple_live)
 
 ## Read
 

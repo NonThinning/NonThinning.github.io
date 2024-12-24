@@ -12,6 +12,7 @@
 - [Ylvapedia](https://ylvapedia.wiki/wiki/Main_Page)
 - [elona中文维基](https://elona.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
 - [某巫女控的后花园](https://ztjal.info/) | elona全系列汉化下载
+- [Elin 资料大全](https://docs.qq.com/sheet/DQVZXSk9kc0VMeUFX?tab=000001)
 
 - [Noita Wiki](https://noita.wiki.gg/zh/wiki/Noita_Wiki)
 - [Tales of Maj'Eyal Wiki](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki)
