@@ -72,6 +72,10 @@
 
 [Scimago Journal & Country Rank](https://www.scimagojr.com/) | 期刊排名
 
+[MIT Technology Review](https://www.technologyreview.com/)
+
+- [探臻科技评论](https://tanzhen.tsinghua.edu.cn/)
+
 ## Journal
 
 [北京大学学报自然科学版](https://xbna.pku.edu.cn/CN/0479-8023/home.shtml)

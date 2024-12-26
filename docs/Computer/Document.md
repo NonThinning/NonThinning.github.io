@@ -140,3 +140,11 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 - [GitHub - croningp/ChemputerSoftware: Software for running the Chemputer in association with the supporting publication in Science](https://github.com/croningp/ChemputerSoftware)
 - [Chemify | Technology](https://www.chemify.io/technology)
 - [XDL 2.0 Standard — xdl 2.0.1.dev12+g8fdf586b documentation](https://croningroup.gitlab.io/chemputer/xdl/standard/index.html)
+
+[Richard Stallman's Personal Page](https://stallman.org/)
+
+> Stallman, one of the few people in the world with principles he follows.
+> ——@danielsan901998
+>
+> Stallman is more like some sort of a monk who doesn't have any link to reality, he may pray somewhere in his temple but no one cares.
+> ——@bernd_the_almighty
