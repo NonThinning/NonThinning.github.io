@@ -10,7 +10,7 @@
 
 [Amazon Best Sellers: Best Computer Hacking](https://www.amazon.com/gp/bestsellers/books/3648/ref=pd_zg_hrsr_books)
 
-News：[8090安全门户](https://www.8090-sec.com/) | [FreeBuf](https://www.freebuf.com/) | [CN-SEC](https://cn-sec.com/) | [0day.today](https://cn.0day.today/) | [安全内参](https://www.secrss.com/) | [unSafe.sh](https://buaq.net/) | [渊龙Sec](https://dh.aabyss.cn/)
+News：[8090安全门户](https://www.8090-sec.com/) | [FreeBuf](https://www.freebuf.com/) | [CN-SEC](https://cn-sec.com/) | [0day.today](https://cn.0day.today/) | [安全内参](https://www.secrss.com/) | [unSafe.sh](https://buaq.net/) | [渊龙Sec](https://dh.aabyss.cn/) | [Latest Security News | Cybernews](https://cybernews.com/security/)
 
 - [系统解读美国策动“混合战争”的基本模式与策略手法 - 安全内参](https://www.secrss.com/articles/42953)
 
@@ -21,6 +21,8 @@ Tools：[CTFever Toolkit by uniiem](https://ctfever.uniiem.com/)
 Cyberspace：[ZoomEye](https://www.zoomeye.org/) | [360网络空间测绘](https://quake.360.net/quake/#/index) | [FOFA网络空间测绘系统](https://fofa.info/)
 
 OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/) | [OSINT Toolkit](https://i-intelligence.eu/resources/osint-toolkit) | [awesome-osint](https://github.com/jivoi/awesome-osint) | [IntelTechniques by Michael Bazzell](https://inteltechniques.com/index.html) | [你分享的链接泄露隐私了吗？](https://uid.ejfkdev.com/) | [零零信安](https://0.zone/)
+
+- [BreachForums - Wikipedia](https://en.wikipedia.org/wiki/BreachForums)
 
 [CTF Wiki](https://ctf-wiki.org/) | [Hello CTF](https://hello-ctf.com/)
 
@@ -47,6 +49,14 @@ OSINT：[丁爸网](http://dingba.top/) | [美亚柏科](https://www.300188.cn/)
 - [The Architecture of Open Source Applications (Volume 1)LLVM](https://aosabook.org/en/v1/llvm.html)
 
 [Software Design by Example](https://third-bit.com/sdxpy/)
+
+## OS
+
+[UC Berkeley RISE · GitHub](https://github.com/ucbrise)
+
+- [CS 262a, Fall 2020](https://ucbrise.github.io/cs262a-fall2020/)
+
+[GitHub - SJTU-IPADS/OS-Course-Lab: 本仓库包含上海交通大学IPADS实验室设计的操作系统课程系列实验。](https://github.com/SJTU-IPADS/OS-Course-Lab)
 
 ## HPC
 
@@ -120,6 +130,12 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 ## GIS
 
 [GIS入行指南 - GIS Career Entry Guide](https://gis-career-entry-guide.readthedocs.io/zh-cn/latest/)
+
+## DB
+
+[PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
+
+- [Apache Cloudberry (Incubating) | Apache Cloudberry (Incubating)](https://cloudberry.apache.org/)
 
 ## More
 

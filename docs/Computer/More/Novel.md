@@ -5,6 +5,8 @@
 
 - [孔网搜索：俄国经略东方丛书](https://search.kongfz.com/product/?keyword=%E4%BF%84%E5%9B%BD%E7%BB%8F%E7%95%A5%E4%B8%9C%E6%96%B9%E4%B8%9B%E4%B9%A6&dataType=0) | [豆瓣书单：俄国经略东方丛书](https://www.douban.com/doulist/163071/)
 - [中国历史地图集（全八册） (豆瓣)](https://book.douban.com/subject/1055304/) | [为什么不再出版《中国历史地图集》？ - 知乎](https://www.zhihu.com/question/359877118/answer/34348680336)
+- [汉语语法学 (豆瓣)](https://book.douban.com/subject/26883797/)
+- [句法结构 (豆瓣)](https://book.douban.com/subject/35888972/)
 
 ## Library
 

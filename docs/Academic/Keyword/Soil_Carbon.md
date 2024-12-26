@@ -26,6 +26,11 @@ CBM-CFS3: [Carbon Budget Model](https://natural-resources.canada.ca/climate-chan
 
 IBIS: [ORNL DAAC INTEGRATED BIOSPHERE SIMULATOR MODEL (IBIS), VERSION 2.5](https://daac.ornl.gov/MODELS/guides/IBIS_Guide.html)
 
+ED2: [GitHub - EDmodel/ED2: Ecosystem Demography Model](https://github.com/EDmodel/ED2)
+
+- [Ecosystem heterogeneity determines the ecological resilience of the Amazon to climate change | PNAS](https://www.pnas.org/doi/10.1073/pnas.1511344112) | 生态系统异质性决定了亚马逊对气候变化的生态复原力
+- [GMD - The biophysics, ecology, and biogeochemistry of functionally diverse, vertically and horizontally heterogeneous ecosystems: the Ecosystem Demography model, version 2.2 – Part 2: Model evaluation for tropical South America](https://gmd.copernicus.org/articles/12/4347/2019/)
+
 ROTHC: [Rothamsted Carbon Model (ROTHC) | Rothamsted Research](https://www.rothamsted.ac.uk/rothamsted-carbon-model-rothc)
 
 > [Theoretical Ecosystem Ecology](https://www.bgc-jena.mpg.de/TEE/index.html) | [Run the RothC model for a site](https://www.bgc-jena.mpg.de/TEE/basics/2015/11/19/RothC/)
@@ -207,13 +212,29 @@ forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potenti
 
 [Important role of Fe oxides in global soil carbon stabilization and stocks | Nature Communications](https://www.nature.com/articles/s41467-024-54832-8) | Fe 氧化物在全球土壤碳稳定和储量中的重要作用
 
+[Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17576) | 活性铁和活性铝的全球分布影响土壤有机碳的空间变化
+
 [Mineral protection explains the elevational variation of temperature sensitivity of soil carbon decomposition in the Eastern Himalaya - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0929139324000775) | 矿物保护解释了东喜马拉雅地区土壤碳分解温度敏感性的海拔变化; 铁铝氧化物
+
+[Erosion and deposition regulate soil carbon by mediating Fe-Carbon fixation mode in a typical catchment in the black soil region of Northeastern China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816223007956)
+
+[Networks of mineral-associated organic matter fractions in forest ecosystems - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969723041785) | Fe-Al & MAOM
+
+[BG - Ecosystem-specific patterns and drivers of global reactive iron mineral-associated organic carbon](https://bg.copernicus.org/articles/20/4761/2023/) | Fe-Al & MAOM
 
 ### Litter
 
 [Living and decaying roots as regulators of soil aggregation and organic matter formation—from the rhizosphere to the detritusphere - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071724001925) | 根系分解进入到碎屑层
 
 [Spatial modeling of litter and soil carbon stocks on forest land in the conterminous United States - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0048969718342591)
+
+### Rock
+
+[Spatial variation of global surface soil rock fragment content and its roles on hydrological and ecological patterns - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S034181622100610X)
+
+[Soil rock fragments: Unquantified players in terrestrial carbon and nitrogen cycles - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706121006108)
+
+[Responses of soil carbon and nitrogen cycles to the physical influences of rock fragment in soils - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816221002289)
 
 ### SOC
 
@@ -326,3 +347,7 @@ forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potenti
 [LY/T 1239-1999 - 森林土壤pH值的测定](https://www.cnemc.cn/jcgf/trhj/201711/W020181008687791330212.pdf) 30min
 
 [Changes in soil biological activities under reduced soil pH during Thlaspi caerulescens phytoextraction - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071705004128) 200rpm
+
+------
+
+[pH: A core node of interaction networks among soil organo-mineral fractions - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0160412023003318) pH&MAOM

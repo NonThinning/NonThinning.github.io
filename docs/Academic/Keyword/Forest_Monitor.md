@@ -90,3 +90,8 @@ comments: true
 - [World Resources Institute](https://github.com/wri)
 - [Homepage— Land & Carbon Lab](https://landcarbonlab.org/)
 - [Bezos Earth Fund](https://www.bezosearthfund.org/)
+
+[Advancing mangrove species mapping: An innovative approach using Google Earth images and a U-shaped network for individual-level Sonneratia apetala detection - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0924271624003939)
+
+- Use Google Earth images
+- [Detecting and mapping tree crowns based on convolutional neural network and Google Earth images - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0303243422000903)

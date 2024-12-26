@@ -42,3 +42,8 @@ comments: true
 - [SDMtoolbox: a python-based ArcGIS toolbox for evolution and ecology](https://www.sdmtoolbox.org/)
 - [基于Biomod2组合模型的我国山杨潜在分布区研究 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=WStw-Pbchow-5b4bvMBe7nm59b4v8I2PPWwXh3u0NIZLF6Ga4r4ZEakKvhO1HTWLHyNo4lmHjqKEB1oWKmxN_7kaFhlLtSckWltfRVcnyhtovDOSNCMOHaH1QWNhbupgzLB9ND1SA2VsNglGKrcwxw==&uniplatform=NZKPT&language=CHS)
 
+## Article
+
+[PPDC: an online platform for the prediction of plant distributions in China | Journal of Plant Ecology | Oxford Academic](https://academic.oup.com/jpe/article/17/6/rtae094/7821111?login=true)
+
+

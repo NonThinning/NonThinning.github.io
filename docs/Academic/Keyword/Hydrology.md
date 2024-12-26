@@ -65,6 +65,35 @@ comments: true
 
 - [Welcome to Colorado's Decision Support Systems! | Colorado's Decision Support Systems](https://cdss.colorado.gov/)
 
+### Landscape Evolution Model
+
+[LAPSUS LandscApe ProcesS modelling at mUlti-dimensions and Scales - WUR](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/soil-geography-and-landscape-group/research/lapsus-model.htm) | 依申请使用
+
+- [dr. JM (Jeroen) Schoorl - WUR](https://www.wur.nl/en/persons/jeroen-schoorl.htm)
+- [Earth Surface Processes and Landforms | Geomorphology Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/esp.6031) | 通过景观演变模型评估遗传结构不连续性在恶地侵蚀过程中的作用
+- [Earth Surface Processes and Landforms | Geomorphology Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/esp.4377) | 地貌变化对植被格局和相关沉积物动态的影响
+- [Modelling interactions and feedback mechanisms between land use change and landscape processes - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167880908002417)
+
+[GitHub - badlands-model/badlands: Basin and Landscape Dynamics model](https://github.com/badlands-model/badlands)
+
+- [EARTH CODE LAB](https://earthcolab.org/)
+
+[GMD - r.sim.terrain 1.0: a landscape evolution model with dynamic hydrology](https://gmd.copernicus.org/articles/12/2837/2019/gmd-12-2837-2019.html)
+
+- [Landscape Evolution – Brendan Harmon](https://baharmon.github.io/landscape-evolution)
+
+[GitHub - fastscape-lem/fastscape: A fast, versatile and user-friendly landscape evolution model](https://github.com/fastscape-lem/fastscape)
+
+- [Fastscape - Software tools for landscape evolution modeling](https://fastscape.org/)
+
+[GMD - HyLands 1.0: a hybrid landscape evolution model to simulate the impact of landslides and landslide-derived sediment on landscape evolution](https://gmd.copernicus.org/articles/13/3863/2020/)
+
+[GMD - eSCAPE: Regional to Global Scale Landscape Evolution Model v2.0](https://gmd.copernicus.org/articles/12/4165/2019/)
+
+------
+
+[Landscape evolution models: A review of their fundamental equations - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0169555X14002402)
+
 ## Article
 
 [天然河湾几何形态统计分析](http://skxjz.nhri.cn/article/id/1696)

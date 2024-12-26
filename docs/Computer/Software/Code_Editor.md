@@ -1,4 +1,10 @@
 
+## Emacs
+
+[Emacs China](https://emacs-china.org/)
+
+- [Lem](https://lem-project.github.io/)
+
 ## VSCodium
 
 ### Plugin

@@ -69,6 +69,13 @@ MOLUSCE: [nextgis/qgis_molusce: Modules for Land Use Change Simulations](https:/
 
 [一般社団法人OSGeo日本支部(OSGeo.JP)](https://www.osgeo.jp/)
 
+## More
+
+⭐[SASGIS - Веб-картография и навигация](https://www.sasgis.org/)
+
+- [sasgis · GitHub](https://github.com/sasgis)
+- [GitHub - sasgis/sas.planet.src](https://github.com/sasgis/sas.planet.src)
+
 ## Tips
 
 **QField**

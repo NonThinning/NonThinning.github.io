@@ -22,6 +22,10 @@
 
 [化学空间 Chem-Station](https://cn.chem-station.com/)
 
+[Meekdai](https://blog.meekdai.com/)
+
+- [Gmeek](https://meekdai.com/Gmeek.html)
+
 ------
 
 [Probably Possible](https://dzhu.page/) | Darren Zhu
@@ -40,8 +44,22 @@
 
 [Компьютерный форум Ru.Board](https://forum.ru-board.com/) | 计算机相关
 
+[FanimeCon 2025 Forums - Index](https://forums.fanime.com/index.php)
+
+- [Hentai Music Videos Contest 2024 - WINNERS ANNOUNCED!](https://forums.fanime.com/index.php/topic,22147.0.html)
+- [FanimeCon](https://www.fanime.com/)
+
 [网上读书园地 - Powered by Discuz!](https://www.readfree.net/bbs/) | 超星读秀
 
 [NGA玩家社区](https://ngabbs.com/)
 
 - [开源项目到底怎么玩的 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=41963007&_fp=4)
+
+[论坛 - stage1/s1 游戏动漫论坛](https://bbs.saraba1st.com/2b/forum.php)
+
+- [94—97年真是中国暴力犯罪的“黄金时期” - 卓明谷 - Stage1st - stage1/s1 游戏动漫论坛](https://bbs.saraba1st.com/2b/thread-2219147-1-1.html) | [燕赵刑警 (豆瓣)](https://movie.douban.com/subject/5360005/)
+
+[卢诗翰 - 知乎](https://www.zhihu.com/people/lu-shi-han-89)
+
+- [性别战争三十年 - 知乎](https://zhuanlan.zhihu.com/p/410055033)
+- [擦边的核心在于会击碎婚恋市场泡沫](https://mp.weixin.qq.com/s/-ZdJDOJknRSuxdczOYEdKA)
