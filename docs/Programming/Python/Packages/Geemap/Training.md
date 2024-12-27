@@ -272,3 +272,22 @@ geemap.download_ee_image(
     max_tile_dim = 512
 )
 ```
+
+## (Doing)
+
+```Python
+import ee
+import geemap
+import numpy
+geemap.ee_initialize()
+MoTa = geemap.geojson_to_ee(r"C:\Users\Qiao\Documents\GEE_Data\MoTa_2022_1873.geojson")
+Eumer = geemap.geojson_to_ee(r"C:\Users\Qiao\Documents\GEE_Data\Emuer_HyBAS.geojson")
+centroid = ee.Geometry.Polygon(MoTa.first().geometry().coordinates().get(0)).centroid()
+point = (
+    float(numpy.array(centroid.coordinates().getInfo())[1]), 
+    float(numpy.array(centroid.coordinates().getInfo())[0])
+)
+Map = geemap.Map(center=point, zoom=8)
+Map.addLayer(MoTa.style(**{'color': 'ff0000', 'fillColor': '00000000'}), {}, 'MoTa')
+Map.addLayer(Eumer.style(**{'color': 'BFD641', 'fillColor': '00000000'}), {}, 'Eumer');Map
+```
