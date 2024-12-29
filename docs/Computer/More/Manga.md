@@ -9,6 +9,8 @@
 
 [ようこそ、紳士会所へ！](https://www.sshs.pw/)
 
+[Hitomi.la](https://hitomi.la)
+
 ## Software
 
 Tachiyomi: [Home | Mihon](https://mihon.app/) | [Keiyoushi](https://keiyoushi.github.io/extensions/)

@@ -144,6 +144,7 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 - [Home - Cute.Guides - Cute.Guides at 九州大学 Kyushu University](https://guides.lib.kyushu-u.ac.jp/cuteguides/home)
 - [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
 - [AcWiki 大学生的百科全书](https://ac-wiki.github.io/AcWiKi/)
+- [Academic Criterion and Scientific Paper Writing](https://mmcheng.net/writing/)
 
 [Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
 
