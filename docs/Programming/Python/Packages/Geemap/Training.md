@@ -273,7 +273,12 @@ geemap.download_ee_image(
 )
 ```
 
-## (Doing)
+## Calculate Histogram Matching
+
+[一种快速修复Landsat影像条带色差的方法](https://www.gpxygpfx.com/article/2023/1000-0593-43-11-3483.html)
+
+- [bqt2000204051.users.earthengine.app/javascript/landsat-5-modules.json](https://bqt2000204051.users.earthengine.app/javascript/landsat-5-modules.json)
+- [GitHub - xingguangYan/Landsat-5-NDWI-image-restoration](https://github.com/xingguangYan/Landsat-5-NDWI-image-restoration)
 
 ```Python
 import ee
@@ -290,4 +295,161 @@ point = (
 Map = geemap.Map(center=point, zoom=8)
 Map.addLayer(MoTa.style(**{'color': 'ff0000', 'fillColor': '00000000'}), {}, 'MoTa')
 Map.addLayer(Eumer.style(**{'color': 'BFD641', 'fillColor': '00000000'}), {}, 'Eumer');Map
+
+# https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LT05_C02_T1_L2
+def apply_scale_factors(image):
+  optical_bands = image.select('SR_B.').multiply(0.0000275).add(-0.2)
+  thermal_bands = image.select('ST_B6').multiply(0.00341802).add(149.0)
+  return image.addBands(optical_bands, None, True).addBands(thermal_bands, None, True)
+
+# https://developers.google.com/earth-engine/landsat_c1_to_c2
+def Mask(image):
+    qaMask = image.select('QA_PIXEL').bitwiseAnd(int('11111', 2)).eq(0)
+    return image.updateMask(qaMask)
+
+Vis = {
+  "bands": ['SR_B3', 'SR_B2', 'SR_B1'],
+  "min": 0.0,
+  "max": 0.2,
+}
+
+dataset = (
+    ee.ImageCollection("LANDSAT/LT05/C02/T1_L2")
+    .filterDate('1987-06-01', '1987-09-01')
+    .filterBounds(MoTa)
+    .filter(ee.Filter.inList('system:index', 
+                             ["LT05_121023_19870624", 
+                              "LT05_122023_19870615", 
+                              "LT05_123023_19870606"])) # 根据特定字段名称的列表筛选
+    # .filter(ee.Filter.lte('CLOUD_COVER', 10)) # 根据云量筛选小于该云量的影像
+    .sort('CLOUD_COVER')
+    .map(apply_scale_factors)
+    # .map(Mask) # 云遮罩
+)
+dataset
+
+Map.addLayer(dataset, Vis, "dataset") # 显示集合
+Map.addLayer(ee.Image(dataset.toList(dataset.size()).get(0)), Vis, "dataOnly");Map # 显示列表中第一幅
+
+# 计算NBR测试
+def addNBR(image):
+    nbr = image.normalizedDifference(['SR_B4', 'SR_B5']).rename('NBR')
+    return image.addBands(nbr)
+
+VisNBR = {
+  "min": -1.0,
+  "max": 1.0,
+  "palette": ['0000ff','00ffff','ffff00','ff0000','ffffff'],
+}
+
+Map.addLayer(addNBR(ee.Image(dataset.toList(dataset.size()).get(2))).select("NBR"), VisNBR, "data2") # 显示列表中第一幅
+Map.addLayer(addNBR(ee.Image(dataset.toList(dataset.size()).get(1))).select("NBR"), VisNBR, "data1")
+Map.addLayer(addNBR(ee.Image(dataset.toList(dataset.size()).get(0))).select("NBR"), VisNBR, "data0");Map # 显示列表中第一幅
+
+# https://www.gpxygpfx.com/article/2023/1000-0593-43-11-3483.html
+# https://bqt2000204051.users.earthengine.app/javascript/landsat-5-modules.json
+# https://github.com/xingguangYan/Landsat-5-NDWI-image-restoration
+# 参考影像区域，向内缓冲区，减少边界的影响
+data_ref = ee.Image(dataset.toList(dataset.size()).get(0)).geometry().buffer(-1000)
+Map.addLayer(data_ref, {}, "data_ref");Map
+
+data_roi1 = (
+    (ee.Image(dataset.toList(dataset.size()).get(1)).geometry())
+             .difference((ee.Image(dataset.toList(dataset.size()).get(1)).geometry())
+                         .intersection(ee.Image(dataset.toList(dataset.size()).get(0)).geometry()))
+    .buffer(1000)
+)
+data_roi2 = (
+    (ee.Image(dataset.toList(dataset.size()).get(2)).geometry())
+             .difference((ee.Image(dataset.toList(dataset.size()).get(2)).geometry())
+                         .intersection(ee.Image(dataset.toList(dataset.size()).get(0)).geometry()))
+    .buffer(1000)
+)
+# 待修复区域1,2
+Map.addLayer(data_roi1, {}, "data_roi1")
+Map.addLayer(data_roi2, {}, "data_roi2");Map
+
+# "blue", "green", "red", "nir", "swir1", "swir2", "nir"
+reference = (
+    addNBR(ee.Image(dataset.toList(dataset.size()).get(0)))
+    .select(["SR_B1", "SR_B2", "SR_B3", "SR_B4", "SR_B5", "SR_B7", "NBR"])
+    .clip(data_ref).clip(MoTa)
+)
+target1 = (
+    addNBR(ee.Image(dataset.toList(dataset.size()).get(1)))
+    .select(["SR_B1", "SR_B2", "SR_B3", "SR_B4", "SR_B5", "SR_B7", "NBR"])
+    .clip(data_roi1).clip(MoTa)
+)
+target2 = (
+    addNBR(ee.Image(dataset.toList(dataset.size()).get(2)))
+    .select(["SR_B1", "SR_B2", "SR_B3", "SR_B4", "SR_B5", "SR_B7", "NBR"])
+    .clip(data_roi2).clip(MoTa)
+)
+
+Map.addLayer(reference, Vis, "Testref")
+Map.addLayer(target1, Vis, "Testtar1")
+Map.addLayer(target2, Vis, "Testtar2"); Map
+
+hisref = geemap.image_histogram(
+    reference.select("NBR").multiply(100).toInt(), 
+    reference.geometry(), scale = 30, return_df = False
+)
+histar1 = geemap.image_histogram(
+    target1.select("NBR").multiply(100).toInt(), 
+    target1.geometry(), scale = 30, return_df = False
+)
+histar1
+
+# isinstance(reference, ee.Image) # 判断是否为ee.Image变量
+def getHistData(image, band):
+    # image = reference; band = "NBR"
+    histogram = image.reduceRegion(
+        reducer = ee.Reducer.histogram(maxBuckets = 2 ** 9), 
+        geometry = image.geometry(), 
+        scale = 100, 
+        maxPixels = 1e13)
+    dnList = ee.List(ee.Dictionary(histogram.get(band)).get("bucketMeans"))
+    countsList = ee.List(ee.Dictionary(histogram.get(band)).get("histogram"))
+    cumulativeCountsArray = ee.Array(countsList).accum(axis = 0)
+    totalCount = cumulativeCountsArray.get([-1])
+    cumulativeProbabilities = cumulativeCountsArray.divide(totalCount)
+    array = ee.Array.cat(arrays = [dnList, cumulativeProbabilities], axis = 1)
+    def list(list):
+        return ee.Feature(None, {"dn":ee.List(list).get(0), "probability":ee.List(list).get(1)})
+    fc = ee.FeatureCollection(array.toList().map(list))
+    return fc
+
+def equalize(referenceImage, targetImage, band):
+    # referenceImage = reference; targetImage = target1; band = "NBR"
+    referenceHistData = getHistData(referenceImage, band)
+    targetHistData = getHistData(targetImage, band)
+    probToDn = (
+        ee.Classifier.smileRandomForest(100)
+        .setOutputMode("REGRESSION")
+        .train(features = referenceHistData, 
+               classProperty = "dn", 
+               inputProperties = ["probability"])
+    )
+    dnToProb = (
+        ee.Classifier.smileRandomForest(100)
+        .setOutputMode("REGRESSION")
+        .train(features = targetHistData, 
+               classProperty = "probability", 
+               inputProperties = ["dn"])
+    )
+    targetImageProb = targetImage.select(band).rename('dn').classify(dnToProb, "probability")
+    targetImageDn = targetImageProb.classify(probToDn, band)
+    return targetImageDn
+
+bandNames = ["SR_B1", "SR_B2", "SR_B3", "SR_B4", "SR_B5", "SR_B7", "NBR"]
+def match(referenceImage, targetImage, bandNames):
+    def banddef(band):
+        return equalize(referenceImage, targetImage, band)
+    matchedBands = [banddef(x) for x in bandNames] # 对js中map函数的改写
+    return ee.Image.cat(matchedBands)
+
+matched = match(reference, target2, bandNames); matched
+matchedNBR = matched.select("NBR").toDouble(); matchedNBR
+Map.addLayer(matchedNBR, VisNBR, "data2_hist");Map # 显示列表中第一幅
 ```
+
