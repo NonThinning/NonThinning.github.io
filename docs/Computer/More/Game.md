@@ -83,6 +83,10 @@
 - [Custom Maid 3d2 1.70.6 Vanilla :: Sukebei](https://sukebei.nyaa.si/view/3843636)
 - [KissCharacter EditSystem 1.25.1 Vanilla BT/Magnet-GGBases](https://ggbases.dlgal.com/view.so?id=117877)
 
+- [CustomMaid3D2 - カスタムメイド3D2](https://www.kisskiss.tv/cm3d2/update.php)
+- [CUSTOM ORDER MAID 3D2 & 2.5 アップデータ](https://com3d2.jp/update/)
+- [KissCharacter EditSystem／CR EditSystem アップデータ](https://cr-edit.jp/update/)
+
 - [GitHub - zxyacb/ntlea](https://github.com/zxyacb/ntlea)
 - [Home | COM Modular Installer](https://krypto5863.github.io/COM-Modular-Installer/)
 

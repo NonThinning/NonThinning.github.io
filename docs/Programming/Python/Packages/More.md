@@ -23,6 +23,8 @@
 
 [Welcome to the SHAP documentation — SHAP latest documentation](https://shap.readthedocs.io/en/latest/index.html)
 
+[GitHub - fengdu78/lihang-code: 《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
+
 ## Compute
 
 [pyopencl ·PyPI](https://pypi.org/project/pyopencl/)

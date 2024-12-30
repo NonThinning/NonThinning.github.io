@@ -19,6 +19,15 @@
 
 [SAI | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.aefyr.sai.fdroid/) | .Apks Install
 
+## Download
+
+[1DM+「原：IDM+」 v17.2 for Android 官方原版 + 直装解锁中文版 —— 您想要的超快万能下载神器！ | 异星软件空间](https://www.yxssp.com/23740.html)
+
+- [1DM/1DM Lite/1DM+ FAQ](https://www.apps2sd.info/idmp/faq)
+- [1DM Changelog](https://www.apps2sd.info/idm/changelog.html)
+
+[Gopeed - 一款现代化的下载器](https://gopeed.com/zh-CN)
+
 ## GIS/GNSS
 
 [QField - Efficient field work built for QGIS](https://qfield.org/)
@@ -26,6 +35,10 @@
 - [OPENGIS.ch – OPEN-SOURCE GEONINJAS](https://www.opengis.ch/)
 - [opengisch/QField: A simplified touch optimized interface for QGIS](https://github.com/opengisch/QField)
 - [Pictures - QField Ecosystem Documentation](https://docs.qfield.org/how-to/pictures/) | QField的高级用法
+
+[MerginMaps/mobile: Mergin Maps mobile app 📲 Open QGIS projects and manage vector data on your phone, even offline 📶 (Android/iOS/Windows app)](https://github.com/MerginMaps/mobile)
+
+- [Collecting Field Data with QGIS and Mergin Maps](https://locatepress.com/book/mergin-maps)
 
 [barbeau/gpstest: The #1 open-source Android GNSS/GPS test program](https://github.com/barbeau/gpstest)
 
@@ -58,6 +71,8 @@
 [saber-notes/saber: The cross-platform open-source app built for handwriting](https://github.com/saber-notes/saber)
 
 - [Saber | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.adilhanney.saber/) | 手写笔记
+
+[Drawpile | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/net.drawpile/)
 
 [GitHub - Zimbelstern/Tournant: Tournant is a recipe manager which serves your dishes on your Android device! It is compatible with the Gourmand desktop application.](https://github.com/zimbelstern/Tournant)
 

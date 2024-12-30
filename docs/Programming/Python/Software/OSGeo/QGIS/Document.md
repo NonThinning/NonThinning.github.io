@@ -50,6 +50,8 @@ Project Packager: [Project Packager](https://plugins.qgis.org/plugins/ProjectPac
 
 MOLUSCE: [nextgis/qgis_molusce: Modules for Land Use Change Simulations](https://github.com/nextgis/qgis_molusce)
 
+Semi-Automatic Classification Plugin: [Semi-Automatic Classification Plugin Documentation — Semi-Automatic Classification Plugin 8.3.0.2 documentation](https://semiautomaticclassificationmanual.readthedocs.io/en/latest/index.html)
+
 ------
 
 [GRASS GIS 8.3.2dev Reference Manual - GRASS GIS Manual (osgeo.org)](https://grass.osgeo.org/grass83/manuals/index.html)

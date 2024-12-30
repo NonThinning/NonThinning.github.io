@@ -40,6 +40,12 @@ comments: true
 
 - 卫星数据以及生态学家用来分析它们的工具比以往任何时候都更容易获得和丰富。
 
+## Software
+
+[Forest Observations](https://forobs.jrc.ec.europa.eu/IMPACT) | IMPACT Toolbox
+
+- [Forest](https://forest.jrc.ec.europa.eu/en/activities/lpa/gtb/) | GuidosToolbox (GTB)
+
 ## Data
 
 [Delivering Global Omniscience • Umbra](https://umbra.space/) | 高分辨率SAR影像，可用于测试
@@ -95,3 +101,15 @@ comments: true
 
 - Use Google Earth images
 - [Detecting and mapping tree crowns based on convolutional neural network and Google Earth images - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0303243422000903)
+
+[耦合时序特征的林分类型遥感识别](http://j.bjfu.edu.cn/cn/article/doi/10.12171/j.1000-1522.20230093)
+
+- [Google Earth Engine支持下的江苏省夏收作物遥感提取](https://www.dqxxkx.cn/article/2019/1560-8999/1560-8999-21-5-752.shtml)
+
+### Remote Sensing
+
+[Pan-tropical Sentinel-2 cloud-free annual composite datasets - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340921007691) | 处理过程可参考
+
+[A Technical Review of Planet Smallsat Data: Practical Considerations for Processing and Using PlanetScope Imagery](https://www.mdpi.com/2072-4292/13/19/3930)
+
+[基于生成对抗网络的遥感影像色彩一致性方法](https://www.cgsjournals.com/article/doi/10.6046/zrzyyg.2021316)
