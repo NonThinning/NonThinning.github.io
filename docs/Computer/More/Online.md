@@ -26,6 +26,13 @@
 
 - [Gmeek](https://meekdai.com/Gmeek.html)
 
+[A Few Thoughts on Cryptographic Engineering – Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds.](https://blog.cryptographyengineering.com/)
+
+- [Matthew Green - Johns Hopkins Whiting School of Engineering](https://engineering.jhu.edu/faculty/matthew-green/)
+- [tornado-repositories](https://github.com/tornado-repositories)
+
+[FisherAI](https://fisherdaddy.com/) | 技术博客分享
+
 ------
 
 [Probably Possible](https://dzhu.page/) | Darren Zhu
@@ -63,6 +70,10 @@
 
 - [性别战争三十年 - 知乎](https://zhuanlan.zhihu.com/p/410055033)
 - [擦边的核心在于会击碎婚恋市场泡沫](https://mp.weixin.qq.com/s/-ZdJDOJknRSuxdczOYEdKA)
+
+[尼堪巴图鲁 - 知乎](https://www.zhihu.com/people/ni-kan-ba-tu-lu)
+
+- [中国当代艺术：白人女人当武侠英雄 - 知乎](https://zhuanlan.zhihu.com/p/84069887)
 
 ## More
 

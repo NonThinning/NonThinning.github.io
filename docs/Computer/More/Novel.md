@@ -12,6 +12,13 @@
 
 [Noble Machine translations - korean and chinese Machine translations](https://noblemtl.com/) | English
 
+[Novel Updates - Directory of Asian Translated Novels](https://www.novelupdates.com/)
+
+- [Inside the Cave of Obscenity - Novel Updates](https://www.novelupdates.com/series/inside-the-cave-of-obscenity/)
+- [淫靡な洞窟のその奥での関連書籍｜カドコミ (コミックウォーカー)](https://comic-walker.com/detail/KC_005133_S/related)
+- [淫靡な洞窟のその奥で | ESJ](https://www.esjzone.one/detail/1610937935.html)
+- [淫靡な洞窟のその奥で | Syosetu](https://novel18.syosetu.com/n8383bs/)
+
 [轻小说机翻机器人](https://books.fishhawk.top/)
 
 [哔哩轻小说](https://www.bilinovel.com/) | [轻小说文库](https://www.wenku8.net/index.php) | [轻之国度](https://www.lightnovel.us/) | [神凑轻小说文库](https://m.shencou.com/) | [輕小說百科](https://lnovel.tw/)

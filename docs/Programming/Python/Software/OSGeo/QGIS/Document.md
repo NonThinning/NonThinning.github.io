@@ -60,6 +60,8 @@ Semi-Automatic Classification Plugin: [Semi-Automatic Classification Plugin Docu
 
 [Orfeo ToolBox – Orfeo ToolBox is not a black box](https://www.orfeo-toolbox.org/)
 
+[PostGIS](https://postgis.net/) | [PostGIS 3.5.2dev Manual](https://postgis.net/docs/)
+
 [Web GIS made easy | NextGIS](https://nextgis.com/)
 
 - [NextGIS QGIS](https://nextgis.com/nextgis-qgis/)

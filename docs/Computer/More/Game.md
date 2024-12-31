@@ -37,6 +37,11 @@
 
 [GalaxyTrail, LLC - Developer of Freedom Planet](https://galaxytrail.com/home)
 
+[Syphon Trip](https://saikuru319.skr.jp/)
+
+- [Recettear: An Item Shop's Tale - Wikipedia](https://en.wikipedia.org/wiki/Recettear%3A_An_Item_Shop%27s_Tale)
+- [EasyGameStation](https://www.egs-soft.info/)
+
 ## Shoot
 
 [Strike Force Heroes](https://sfhgame.com/)

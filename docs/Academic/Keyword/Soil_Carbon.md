@@ -97,6 +97,7 @@ CO2Fix: [EuropeanForestInstitute/CO2Fix-distribution: CO2Fix model software](htt
 - [Ecosystem Dynamics and Forest Management Lab - School of Life Sciences - Technical University of Munich](https://github.com/edfm-tum)
 - [The individual-based forest landscape and disturbance model iLand: Overview, progress, and outlook - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S030438002400173X)
 - [Global Change Biology | Environmental Change Journal | Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17121)
+- [How robust are future projections of forest landscape dynamics? Insights from a systematic comparison of four forest landscape models - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364815220309014?via%3Dihub)
 
 LANDIS-II: [LANDIS-II Forest landscape model](https://www.landis-ii.org/home)
 

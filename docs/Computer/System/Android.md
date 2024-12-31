@@ -80,6 +80,8 @@
 
 [GitHub - guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。](https://github.com/guozhigq/pilipala)
 
+[GitHub - InfinityLoop1308/PipePipe: A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.](https://github.com/InfinityLoop1308/PipePipe)
+
 [GitHub - xiaye13579/ACAC: 一个第三方AcFun TV和Pad客户端，A third-party AcFun client for TV & Pad。](https://github.com/xiaye13579/ACAC)
 
 [GitHub - xiaoyaocz/dart_simple_live: 简简单单的看直播](https://github.com/xiaoyaocz/dart_simple_live)
