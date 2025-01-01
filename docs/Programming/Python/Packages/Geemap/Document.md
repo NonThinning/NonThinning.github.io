@@ -11,6 +11,10 @@
 
 [awesome-gee-community-catalog](https://gee-community-catalog.org/)
 
+[Awesome Spectral Indices — Awesome Spectral Indices for Google Earth Engine](https://awesome-ee-spectral-indices.readthedocs.io/en/latest/)
+
+- [awesome-spectral-indices/awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) | 用于遥感应用的即用型精选光谱指数列表
+
 [Earth Engine Data Catalog  |  Google for Developers](https://developers.google.cn/earth-engine/datasets)
 
 - [Landsat Collection 2 Tier 1 Level 2 32-Day NDVI Composite  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_COMPOSITES_C02_T1_L2_32DAY_NDVI) | 仅有初步预处理
@@ -35,7 +39,25 @@
 
 [Spatial Thoughts – An Open Learning Platform For Modern Geospatial Technologies](https://spatialthoughts.com/)
 
-> [Tiling Large Exports in Google Earth Engine – Spatial Thoughts](https://spatialthoughts.com/2024/10/23/large-image-exports-gee/) | 在 Google Earth Engine 中平铺大型导出数据
+- [Tiling Large Exports in Google Earth Engine – Spatial Thoughts](https://spatialthoughts.com/2024/10/23/large-image-exports-gee/) | 在 Google Earth Engine 中平铺大型导出数据
+- [Histogram Matching in Google Earth Engine – Spatial Thoughts](https://spatialthoughts.com/2020/07/14/histogram-matching-gee/)
+- [Suggested Learning Paths – Spatial Thoughts](https://spatialthoughts.com/learning-paths/)
+
+[GEE • Geo-IT • Department of Earth Sciences](https://www.geo.fu-berlin.de/en/v/geo-it/gee/index.html)
+
+[Google Earth – Medium](https://medium.com/@googleearth)
+
+- [Otsu’s Method for Image Segmentation | by Google Earth | Google Earth and Earth Engine | Medium](https://medium.com/google-earth/otsus-method-for-image-segmentation-f5c48f405e)
+- [Histogram Matching. Earth Engine by Example | by Noel Gorelick | Google Earth and Earth Engine | Medium](https://medium.com/google-earth/histogram-matching-c7153c85066d)
+
+[Tutorials | ramirodcrego](https://ramirodcrego.com/teaching/) | species distribution models, Google Earth Engine
+
+### Video
+
+[Robust Color Matching of Geospatial Data An Alternative to Histogram Matching | SciPy 2017 | Joe K - YouTube](https://www.youtube.com/watch?app=desktop&v=i4K0uy4pQnw)
+
+- [SciPy Conferences](https://conference.scipy.org/)
+- [SciPy -](https://scipy.org/)
 
 ### Package
 
@@ -53,6 +75,12 @@
 pip install oeel
 scoop install main/nodejs
 ```
+
+[Documentation — SEPAL documentation](https://docs.sepal.io/en/latest/index.html)
+
+- [Open Foris](https://github.com/openforis)
+- [Open Foris](https://openforis.org/)
+- [Home - openMRV](https://www.openmrv.org/home)
 
 ### Algorithm
 
@@ -74,6 +102,10 @@ scoop install main/nodejs
 
 - 使用多源卫星数据运行 LandTrendr 算法
 
+[jdbcode/ee-rgb-timeseries: Earth Engine JS module to color time series chart points as stretched 3-band RGB.](https://github.com/jdbcode/ee-rgb-timeseries) | RGB 时间序列图表，仅js
+
+[aazuspan/geeSharp: Pan-sharpening in the Earth Engine code editor](https://github.com/aazuspan/geeSharp) 全色锐化
+
 ### Code
 
 [ekhiroteta/BAMT](https://github.com/ekhiroteta/BAMT)
@@ -94,9 +126,23 @@ scoop install main/nodejs
 
 [Automated generation of consistent annual maximum NDVI on coal bases with a new algorithm | Scientific Data](https://www.nature.com/articles/s41597-024-03543-2) | GEE Code
 
+[geemap/examples/notebooks/otsu.ipynb at v0.29.6 · gee-community/geemap](https://github.com/gee-community/geemap/blob/v0.29.6/examples/notebooks/otsu.ipynb) | OTSU阈值分割
+
+[A Random Forest Algorithm for Landsat Image Chromatic Aberration Restoration Based on GEE Cloud Platform&mdash;A Case Study of Yucat&aacute;n Peninsula, Mexico](https://www.mdpi.com/2072-4292/14/20/5154)
+
+- [xingguangYan (XINGGUANG YAN ) · GitHub](https://github.com/xingguangYan)
+
+[GEEMAP 基本操作（二）如何对 Landsat 进行全色锐化_高清卫星影像tif格式怎么转变为全色卫星影像-CSDN博客](https://blog.csdn.net/weixin_46601231/article/details/132421907)
+
+[GEEMAP 基本操作（三）如何对图像进行 3D 叠加显示 （图像混合 blend）_超影像3d叠加-CSDN博客](https://hantf.blog.csdn.net/article/details/132634350)
+
+[Google Earth Engine 之 查看APP 源码_earth engine apps代码-CSDN博客](https://blog.csdn.net/Dragonzxc/article/details/123172736) | 通过此方法查找对应的json文件
+
+[Environmental Data Science - Burn Severity with Sentinel-2 data using Google Earth Engine](https://romero61.github.io/posts/SentinelNBR/)
+
 ## People
 
-[fitoprincipe (Rodrigo E. Principe)](https://github.com/fitoprincipe)
+⭐[fitoprincipe (Rodrigo E. Principe)](https://github.com/fitoprincipe)
 
 > [gee-community/geetools: A collection of tools to work with Google Earth Engine Python API](https://github.com/gee-community/geetools)
 

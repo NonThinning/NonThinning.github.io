@@ -10,6 +10,10 @@ comments: true
 - the Greater Khingan Mountains: [Inner Mongolia approved to implement territorial spatial planning](https://english.www.gov.cn/policies/latestreleases/202312/21/content_WS6584026dc6d0868f4e8e2699.html)
 - the Greater Khingan Range: [Forest winter carnival kicks off - Chinadaily.com.cn](https://www.chinadaily.com.cn/a/202212/26/WS63a9120aa31057c47eba62d1_1.html)
 
+## Policies
+
+[关于印发《东北森林带生态保护和修复重大工程建设规划（2021—2035年）》的通知_国务院部门文件_中国政府网](https://www.gov.cn/zhengce/zhengceku/2022-01/14/content_5668164.htm)
+
 ## Data
 
 [黑龙江史志网](https://www.hljszw.org.cn/) | [数字方志](https://www.hljszw.org.cn/home/book/index/id/42/fid/1.html) | 大兴安岭相关方志历史资料

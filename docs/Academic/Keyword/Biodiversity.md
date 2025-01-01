@@ -46,4 +46,4 @@ comments: true
 
 [PPDC: an online platform for the prediction of plant distributions in China | Journal of Plant Ecology | Oxford Academic](https://academic.oup.com/jpe/article/17/6/rtae094/7821111?login=true)
 
-
+[What can community ecologists learn from species distribution models? - Murphy - 2021 - Ecosphere - Wiley Online Library](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3864)

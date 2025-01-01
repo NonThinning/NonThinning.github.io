@@ -50,6 +50,8 @@ Project Packager: [Project Packager](https://plugins.qgis.org/plugins/ProjectPac
 
 MOLUSCE: [nextgis/qgis_molusce: Modules for Land Use Change Simulations](https://github.com/nextgis/qgis_molusce)
 
+Semi-Automatic Classification Plugin: [Semi-Automatic Classification Plugin Documentation — Semi-Automatic Classification Plugin 8.3.0.2 documentation](https://semiautomaticclassificationmanual.readthedocs.io/en/latest/index.html)
+
 ------
 
 [GRASS GIS 8.3.2dev Reference Manual - GRASS GIS Manual (osgeo.org)](https://grass.osgeo.org/grass83/manuals/index.html)
@@ -57,6 +59,8 @@ MOLUSCE: [nextgis/qgis_molusce: Modules for Land Use Change Simulations](https:/
 [SAGA - System for Automated Geoscientific Analyses (sourceforge.io)](https://saga-gis.sourceforge.io/en/index.html)
 
 [Orfeo ToolBox – Orfeo ToolBox is not a black box](https://www.orfeo-toolbox.org/)
+
+[PostGIS](https://postgis.net/) | [PostGIS 3.5.2dev Manual](https://postgis.net/docs/)
 
 [Web GIS made easy | NextGIS](https://nextgis.com/)
 
