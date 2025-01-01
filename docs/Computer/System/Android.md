@@ -117,6 +117,10 @@
 
 [手心输入法](https://www.xinshuru.com/index.html?p=win)
 
+## Dictionary
+
+[GitHub - mumu-lhl/Ciyue: A simple mdict dictionary with Android support](https://github.com/mumu-lhl/Ciyue)
+
 ## Game
 
 [Andor's Trail - Index page](https://andorstrail.com/)

@@ -1,4 +1,10 @@
 
+## Quant
+
+[幻方 | 首页](https://www.high-flyer.cn/#index)
+
+- [DeepSeek | 深度求索](https://www.deepseek.com/)
+
 ## PCB
 
 [立创开源硬件平台](https://oshwhub.com/)
@@ -10,6 +16,8 @@
 [龙芯开源社区 (loongnix.cn)](http://www.loongnix.cn/zh/)
 
 - [LA UOSC (loongarch.org)](https://bbs.loongarch.org/)
+- [数学计算库软件OpenBLAS的最新版本在龙架构上已完全可用了 - LA UOSC](https://bbs.loongarch.org/d/441-openblas)
+
 - [首页 | 咱龙了吗？ (areweloongyet.com)](https://areweloongyet.com/)
 - [LoongArch 开放社区](https://loongarch.dev/zh-cn/)
 - [龙芯开发者社区知识库](https://wiki.whlug.cn/)
@@ -17,6 +25,9 @@
 - [计算机体系结构基础](https://foxsen.github.io/archbase/)
 - [智能计算系统官方网站](https://novel.ict.ac.cn/aics/)
 - [Banana Pi BPI-3A6000 Mini Computer with Loongson 3A6000 chip design | BananaPi Docs](https://docs.banana-pi.org/en/BPI-3A6000/BananaPi_BPI-3A6000)
+- [龙芯爱好者社区](https://www.loongbbs.cn/)
+
+- [Updated Debian Ports installation images 2024-11-11](https://lists.debian.org/debian-loongarch/2024/11/msg00002.html) | `This batch includes the very first installation image for loong64.`
 
 ## GNSS
 

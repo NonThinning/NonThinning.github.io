@@ -147,7 +147,7 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 - [AcWiki 大学生的百科全书](https://ac-wiki.github.io/AcWiKi/)
 - [Academic Criterion and Scientific Paper Writing](https://mmcheng.net/writing/)
 
-[Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
+[Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读](https://www.buzzing.cc/)
 
 [Cyber-physical Systems: Theory, Methodology, and Applications | IEEE eBooks | IEEE Xplore](https://ieeexplore.ieee.org/book/9794564)
 
@@ -166,3 +166,7 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 >
 > Stallman is more like some sort of a monk who doesn't have any link to reality, he may pray somewhere in his temple but no one cares.
 > ——@bernd_the_almighty
+
+[Debian -- What does free mean?](https://www.debian.org/intro/free)
+
+- `which allows people to sell the software`

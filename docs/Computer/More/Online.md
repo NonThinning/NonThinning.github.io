@@ -58,6 +58,10 @@
 
 [网上读书园地 - Powered by Discuz!](https://www.readfree.net/bbs/) | 超星读秀
 
+[FreeMdict Forum - 自由 无门槛 免费](https://forum.freemdict.com/)
+
+- [FreeMdict - mdx mdd download](https://freemdict.com/)
+
 [NGA玩家社区](https://ngabbs.com/)
 
 - [开源项目到底怎么玩的 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=41963007&_fp=4)
