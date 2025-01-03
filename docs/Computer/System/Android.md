@@ -58,6 +58,16 @@
 
 [Storage Isolation](https://sr.rikka.app/)
 
+[AdAway](https://adaway.org/)
+
+[Fossify](https://www.fossify.org/) | Calendar, contacts, File Manager
+
+[Kunzisoft/KeePassDX: Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.](https://github.com/Kunzisoft/KeePassDX)
+
+[Gadgetbridge](https://gadgetbridge.org/) | Honor Band 6
+
+- [OpenTracks | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/de.dennisguse.opentracks/)
+
 ## BBS
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)
@@ -72,6 +82,8 @@
 
 - [Saber | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.adilhanney.saber/) | 手写笔记
 
+[LinwoodDev/Butterfly: 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app](https://github.com/LinwoodDev/Butterfly)
+
 [Drawpile | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/net.drawpile/)
 
 [GitHub - Zimbelstern/Tournant: Tournant is a recipe manager which serves your dishes on your Android device! It is compatible with the Gourmand desktop application.](https://github.com/zimbelstern/Tournant)
@@ -85,6 +97,10 @@
 [GitHub - xiaye13579/ACAC: 一个第三方AcFun TV和Pad客户端，A third-party AcFun client for TV & Pad。](https://github.com/xiaye13579/ACAC)
 
 [GitHub - xiaoyaocz/dart_simple_live: 简简单单的看直播](https://github.com/xiaoyaocz/dart_simple_live)
+
+## Music
+
+[MusicFree | MusicFree](https://musicfree.catcat.work/)
 
 ## Read
 
