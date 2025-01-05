@@ -7,6 +7,7 @@
 - [中国历史地图集（全八册） (豆瓣)](https://book.douban.com/subject/1055304/) | [为什么不再出版《中国历史地图集》？ - 知乎](https://www.zhihu.com/question/359877118/answer/34348680336)
 - [汉语语法学 (豆瓣)](https://book.douban.com/subject/26883797/)
 - [句法结构 (豆瓣)](https://book.douban.com/subject/35888972/)
+- [古今伪书考补证 (豆瓣)](https://book.douban.com/subject/30222589/)
 
 ## Library
 
