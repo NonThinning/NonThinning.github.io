@@ -32,6 +32,7 @@
 
 - [龙芯爱好者社区](https://www.loongbbs.cn/)
 - [新 Loong Arch Linux 项目发布公告 - 龙芯爱好者社区](https://www.loongbbs.cn/d/156-%E6%96%B0-loong-arch-linux-%E9%A1%B9%E7%9B%AE%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A) | [Linux Club of Peking University](https://github.com/lcpu-club)
+- [龙架构双周会 - 龙芯爱好者社区](https://www.loongbbs.cn/t/loongarch_biweekly_meeting)
 
 - [Updated Debian Ports installation images 2024-11-11](https://lists.debian.org/debian-loongarch/2024/11/msg00002.html) | `This batch includes the very first installation image for loong64.`
 
