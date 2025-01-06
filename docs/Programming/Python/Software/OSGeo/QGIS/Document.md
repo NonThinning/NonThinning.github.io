@@ -30,6 +30,8 @@
 
 [Principles and Applications of GIS and RS](https://principles-and-applications-of-rs-and-gis.readthedocs.io/en/latest/index.html)
 
+[QGIS in Mineral Exploration — QGIS in Mineral Exploration 1.1 documentation](https://qgis-in-mineral-exploration.readthedocs.io/en/latest/index.html)
+
 ## Plugin
 
 QSWAT+: [SWAT+](https://swatplus.gitbook.io/docs/) | [ChrisWGeorge / QSWATPlus3](https://bitbucket.org/ChrisWGeorge/qswatplus3/downloads/)

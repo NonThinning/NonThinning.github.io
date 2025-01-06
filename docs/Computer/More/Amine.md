@@ -7,6 +7,8 @@
 
 [厂长资源官网](https://www.czzy.site/) | 电影为主
 
+[黑木耳资源站](https://heimuer.tv/) | .m3u8链接聚合，电影、电视剧
+
 [御庭摘希- 个人中心_喵御宅_MFuns_兴趣至上的二次元社区](https://www.mfuns.net/member/8952/articleList)
 
 - [【如何找动漫资源①】动画篇：资源搜索＋在线观看_喵御宅_MFuns](https://www.mfuns.net/article/68651)

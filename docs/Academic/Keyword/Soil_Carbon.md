@@ -223,6 +223,8 @@ forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potenti
 
 [BG - Ecosystem-specific patterns and drivers of global reactive iron mineral-associated organic carbon](https://bg.copernicus.org/articles/20/4761/2023/) | Fe-Al & MAOM
 
+[胶结物质驱动的土壤团聚体形成过程与稳定机制](http://pedologica.issas.ac.cn/html/trxb/2023/5/trxb202308060312.htm) | 团聚体，金属氧化物
+
 ### Litter
 
 [Living and decaying roots as regulators of soil aggregation and organic matter formation—from the rhizosphere to the detritusphere - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0038071724001925) | 根系分解进入到碎屑层
