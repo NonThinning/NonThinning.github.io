@@ -5,6 +5,8 @@
 
 [GitHub - chen08209/FlClash: A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.](https://github.com/chen08209/FlClash) | WebDev
 
+- F-Droid:`https://chen08209.github.io/FlClash-fdroid-repo/repo`
+
 [Surfboard Manual](https://getsurfboard.com/)
 
 [GitHub - 2dust/v2rayNG: A V2Ray client for Android, support Xray core and v2fly core](https://github.com/2dust/v2rayNG)
@@ -68,6 +70,12 @@
 
 - [OpenTracks | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/de.dennisguse.opentracks/)
 
+[MT管理器](https://mt2.cn/)
+
+[GKD | 自定义屏幕点击应用](https://gkd.li/)
+
+- [Adpro-Team/GKD_THS_List: GKD第三方订阅收录名单](https://github.com/Adpro-Team/GKD_THS_List)
+
 ## BBS
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)
@@ -77,6 +85,8 @@
 ## Text
 
 [gsantner/markor](https://github.com/gsantner/markor)
+
+[NotallyX - Quick Notes/Tasks | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.philkes.notallyx/)
 
 [saber-notes/saber: The cross-platform open-source app built for handwriting](https://github.com/saber-notes/saber)
 

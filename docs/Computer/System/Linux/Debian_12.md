@@ -31,3 +31,11 @@ qBittorrent Enhanced: [c0re100/qBittorrent-Enhanced-Edition: [Unofficial] qBitto
 ## VMware
 
 [Build host vmware kernel modules - VI-Toolkit](https://wiki.vi-toolkit.com/index.php/Build_host_vmware_kernel_modules) | `sudo apt-get install linux-headers-$(uname -r)`
+
+## Software
+
+[Flatpak—the future of application distribution](https://flatpak.org/setup/Debian)
+
+## More
+
+[git鉴权失败问题 以及每次clone 都要输入用户名密码问题_git clone 鉴权失败-CSDN博客](https://blog.csdn.net/qq_45495460/article/details/125077989)

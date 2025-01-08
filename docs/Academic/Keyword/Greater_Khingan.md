@@ -14,6 +14,9 @@ comments: true
 
 [大兴安岭古莲河露天煤矿 - Global Energy Monitor](https://www.gem.wiki/%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E5%8F%A4%E8%8E%B2%E6%B2%B3%E9%9C%B2%E5%A4%A9%E7%85%A4%E7%9F%BF)
 
+- [Climate, decay, and the death of the coal forests - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960982216000646)
+- [Coal Formation and Geochemistry - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B0080437516070973)
+
 ## Policies
 
 [关于印发《东北森林带生态保护和修复重大工程建设规划（2021—2035年）》的通知_国务院部门文件_中国政府网](https://www.gov.cn/zhengce/zhengceku/2022-01/14/content_5668164.htm)

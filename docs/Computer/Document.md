@@ -10,7 +10,7 @@
 
 [Amazon Best Sellers: Best Computer Hacking](https://www.amazon.com/gp/bestsellers/books/3648/ref=pd_zg_hrsr_books)
 
-News：[8090安全门户](https://www.8090-sec.com/) | [FreeBuf](https://www.freebuf.com/) | [CN-SEC](https://cn-sec.com/) | [0day.today](https://cn.0day.today/) | [安全内参](https://www.secrss.com/) | [unSafe.sh](https://buaq.net/) | [渊龙Sec](https://dh.aabyss.cn/) | [Latest Security News | Cybernews](https://cybernews.com/security/) | ⭐[Hacker News](https://news.ycombinator.com/news)
+News：[8090安全门户](https://www.8090-sec.com/) | [FreeBuf](https://www.freebuf.com/) | [CN-SEC](https://cn-sec.com/) | [0day.today](https://cn.0day.today/) | [安全内参](https://www.secrss.com/) | [unSafe.sh](https://buaq.net/) | [Sechub](https://sechub.in/) | [渊龙Sec](https://dh.aabyss.cn/) | [Latest Security News | Cybernews](https://cybernews.com/security/) | ⭐[Hacker News](https://news.ycombinator.com/news)
 
 - [系统解读美国策动“混合战争”的基本模式与策略手法 - 安全内参](https://www.secrss.com/articles/42953)
 - [Cognitive load is what matters | Hacker News](https://news.ycombinator.com/item?id=42489645)
@@ -158,6 +158,8 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 - [GitHub - croningp/ChemputerSoftware: Software for running the Chemputer in association with the supporting publication in Science](https://github.com/croningp/ChemputerSoftware)
 - [Chemify | Technology](https://www.chemify.io/technology)
 - [XDL 2.0 Standard — xdl 2.0.1.dev12+g8fdf586b documentation](https://croningroup.gitlab.io/chemputer/xdl/standard/index.html)
+
+[Lean 中文文档 - Lean Prover 中文文档](https://www.leanprover.cn/)
 
 [Richard Stallman's Personal Page](https://stallman.org/)
 
