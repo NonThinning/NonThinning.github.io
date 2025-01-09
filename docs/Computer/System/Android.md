@@ -76,6 +76,8 @@
 
 - [Adpro-Team/GKD_THS_List: GKD第三方订阅收录名单](https://github.com/Adpro-Team/GKD_THS_List)
 
+[AidLux Docs | AidLux Docs](https://v2.docs.aidlux.com/en/)
+
 ## BBS
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)

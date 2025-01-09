@@ -1,4 +1,6 @@
 
+## Intel
+
 [Installing Client GPUs — Intel® software for general purpose GPU capabilities documentation](https://dgpu-docs.intel.com/driver/client/overview.html)
 
 - `Debian 12`参考`Ubuntu 22.04LTS`安装方法
@@ -8,6 +10,10 @@
 [AppIndicator and KStatusNotifierItem Support - GNOME Shell Extensions](https://extensions.gnome.org/extension/615/appindicator-support/)
 
 - 状态栏图标，方便例如FDM或CV等应用使用
+
+[Customize IBus - GNOME Shell Extensions](https://extensions.gnome.org/extension/4112/customize-ibus/)
+
+- 对iBus输入法的字体字号和背景等进行设置
 
 ## Download
 
@@ -21,6 +27,20 @@ qBittorrent Enhanced: [c0re100/qBittorrent-Enhanced-Edition: [Unofficial] qBitto
 - 搜索包含特定字段的包，例如安装前缀为`libxcb`的包：`sudo apt search libxcb*`
 - 拔出移动设备前，查看是否有大量数据写入未完成`cat /proc/meminfo|grep -i Dirty`
 - 提示缺少特定文件时，可使用类似`cp ~/lib/R/modules/lapack.so ~/lib/R/modules/libRlapack.so`的语句将已有的其他地方的文件复制到所需位置，或使用符号链接或称软链接`ln -s`
+
+bash补全: [scop/bash-completion](https://github.com/scop/bash-completion/)
+
+## Grub
+
+```bash
+sudo nano /etc/default/grub
+# 修改为 GRUB_TIMEOUT=0
+# 修改为 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash systemd.show_status=0 loglevel=0"
+sudo update-grub
+sudo apt install plymouth plymouth-themes
+sudo plymouth-set-default-theme -R tribar
+reboot
+```
 
 ## Office
 

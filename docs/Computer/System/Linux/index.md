@@ -11,6 +11,8 @@
 
 [netblue30/firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail) | Firejail 是一种轻量级安全工具，旨在通过 设置用于运行的受限环境（可能不可信） 应用
 
+[Cisco-Talos/clamav: ClamAV - Documentation is here: https://docs.clamav.net](https://github.com/Cisco-Talos/clamav)
+
 ### Clipboard
 
 [hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ)
@@ -25,3 +27,9 @@
 
 - [musl libc](https://musl.libc.org/)
 - [BusyBox](https://www.busybox.net/)
+
+## More
+
+[Repology](https://repology.org/)
+
+[Homebrew on Linux — Homebrew Documentation](https://docs.brew.sh/Homebrew-on-Linux)

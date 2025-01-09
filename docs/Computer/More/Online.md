@@ -79,12 +79,8 @@
 
 - [中国当代艺术：白人女人当武侠英雄 - 知乎](https://zhuanlan.zhihu.com/p/84069887)
 
-## More
-
-Glossary (Base64)
+## Glossary (Base64)
 
 ```
 5Zub5aSx77ya5aSx54us44CB5aSx5Lia44CB5aSx5oSP44CB5aSx5bi477yb5LqU57G777ya5L2O5L+d5oi344CB5L2O5pS25YWl5a625bqt44CB54m55Zuw5Lq65ZGY44CB5q6L55a+5Lq65ZGY44CB56S+5Yy655+r5q2j5Lq65ZGY77yb5LqU5aSx77ya5aSx6LSl44CB5aSx5oSP44CB5aSx6KGh44CB5aSx5ZKM44CB5aSx5bi4
-------
-
 ```

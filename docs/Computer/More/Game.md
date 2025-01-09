@@ -4,6 +4,13 @@
 
 [GitHub - ppy/osu: rhythm is just a *click* away!](https://github.com/ppy/osu)
 
+[osudroid/osu-droid](https://github.com/osudroid/osu-droid)
+
+[Malody - Cross-platform music game community](https://m.mugzone.net/)
+
+- [MaTech-Works/MaTech: The main framework of MaTech.](https://github.com/MaTech-Works/MaTech)
+- [Malody V 功能介绍 & 关于团队人员变动的说明 - 哔哩哔哩](https://www.bilibili.com/opus/711727169752006692)
+
 ## JRPG
 
 [Steam 上的 Elin](https://store.steampowered.com/app/2135150/Elin/)
@@ -71,8 +78,11 @@
 [Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)
 
 - [GitHub - HMCL-dev/HMCL-PE: Hello Minecraft! Launcher for Android](https://github.com/HMCL-dev/HMCL-PE)
+- [ZalithLauncher/ZalithLauncher: Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.](https://github.com/ZalithLauncher/ZalithLauncher)
 - [GitHub - FCL-Team/FoldCraftLauncher: Fold Craft Launcher, an Android Minecraft : Java Edition launcher.](https://github.com/FCL-Team/FoldCraftLauncher)
 - [BakaXL 启动器 - 官方网站](https://www.bakaxl.com/)
+
+- [Leafuke/MineBackup: A simple program that calls 7-Zip to backup and restore your MC map.](https://github.com/Leafuke/MineBackup)
 
 - [MCNav | MC导航网 | Minecraft 网址导航站 | MC工具大全](https://www.mcnav.net/)
 - [我的世界国际版全版本下载](https://mcapks.com/)
