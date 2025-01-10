@@ -4,7 +4,8 @@
 
 [GitHub - ppy/osu: rhythm is just a *click* away!](https://github.com/ppy/osu)
 
-[osudroid/osu-droid](https://github.com/osudroid/osu-droid)
+- [osudroid/osu-droid](https://github.com/osudroid/osu-droid)
+- [OPSU！](https://itdelatrisu.github.io/opsu/)
 
 [Malody - Cross-platform music game community](https://m.mugzone.net/)
 

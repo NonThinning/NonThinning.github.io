@@ -8,6 +8,7 @@
 - [汉语语法学 (豆瓣)](https://book.douban.com/subject/26883797/)
 - [句法结构 (豆瓣)](https://book.douban.com/subject/35888972/)
 - [古今伪书考补证 (豆瓣)](https://book.douban.com/subject/30222589/)
+- [The Old New Thing (豆瓣)](https://book.douban.com/subject/1938198/)
 
 ## Library
 

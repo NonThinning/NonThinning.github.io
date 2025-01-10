@@ -172,3 +172,13 @@ VSCodium Extension: Markdown All in One / Markdown Preview Enhanced / Chinese (S
 - `dism /online /Add-Capability /CapabilityName:Browser.InternetExplorer~~~~0.0.11.0`
 
 [最大路径长度限制 - Win32 apps | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/win32/fileio/maximum-file-path-limitation?tabs=registry)
+
+## More
+
+[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
+
+- [Raymond Chen, Author at The Old New Thing](https://devblogs.microsoft.com/oldnewthing/author/oldnewthing)
+
+[组件对象模型 (COM) - Win32 apps | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/win32/com/component-object-model--com--portal)
+
+[Microsoft Graveyard | In remembrance of those killed by Microsoft](https://microsoftgraveyard.com/)

@@ -15,6 +15,16 @@
 
 - 对iBus输入法的字体字号和背景等进行设置
 
+## IME
+
+[RIME | 中州韻輸入法引擎](https://rime.im/)
+
+- [rime/plum: 東風破 /plum/: Rime configuration manager and input schema repository](https://github.com/rime/plum)
+- [yanhuacuo/rimetool: 中州韵助手（重构版）](https://github.com/yanhuacuo/rimetool) | 有对应的词库，但目前尚存在Bug
+- [Mark24Code/rime-auto-deploy: Rime输入法安装脚本，让一切更轻松。Make using Rime easy.](https://github.com/Mark24Code/rime-auto-deploy) | 当前方案
+- [iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice) | [Rime 配置：雾凇拼音 - Dvel's Blog](https://dvel.me/posts/rime-ice/)
+- [fkxxyz/rime-cloverpinyin: 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！](https://github.com/fkxxyz/rime-cloverpinyin)
+
 ## Download
 
 FDM：[Free Download Manager - 從網路下載任何東西](https://www.freedownloadmanager.org/zh/)
