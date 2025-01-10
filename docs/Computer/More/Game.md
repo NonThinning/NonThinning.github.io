@@ -6,6 +6,7 @@
 
 - [osudroid/osu-droid](https://github.com/osudroid/osu-droid)
 - [OPSU！](https://itdelatrisu.github.io/opsu/)
+- [McKay42/McOsu: Custom unofficial osu! practice client with Virtual Reality support](https://github.com/McKay42/McOsu)
 
 [Malody - Cross-platform music game community](https://m.mugzone.net/)
 
