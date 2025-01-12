@@ -12,3 +12,6 @@
 ## More
 
 [2017 Technical Awards](https://awards.acm.org/about/2017-technical-awards)
+
+[Zasper](https://zasper.io/) | [zasper-io/zasper: Fastest and Most Efficient IDE to run Jupyter Notebooks.](https://github.com/zasper-io/zasper)
+

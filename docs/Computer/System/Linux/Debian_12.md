@@ -15,6 +15,25 @@
 
 - 对iBus输入法的字体字号和背景等进行设置
 
+## Eumlator
+
+⭐ [Waydroid | Android in a Linux container](https://waydro.id/) 
+
+- Document: [Waydroid | Waydroid](https://docs.waydro.id/)
+- Old: [anbox/anbox: Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system](https://github.com/anbox/anbox)
+- Old: [OSBoxes - Virtual Machines for VirtualBox & VMware](https://www.osboxes.org/)
+- 在缩小窗口后，移动窗口：点击`Alt+F7`，出现十字箭头，此时可更改窗口位置
+- [casualsnek/waydroid_script: Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !](https://github.com/casualsnek/waydroid_script) | 当前存在部分错误 2024-01-12
+- [spyoungtech/pyclip: Cross-platform Clipboard module for Python with binary support.](https://github.com/spyoungtech/pyclip) | 可选依赖项，无法用pipx处理
+
+```bash
+waydroid prop set persist.waydroid.width 480
+waydroid prop set persist.waydroid.height 800
+waydroid session stop
+waydroid session start
+
+```
+
 ## IME
 
 [RIME | 中州韻輸入法引擎](https://rime.im/)
@@ -24,6 +43,7 @@
 - [Mark24Code/rime-auto-deploy: Rime输入法安装脚本，让一切更轻松。Make using Rime easy.](https://github.com/Mark24Code/rime-auto-deploy) | 当前方案
 - [iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice) | [Rime 配置：雾凇拼音 - Dvel's Blog](https://dvel.me/posts/rime-ice/)
 - [fkxxyz/rime-cloverpinyin: 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！](https://github.com/fkxxyz/rime-cloverpinyin)
+- [amzxyz/RIME-LMDG: LMDG - Language, Model, Dictionary, Grammar](https://github.com/amzxyz/RIME-LMDG)
 
 ## Download
 
@@ -39,6 +59,8 @@ qBittorrent Enhanced: [c0re100/qBittorrent-Enhanced-Edition: [Unofficial] qBitto
 - 提示缺少特定文件时，可使用类似`cp ~/lib/R/modules/lapack.so ~/lib/R/modules/libRlapack.so`的语句将已有的其他地方的文件复制到所需位置，或使用符号链接或称软链接`ln -s`
 
 bash补全: [scop/bash-completion](https://github.com/scop/bash-completion/)
+
+代替系统pip: [pipx](https://pipx.pypa.io/stable/)
 
 ## Grub
 
@@ -58,11 +80,18 @@ reboot
 
 - 可将`Windows`中字体复制并安装，相当一部分其他来源的文档依赖这些字体
 
+## Password
+
+[KeePass Password Safe](https://keepass.info/index.html) | Windows
+
+- [KeePassXC Password Manager](https://keepassxc.org/) | Linux
+- [KeePassDX](https://www.keepassdx.com/) | Android
+
 ## VMware
 
 [Build host vmware kernel modules - VI-Toolkit](https://wiki.vi-toolkit.com/index.php/Build_host_vmware_kernel_modules) | `sudo apt-get install linux-headers-$(uname -r)`
 
-## Software
+## Package
 
 [Flatpak—the future of application distribution](https://flatpak.org/setup/Debian)
 

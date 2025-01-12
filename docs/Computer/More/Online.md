@@ -62,9 +62,16 @@
 
 - [FreeMdict - mdx mdd download](https://freemdict.com/)
 
+[Emacs China](https://emacs-china.org/)
+
+- [目前来看还有哪些语言还有可能挤身进科学/工程计算中？ - 闲聊灌水 - Emacs China](https://emacs-china.org/t/topic/28247)
+- [Getting started with Emacs – Research Computing](https://mint.westdri.ca/emacs/top_intro) | [Training in Research Computing – Research Computing](https://mint.westdri.ca/)
+- [墨干 | 探索科学与技术](https://mogan.app/zh/) | [墨干理工套件: 墨干：享受探索科学与技术的乐趣！](https://gitee.com/XmacsLabs/mogan)
+
 [NGA玩家社区](https://ngabbs.com/)
 
 - [开源项目到底怎么玩的 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=41963007&_fp=4)
+- [年度个人向厕纸推荐(量大管饱，主要是机翻) NGA玩家社区 P1](https://ngabbs.com/read.php?tid=42959517)
 
 [论坛 - stage1/s1 游戏动漫论坛](https://bbs.saraba1st.com/2b/forum.php)
 
@@ -83,4 +90,8 @@
 
 ```
 5Zub5aSx77ya5aSx54us44CB5aSx5Lia44CB5aSx5oSP44CB5aSx5bi477yb5LqU57G777ya5L2O5L+d5oi344CB5L2O5pS25YWl5a625bqt44CB54m55Zuw5Lq65ZGY44CB5q6L55a+5Lq65ZGY44CB56S+5Yy655+r5q2j5Lq65ZGY77yb5LqU5aSx77ya5aSx6LSl44CB5aSx5oSP44CB5aSx6KGh44CB5aSx5ZKM44CB5aSx5bi4
+```
+
+```
+
 ```

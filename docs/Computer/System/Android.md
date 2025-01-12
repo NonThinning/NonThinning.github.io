@@ -21,6 +21,10 @@
 
 [SAI | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.aefyr.sai.fdroid/) | .Apks Install
 
+[🔥 Российский Play Market. Андроид apk моды и премиум игры. - Androeed.ru](https://androeed.ru/)
+
+- [Скачать игры на Android бесплатно | Лучшие моды на Андроид](https://5play.org/)
+
 ## Download
 
 [1DM+「原：IDM+」 v17.2 for Android 官方原版 + 直装解锁中文版 —— 您想要的超快万能下载神器！ | 异星软件空间](https://www.yxssp.com/23740.html)
@@ -158,6 +162,8 @@
 ⭐[2754LM/oj_helper: 一款帮助你查询各大oj信息的应用。](https://github.com/2754LM/oj_helper)
 
 ## More
+
+[GuessIron | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/de.indie42.guessiron/) | 手机尺子
 
 2023测试可用，积分兑换话费短信
 

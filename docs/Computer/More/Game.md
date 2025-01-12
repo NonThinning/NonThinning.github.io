@@ -85,11 +85,15 @@
 - [BakaXL 启动器 - 官方网站](https://www.bakaxl.com/)
 
 - [Leafuke/MineBackup: A simple program that calls 7-Zip to backup and restore your MC map.](https://github.com/Leafuke/MineBackup)
+- [CCBlueX/LiquidBounce: A free mixin-based injection hacked client for Minecraft using the Fabric API](https://github.com/CCBlueX/LiquidBounce)
 
 - [MCNav | MC导航网 | Minecraft 网址导航站 | MC工具大全](https://www.mcnav.net/)
 - [我的世界国际版全版本下载](https://mcapks.com/)
 - [星月Minecraft版本库](https://spectrollay.github.io/minecraft_repository/)
 - [MC版本库-我的世界国际版下载|Minecraft游戏下载|最新版本下载](https://bbk.endyun.ltd/main) | [zihao_il的破站](https://zihao-il.github.io/)
+
+- [mrarm.io](https://www.mrarm.io/) | Toolbox for Minecraft: Pocket Edition
+- [XeroAlpha/CA: CA is a rhino script which help Minecraft users type commands](https://github.com/XeroAlpha/CA) | [命令助手](https://ca.projectxero.top/)
 
 ## CustomMaid3D
 

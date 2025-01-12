@@ -5,6 +5,8 @@
 
 [MSDN系统库](https://www.xitongku.com/) | [HelloWindows.cn](https://hellowindows.cn/) | [山己几子木](https://msdn.sjjzm.com/) | [NEXT, ITELLYOU](https://next.itellyou.cn/)
 
+- [UUP dump](https://uupdump.net/) | UUP dump 创建Windows的自定义发行版本
+
 [Официальный сайт by adguard | Разработки от adguard](https://rg-adguard.net/) | [Forum from @rgadguard](https://forum.rg-adguard.net/)
 
 ## Activation
@@ -18,6 +20,8 @@
 [Microsoft KMS Activation | vlmcsd](http://wind4.github.io/vlmcsd/) | [Wind4/vlmcsd: KMS Emulator in C](https://github.com/Wind4/vlmcsd)
 
 [MSFree Soft](https://msfree.su/index.php)
+
+[Microsoft Activation Scripts (MAS) | MAS](https://massgrave.dev/)
     
 1. 运行`floppy`文件夹内虚拟机文件
 
