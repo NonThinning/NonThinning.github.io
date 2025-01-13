@@ -58,6 +58,8 @@
 
 [mozilla-mobile/reference-browser: A full-featured browser reference implementation using Mozilla Android Components.](https://github.com/mozilla-mobile/reference-browser)
 
+- Firefox Android x86_64: [Directory Listing: /](https://ftp.mozilla.org/)
+
 [Fennec F-Droid | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 
 ## System

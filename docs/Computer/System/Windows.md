@@ -59,6 +59,8 @@
 
 [DoNotSpy11 » pXc-coding](https://pxc-coding.com/donotspy11/)
 
+- [WPD | Privacy dashboard for Windows](https://wpd.app/)
+
 [Windows Firewall Control](https://www.binisoft.org/wfc) | Install Cracked Software Use, Like ArcGIS
 
 [Puran Software - Quality First](http://www.puransoftware.com/index.html)
