@@ -1,4 +1,6 @@
 
+[Qiusheng Wu](https://wetlands.io/)
+
 ## Geemap
 
 [Earth Engine and Geemap — Geospatial Data Science with Earth Engine and Geemap](https://book.geemap.org/index.html)

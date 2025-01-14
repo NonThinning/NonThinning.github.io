@@ -72,6 +72,7 @@
 
 - [开源项目到底怎么玩的 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=41963007&_fp=4)
 - [年度个人向厕纸推荐(量大管饱，主要是机翻) NGA玩家社区 P1](https://ngabbs.com/read.php?tid=42959517)
+- [[推书] 个人向英文理性小说评鉴+安利 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=43009653) | [理性小说介绍推荐](https://mp.weixin.qq.com/s/iEx1VI6uo3h2dEsWi2ZAQg)
 
 [论坛 - stage1/s1 游戏动漫论坛](https://bbs.saraba1st.com/2b/forum.php)
 
@@ -85,6 +86,13 @@
 [尼堪巴图鲁 - 知乎](https://www.zhihu.com/people/ni-kan-ba-tu-lu)
 
 - [中国当代艺术：白人女人当武侠英雄 - 知乎](https://zhuanlan.zhihu.com/p/84069887)
+
+[潘绥铭_新浪博客](https://blog.sina.com.cn/u/1305771610)
+
+- [专访潘绥铭：现在一代年轻人更加输不起，也加剧了焦虑](https://mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247600471&idx=1&sn=e966de7f48c711c9b6120631469287a4)
+- [专访性社会学家潘绥铭：我已完全彻底退出学术，开始全新的生活](https://mp.weixin.qq.com/s?src=11&timestamp=1736828811&ver=5749&signature=BCsQlHjE3Rj-a1cEPxrZ7dIJOE*Np6*eXIFWohx9U4Z4uPu4ktVoMx0dTlzYRaqJ3RZO23UOLOHaTJWNRRuXkzoQKr5Vvhv3aXhky5O8*L83vOb9EosIG66l1CvSPki8&new=1)
+- [风痕 (豆瓣)](https://book.douban.com/subject/36184693/)
+- [论方法 (豆瓣)](https://book.douban.com/subject/36094996/)
 
 ## Glossary (Base64)
 

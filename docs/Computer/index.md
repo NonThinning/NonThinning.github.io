@@ -10,3 +10,5 @@ hide: toc
 |0|0|0|
 
 ```
+
+- `Complex Systems, System Engineering, Social Engineering, OSINT`

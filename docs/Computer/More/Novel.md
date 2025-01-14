@@ -9,6 +9,8 @@
 - [句法结构 (豆瓣)](https://book.douban.com/subject/35888972/)
 - [古今伪书考补证 (豆瓣)](https://book.douban.com/subject/30222589/)
 - [The Old New Thing (豆瓣)](https://book.douban.com/subject/1938198/)
+- [孔子改制考 (豆瓣)](https://book.douban.com/subject/4916553/)
+- [《纯粹理性批判》讲演录 (豆瓣)](https://book.douban.com/subject/25670715/)
 
 ## Library
 
@@ -32,6 +34,8 @@
 [书格 (shuge.org)](https://www.shuge.org/) | [中國哲學書電子化計劃](https://ctext.org/zhs) | [国学大师网](https://www.guoxuedashi.net/) | [浙江大学大型文献库](http://csid.zju.edu.cn/doclib/#) | [東里書齋](https://www.donglishuzhai.net/) | [中华古典文库](https://www.zhonghuashu.com/)
 
 [马克思主义文库](https://www.marxists.org/chinese/index.html)
+
+[Digital China Worldwide](https://dcw.fairbank.fas.harvard.edu/en/)
 
 [搜书吧](http://www.soushu2025.com)
 
