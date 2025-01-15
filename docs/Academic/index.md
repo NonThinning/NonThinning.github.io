@@ -3,8 +3,6 @@ hide: toc
 ---
 # Home
 
-[Academic Criterion and Scientific Paper Writing](https://mmcheng.net/writing/)
-
 ```
 
     |\__/,|   (`\
@@ -12,3 +10,5 @@ hide: toc
 -(((---(((--------
 
 ```
+
+- [Academic Criterion and Scientific Paper Writing](https://mmcheng.net/writing/)

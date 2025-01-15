@@ -1,4 +1,6 @@
 
+[Debian 中文社区](https://debiancn.org/)
+
 ## Intel
 
 [Installing Client GPUs — Intel® software for general purpose GPU capabilities documentation](https://dgpu-docs.intel.com/driver/client/overview.html)
@@ -14,6 +16,22 @@
 [Customize IBus - GNOME Shell Extensions](https://extensions.gnome.org/extension/4112/customize-ibus/)
 
 - 对iBus输入法的字体字号和背景等进行设置
+
+[Clipboard Indicator - GNOME Shell Extensions](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+
+[system-monitor-next - GNOME Shell Extensions](https://extensions.gnome.org/extension/3010/system-monitor-next/)
+
+[Vitals - GNOME Shell Extensions](https://extensions.gnome.org/extension/1460/vitals/)
+
+- [corecoding/Vitals: A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load.](https://github.com/corecoding/Vitals)
+
+[Lunar Calendar 农历 - GNOME Shell Extensions](https://extensions.gnome.org/extension/675/lunar-calendar/)
+
+[mjakeman/extension-manager: A utility for browsing and installing GNOME Shell Extensions.](https://github.com/mjakeman/extension-manager)
+
+[Battery Health Charging](https://maniacx.github.io/Battery-Health-Charging/)
+
+- [frederik-h/acer-wmi-battery：用于 Acer WMI 电池健康控制接口的 linux 内核驱动程序](https://github.com/frederik-h/acer-wmi-battery)
 
 ## Eumlator
 
@@ -62,6 +80,8 @@ bash补全: [scop/bash-completion](https://github.com/scop/bash-completion/)
 
 代替系统pip: [pipx](https://pipx.pypa.io/stable/)
 
+intel gpu占用: `sudo apt install intel-gpu-tools`; 查看: `sudo intel_gpu_top`
+
 ## Grub
 
 ```bash
@@ -96,5 +116,9 @@ reboot
 [Flatpak—the future of application distribution](https://flatpak.org/setup/Debian)
 
 ## More
+
+[CoolerControl / CoolerControl · GitLab](https://gitlab.com/coolercontrol/coolercontrol) | 风扇管理，笔记本不适用
+
+[Thunderbird](https://www.thunderbird.net/zh-CN/) | 邮件客户端
 
 [git鉴权失败问题 以及每次clone 都要输入用户名密码问题_git clone 鉴权失败-CSDN博客](https://blog.csdn.net/qq_45495460/article/details/125077989)

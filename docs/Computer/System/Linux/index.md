@@ -34,3 +34,5 @@
 [Repology](https://repology.org/)
 
 [Homebrew on Linux — Homebrew Documentation](https://docs.brew.sh/Homebrew-on-Linux)
+
+[msojocs/bilibili-linux: 基于哔哩哔哩官方客户端移植的Linux版本 支持漫游](https://github.com/msojocs/bilibili-linux)
