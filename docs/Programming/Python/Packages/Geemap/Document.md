@@ -26,6 +26,8 @@
 
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
 
+- [EEFA Notebook](https://gee-community.github.io/eefa-notebook/)
+
 [Introduction — Remote Sensing with Google Earth Engine](https://calekochenour.github.io/remote-sensing-textbook/introduction.html)
 
 [Introduction to GIS Programming — Introduction to GIS Programming](https://geog-312.gishub.org/index.html)
@@ -142,6 +144,8 @@ scoop install main/nodejs
 [Google Earth Engine 之 查看APP 源码_earth engine apps代码-CSDN博客](https://blog.csdn.net/Dragonzxc/article/details/123172736) | 通过此方法查找对应的json文件
 
 [Environmental Data Science - Burn Severity with Sentinel-2 data using Google Earth Engine](https://romero61.github.io/posts/SentinelNBR/)
+
+[MarcYin/SIAC_GEE: SIAC GEE version](https://github.com/MarcYin/SIAC_GEE) | 最佳可用图像
 
 ## People
 

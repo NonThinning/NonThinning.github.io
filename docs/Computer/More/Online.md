@@ -31,6 +31,10 @@
 - [Matthew Green - Johns Hopkins Whiting School of Engineering](https://engineering.jhu.edu/faculty/matthew-green/)
 - [tornado-repositories](https://github.com/tornado-repositories)
 
+[随记](https://dieken.gitlab.io/)
+
+- [走出焦油坑](https://dieken.gitlab.io/posts/out-of-tar-pit/)
+
 [FisherAI](https://fisherdaddy.com/) | 技术博客分享
 
 ------

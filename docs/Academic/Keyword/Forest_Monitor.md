@@ -113,3 +113,11 @@ comments: true
 [A Technical Review of Planet Smallsat Data: Practical Considerations for Processing and Using PlanetScope Imagery](https://www.mdpi.com/2072-4292/13/19/3930)
 
 [基于生成对抗网络的遥感影像色彩一致性方法](https://www.cgsjournals.com/article/doi/10.6046/zrzyyg.2021316)
+
+[Angular-Based Radiometric Slope Correction for Sentinel-1 on Google Earth Engine](https://www.mdpi.com/2072-4292/12/11/1867) | 哨兵1校正
+
+[Mapping Plantations in Myanmar by Fusing Landsat-8, Sentinel-2 and Sentinel-1 Data along with Systematic Error Quantification](https://www.mdpi.com/2072-4292/11/7/831) | 数据融合、地形校正
+
+[GMD - Bayesian atmospheric correction over land: Sentinel-2/MSI and Landsat 8/OLI](https://gmd.copernicus.org/articles/15/7933/2022/) | 大气校正、贝叶斯方法
+
+- [Bayesian atmospheric correction over land: Sentinel-2/MSI and Landsat 8/OLI](https://eartharxiv.org/repository/view/1034/)

@@ -188,3 +188,5 @@ VSCodium Extension: Markdown All in One / Markdown Preview Enhanced / Chinese (S
 [组件对象模型 (COM) - Win32 apps | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/win32/com/component-object-model--com--portal)
 
 [Microsoft Graveyard | In remembrance of those killed by Microsoft](https://microsoftgraveyard.com/)
+
+[VMS Software, Inc.](https://vmssoftware.com/) | NT

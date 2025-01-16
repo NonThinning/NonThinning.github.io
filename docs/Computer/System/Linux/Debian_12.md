@@ -94,6 +94,9 @@ sudo plymouth-set-default-theme -R tribar
 reboot
 ```
 
+- `sudo apt install grub-customizer`
+- `sudo apt-get install timeshift`
+
 ## Office
 
 [winunix/wps-office-fonts: TTF Fonts to WPS Office](https://github.com/winunix/wps-office-fonts/tree/master)
