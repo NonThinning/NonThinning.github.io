@@ -1,15 +1,9 @@
 
-## Quant
-
 [幻方 | 首页](https://www.high-flyer.cn/#index)
 
 - [DeepSeek | 深度求索](https://www.deepseek.com/)
 
-## PCB
-
 [立创开源硬件平台](https://oshwhub.com/)
-
-## CPU
 
 [申威社区](https://developer.wxiat.com/)
 
@@ -36,34 +30,24 @@
 
 - [Updated Debian Ports installation images 2024-11-11](https://lists.debian.org/debian-loongarch/2024/11/msg00002.html) | `This batch includes the very first installation image for loong64.`
 
-## GNSS
-
 [和芯星通](https://www.unicorecomm.com/)
-
-## Robot
 
 [宇树科技 | 人形机器人_四足机器人_机器狗](https://www.unitree.com/cn)
 
-## UAV
-
 [DJI 大疆创新 - 官方网站](https://www.dji.com/cn)
-
-## GIS
 
 [图新地球](http://www.tuxingis.com/locaspace.html)
 
 - [LocaSpaceViewer(LSV)](http://www.locaspace.cn/LSV.jsp)
 
-## Cyber Security
-
 [QAX](https://en.qianxin.com/)
 
 - [商用密码证书可信计划](https://www.qianxin.com/ctp/index.html)
 
-## Gauge
-
 [南京淞泽信息技术有限公司](http://water.smartscience.cn/) | 智慧农业
 
-## More
+[首页 :: MiniGUI](https://minigui.fmsoft.cn/zh)
+
+------
 
 [中国软件行业协会](https://www.csia.org.cn/)
