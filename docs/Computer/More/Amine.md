@@ -18,3 +18,7 @@
 ## Software
 
 [Home (简体中文) - MetaTube](https://metatube-community.github.io/README_ZH/)
+
+[xyoye/DanDanPlayForAndroid: 弹弹play 概念版](https://github.com/xyoye/DanDanPlayForAndroid)
+
+- [弹弹play - 全功能“本地视频+弹幕”播放器](https://www.dandanplay.com/)

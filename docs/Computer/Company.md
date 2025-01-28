@@ -2,8 +2,12 @@
 [幻方 | 首页](https://www.high-flyer.cn/#index)
 
 - [DeepSeek | 深度求索](https://www.deepseek.com/)
+- [deepseek-ai (DeepSeek)](https://hf-mirror.com/deepseek-ai)
+- [deepseek-ai/Janus: Janus-Series: Unified Multimodal Understanding and Generation Models](https://github.com/deepseek-ai/Janus)
 
 [立创开源硬件平台](https://oshwhub.com/)
+
+[广州奥翼电子科技股份有限公司 | 电子纸生产商](https://www.oedtech.com/index)
 
 [申威社区](https://developer.wxiat.com/)
 
@@ -29,6 +33,7 @@
 - [龙架构双周会 - 龙芯爱好者社区](https://www.loongbbs.cn/t/loongarch_biweekly_meeting)
 
 - [Updated Debian Ports installation images 2024-11-11](https://lists.debian.org/debian-loongarch/2024/11/msg00002.html) | `This batch includes the very first installation image for loong64.`
+- [android-la64/docs](https://github.com/android-la64/docs)
 
 [和芯星通](https://www.unicorecomm.com/)
 

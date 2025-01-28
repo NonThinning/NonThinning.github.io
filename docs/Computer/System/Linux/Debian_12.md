@@ -118,6 +118,8 @@ reboot
 
 [Flatpak—the future of application distribution](https://flatpak.org/setup/Debian)
 
+- Ryujinx [Flathub - Apps for Linux](https://flathub.org/apps/io.github.ryubing.Ryujinx) | Mamory Limited
+
 ## More
 
 [CoolerControl / CoolerControl · GitLab](https://gitlab.com/coolercontrol/coolercontrol) | 风扇管理，笔记本不适用

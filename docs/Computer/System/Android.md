@@ -134,6 +134,8 @@
 
 [Reading books is easy with ReadEra](https://readera.org/) | PDF
 
+[readest/readest: Readest is a modern, feature-rich ebook reader...](https://github.com/readest/readest)
+
 ## Picture
 
 [Open Camera](https://opencamera.org.uk/) | 可限制定位精度达到要求后拍照

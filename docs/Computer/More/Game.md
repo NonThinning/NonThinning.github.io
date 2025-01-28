@@ -13,6 +13,19 @@
 - [MaTech-Works/MaTech: The main framework of MaTech.](https://github.com/MaTech-Works/MaTech)
 - [Malody V 功能介绍 & 关于团队人员变动的说明 - 哔哩哔哩](https://www.bilibili.com/opus/711727169752006692)
 
+[0auBSQ/OpenTaiko: An improved and personalized version of TJAPlayer3-Develop-Rewrite, .tja chart player axed on entertainment and creativity.](https://github.com/0auBSQ/OpenTaiko)
+
+[Arcaea - 创新立体节奏游戏](https://arcaea.lowiro.com/zh)
+
+- [T-Aiko!-Amazonアプリストアのアプリ](https://www.amazon.co.jp/MoeIO-T-Aiko/dp/B01763IXOS)
+- [T-Aiko! for Android/iOS · 论坛 | osu!](https://osu.ppy.sh/community/forums/topics/58640?n=1)
+
+[etternagame/etterna: Advanced cross-platform rhythm game focused on keyboard play](https://github.com/etternagame/etterna)
+
+[Cytoid/Cytoid: A community-driven touchscreen music game.](https://github.com/Cytoid/Cytoid)
+
+- [Cytoid on the App Store](https://apps.apple.com/us/app/cytoid/id1266582726)
+
 ## JRPG
 
 [Steam 上的 Elin](https://store.steampowered.com/app/2135150/Elin/)
@@ -65,11 +78,21 @@
 
 [カイロパーク / Kairopark](https://kairopark.jp/)
 
+## Voxel
+
+[Veloren](https://veloren.net/)
+- [Introduction - Veloren: An Owner's Manual](https://book.veloren.net/)
+- [Veloren Wiki](https://wiki.veloren.net/wiki/Main_Page)
+
 ## Adventure
 
 [MiSide DEMO by Aihasto](https://aihasto.itch.io/miside)
 
 - [Aihasto - itch.io](https://aihasto.itch.io/)
+
+## Strategy
+
+[GreenFirst foundation. Save the Earth mobile game official site by gamefist](https://greenfirst.org/)
 
 ## Minecraft
 
@@ -94,6 +117,13 @@
 
 - [mrarm.io](https://www.mrarm.io/) | Toolbox for Minecraft: Pocket Edition
 - [XeroAlpha/CA: CA is a rhino script which help Minecraft users type commands](https://github.com/XeroAlpha/CA) | [命令助手](https://ca.projectxero.top/)
+
+- [Diggus Maximus Reborn - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus-reborn)
+- [Fabulously Optimized - Minecraft Modpacks - CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+- [Xaero's Minimap - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [TslatEntityStatus (TES) - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/tslatentitystatus-tes)
+- [Neat - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/neat)
 
 ## CustomMaid3D
 

@@ -42,6 +42,8 @@ NSP Download
 
 [GitHub - brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator)
 
+- [Winlator - Android app](https://winlator.org/)
+
 ## Android
 
 [OpenFDE - 可以使用任意安卓应用、玩安卓游戏的 Linux 桌面](https://openfde.com/zh-CN)
