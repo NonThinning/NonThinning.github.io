@@ -23,4 +23,5 @@
 
 - [红石API](https://api.hongshi.me/)
 - [硅基流动统一登录](https://account.siliconflow.cn/login)
+- [Chat01.ai (原OpenAI01.net)：无限制的OpenAI o1，ChatGPT Pro 的最佳替代](https://chat01.ai/zh)
 
