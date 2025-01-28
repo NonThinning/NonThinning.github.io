@@ -6,6 +6,7 @@ Ryujinx
 - [Ryujinx-NX/Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx-NX/Ryujinx)
 - [ryujinx-mirror/ryujinx: Hard-fork of the Ryujinx project](https://github.com/ryujinx-mirror/ryujinx)
 - [GitHub - GreemDev/Ryujinx: Nintendo Switch emulator written in C#, originally created by gdkchan.](https://github.com/GreemDev/Ryujinx)
+- [Ryubing/Ryujinx: Nintendo Switch emulator written in C#, originally created by gdkchan.](https://github.com/Ryubing/Ryujinx)
 
 Yuzu
 

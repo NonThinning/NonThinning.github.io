@@ -124,6 +124,8 @@ reboot
 
 [CoolerControl / CoolerControl · GitLab](https://gitlab.com/coolercontrol/coolercontrol) | 风扇管理，笔记本不适用
 
+[Mission Center](https://missioncenter.io/) | 任务中心、任务管理器
+
 [Thunderbird](https://www.thunderbird.net/zh-CN/) | 邮件客户端
 
 [git鉴权失败问题 以及每次clone 都要输入用户名密码问题_git clone 鉴权失败-CSDN博客](https://blog.csdn.net/qq_45495460/article/details/125077989)
