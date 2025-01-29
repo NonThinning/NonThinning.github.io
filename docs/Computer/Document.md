@@ -147,6 +147,8 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 - [AcWiki 大学生的百科全书](https://ac-wiki.github.io/AcWiKi/)
 - [Academic Criterion and Scientific Paper Writing](https://mmcheng.net/writing/)
 
+[语法俱乐部](https://llwslc.github.io/grammar-club/)
+
 Course: [Coursera | Degrees, Certificates, & Free Online Courses](https://www.coursera.org/)
 
 [Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读](https://www.buzzing.cc/)
@@ -174,3 +176,5 @@ Course: [Coursera | Degrees, Certificates, & Free Online Courses](https://www.co
 [Debian -- What does free mean?](https://www.debian.org/intro/free)
 
 - `which allows people to sell the software`
+
+BDFL: [contributor - What are the benefits of having a benevolent dictator for life (BDFL) on OSS? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/10088/what-are-the-benefits-of-having-a-benevolent-dictator-for-life-bdfl-on-oss)

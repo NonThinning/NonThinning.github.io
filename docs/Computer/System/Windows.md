@@ -107,6 +107,11 @@ curl.exe -vv http://www.google.com/
 
 IP纯净度查询: [PING0](https://ping0.cc/) | [Scamalytics](https://scamalytics.com/)
 
+IP泄露查询：[My IP Address - BrowserLeaks](https://browserleaks.com/ip)
+
+- [WebRTC Protect :: WebExtension.ORG](https://webextension.org/listing/webrtc-protect.html?version=0.2.4&type=install)
+- [Clash 检测工具的原理 - V2EX](https://v2ex.com/t/1076961) | [在线 Clash 检测](https://mikewang000000.github.io/ClashScan/)
+
 ## WSL
 
 [旧版 WSL 的手动安装步骤 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/install-manual)
@@ -178,6 +183,10 @@ VSCodium Extension: Markdown All in One / Markdown Preview Enhanced / Chinese (S
 - `dism /online /Add-Capability /CapabilityName:Browser.InternetExplorer~~~~0.0.11.0`
 
 [最大路径长度限制 - Win32 apps | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/win32/fileio/maximum-file-path-limitation?tabs=registry)
+
+## File System
+
+[Access to Ext 2/3/4, HFS and ReiserFS from Windows | DiskInternals](https://www.diskinternals.com/linux-reader/) | 读取Linux文件系统
 
 ## More
 

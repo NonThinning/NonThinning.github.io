@@ -12,6 +12,7 @@
 - [孔子改制考 (豆瓣)](https://book.douban.com/subject/4916553/)
 - [《纯粹理性批判》讲演录 (豆瓣)](https://book.douban.com/subject/25670715/)
 - [別斃了那隻狗 (豆瓣)](https://book.douban.com/subject/3670287/)
+- [中华传统礼仪概要 (豆瓣)](https://book.douban.com/subject/27152044/)
 
 ## Library
 

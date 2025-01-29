@@ -3,9 +3,15 @@
 
 [紳士漫畫地址發布頁](https://wnacg.date/)
 
+- [論壇 - 紳士漫畫社區 - 手机版 - Powered by Discuz!](https://wnbbs.cc/forum.php?mod=announcement&id=2#2)
+
 [拷貝漫畫](https://www.mangacopy.com/)
 
 [漫蛙走失页](https://manwajs.vip/)
+
+[MYCOMIC - 我的漫畫](https://mycomic.com/)
+
+[禁漫天堂發布頁](https://jmcmomic.github.io/) | [jmcomic python cli](https://jmcomic.readthedocs.io/zh-cn/latest/)
 
 [ようこそ、紳士会所へ！](https://www.sshs.pw/)
 

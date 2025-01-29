@@ -84,11 +84,17 @@
 
 [AidLux Docs | AidLux Docs](https://v2.docs.aidlux.com/en/)
 
+[GitHub - gkd-kit/gkd: 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules](https://github.com/gkd-kit/gkd)
+
+[d4rken-org/sdmaid-se: SD Maid 2/SE is Android's most thorough cleaning tool.](https://github.com/d4rken-org/sdmaid-se)
+
 ## BBS
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)
 
 [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram)
+
+[Hacki for Hacker News | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.jiaqifeng.hacki/)
 
 ## Text
 

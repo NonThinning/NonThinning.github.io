@@ -1,11 +1,25 @@
 
 [Debian 中文社区](https://debiancn.org/)
 
+## SWAP
+
+[How to Fix Debian Slow Boot After Partition Resize or “No Matching Swap Device is Available” Error – The Linux Notes](https://thelinuxnotes.com/index.php/how-to-fix-debian-slow-boot-after-partition-resize-or-no-matching-swap-device-is-available-error/)
+
+- 扩展SWAP分区后需修改Initramfs配置
+
+## Fonts
+
+[Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/font-downloads)
+
+[JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/mono/)
+
 ## Intel
 
 [Installing Client GPUs — Intel® software for general purpose GPU capabilities documentation](https://dgpu-docs.intel.com/driver/client/overview.html)
 
 - `Debian 12`参考`Ubuntu 22.04LTS`安装方法
+
+[tiagovignatti/intel-gpu-tools: upstream is at http://cgit.freedesktop.org/xorg/app/intel-gpu-tools/](https://github.com/tiagovignatti/intel-gpu-tools) | GPU监测
 
 ## GNOME
 
@@ -116,11 +130,27 @@ reboot
 
 ## Package
 
+[Repology](https://repology.org/)
+
 [Flatpak—the future of application distribution](https://flatpak.org/setup/Debian)
 
-- Ryujinx [Flathub - Apps for Linux](https://flathub.org/apps/io.github.ryubing.Ryujinx) | Mamory Limited
+- Ryujinx [Flathub - Apps for Linux](https://flathub.org/apps/io.github.ryubing.Ryujinx) | Mamory Limited, 安装deb版本可自动处理
+- [Install Warehouse on Linux | Flathub](https://flathub.org/apps/io.github.flattool.Warehouse) | 管理Flatpak安装
+- [prateekmedia/appimagepool: A simple, modern AppImageHub Client, powered by flutter.](https://github.com/prateekmedia/appimagepool/) | AppImage 下载和快捷方式管理
 
-## More
+- [Linux捣鼓记录：安装flatpak软件仓库，更换国内镜像 - lwlnice - 博客园](https://www.cnblogs.com/lwlnice/p/18263967)
+
+[Download | Nix & NixOS](https://nixos.org/download/#nix-install-linux)
+
+- [NixOS & Flakes Book | Home Page](https://nixos-and-flakes.thiscute.world/)
+
+## Tool
+
+[calcurse: a text-based calendar and scheduling application](https://www.calcurse.org/) | Cli
+
+[解决OBS在Linux下无法录屏_linux obs-CSDN博客](https://blog.csdn.net/izwmain/article/details/132865106) | 使用deb安装，flatpak存在权限问题
+
+- [Debian 12 + KDE 屏幕共享失败问题解决 - Libitum - 博客园](https://www.cnblogs.com/libitum/p/18151341)
 
 [CoolerControl / CoolerControl · GitLab](https://gitlab.com/coolercontrol/coolercontrol) | 风扇管理，笔记本不适用
 
@@ -128,4 +158,13 @@ reboot
 
 [Thunderbird](https://www.thunderbird.net/zh-CN/) | 邮件客户端
 
+[Run Windows in a Bottle](https://usebottles.com/) | Wine 相关
+
 [git鉴权失败问题 以及每次clone 都要输入用户名密码问题_git clone 鉴权失败-CSDN博客](https://blog.csdn.net/qq_45495460/article/details/125077989)
+
+## Double System
+
+[debian升级后Grub菜单中找不到Windows项（转） - 汉学 - 博客园](https://www.cnblogs.com/c2soft/articles/17804633.html)
+
+- HP笔记本，使用DG可修改BIOS EIF启动顺序，并在Debian中启用`GRUB_DISABLE_OS_PROBER=false`
+- Acer笔记本，使用DG修改失败，使用Easy UEFI修改成功，其他同上 [轻松管理EFI/UEFI启动项 & 管理EFI系统分区 & 修复EFI系统启动问题！- EasyUEFI](https://www.easyuefi.com/index-cn.html)

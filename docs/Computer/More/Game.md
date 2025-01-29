@@ -102,6 +102,8 @@
 
 [Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)
 
+- [[Bug] kubuntu 下启动 HMCL 界面无文字显示，相关的信息如下 · Issue #3520 · HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL/issues/3520) | 调整字体
+
 - [GitHub - HMCL-dev/HMCL-PE: Hello Minecraft! Launcher for Android](https://github.com/HMCL-dev/HMCL-PE)
 - [ZalithLauncher/ZalithLauncher: Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.](https://github.com/ZalithLauncher/ZalithLauncher)
 - [GitHub - FCL-Team/FoldCraftLauncher: Fold Craft Launcher, an Android Minecraft : Java Edition launcher.](https://github.com/FCL-Team/FoldCraftLauncher)
@@ -124,6 +126,9 @@
 - [Xaero's World Map - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [TslatEntityStatus (TES) - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/tslatentitystatus-tes)
 - [Neat - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/neat)
+
+- [Get Bukkit | Download CraftBukkit 1.21 | Download Spigot 1.21](https://getbukkit.org/)
+- [Amulet Editor](https://www.amuletmc.com/)
 
 ## CustomMaid3D
 

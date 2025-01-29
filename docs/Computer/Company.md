@@ -34,6 +34,7 @@
 
 - [Updated Debian Ports installation images 2024-11-11](https://lists.debian.org/debian-loongarch/2024/11/msg00002.html) | `This batch includes the very first installation image for loong64.`
 - [android-la64/docs](https://github.com/android-la64/docs)
+- [lcpu-club/loong64-dockerfiles: Dockerfiles for LoongArch64](https://github.com/lcpu-club/loong64-dockerfiles)
 
 [和芯星通](https://www.unicorecomm.com/)
 

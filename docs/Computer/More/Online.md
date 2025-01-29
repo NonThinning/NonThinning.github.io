@@ -77,6 +77,9 @@
 - [开源项目到底怎么玩的 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=41963007&_fp=4)
 - [年度个人向厕纸推荐(量大管饱，主要是机翻) NGA玩家社区 P1](https://ngabbs.com/read.php?tid=42959517)
 - [[推书] 个人向英文理性小说评鉴+安利 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=43009653) | [理性小说介绍推荐](https://mp.weixin.qq.com/s/iEx1VI6uo3h2dEsWi2ZAQg)
+- [[求推书] 求新一点的百合小说推荐，纯百变百皆可(附上本人些许看过的书) NGA玩家社区](https://ngabbs.com/read.php?tid=41296117&rand=791)
+- [有无类似公爵少爷的爱欲乐园这样的长篇综漫刘备 NGA玩家社区 P1](https://bbs.nga.cn/read.php?tid=40011492)
+- [[闲聊氵]《公爵少爷的aiyu乐园计划》的作者还有其他作品吗？ NGA玩家社区](https://ngabbs.com/read.php?tid=43122651&_fp=2&rand=839)
 
 [论坛 - stage1/s1 游戏动漫论坛](https://bbs.saraba1st.com/2b/forum.php)
 
@@ -91,6 +94,8 @@
 
 - [中国当代艺术：白人女人当武侠英雄 - 知乎](https://zhuanlan.zhihu.com/p/84069887)
 
+[家里没有皮揣子，马桶堵了怎么办？ - 知乎](https://www.zhihu.com/question/348982076) | 省流：马桶刷裹上塑料袋
+
 [潘绥铭_新浪博客](https://blog.sina.com.cn/u/1305771610)
 
 - [专访潘绥铭：现在一代年轻人更加输不起，也加剧了焦虑](https://mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247600471&idx=1&sn=e966de7f48c711c9b6120631469287a4)
@@ -98,12 +103,10 @@
 - [风痕 (豆瓣)](https://book.douban.com/subject/36184693/)
 - [论方法 (豆瓣)](https://book.douban.com/subject/36094996/)
 
+[一杯小酒撂倒了多少官员 细说“最严禁酒”这五年--反腐倡廉-人民网](http://fanfu.people.com.cn/n1/2018/0807/c64371-30213883.html)
+
 ## Glossary (Base64)
 
 ```
 5Zub5aSx77ya5aSx54us44CB5aSx5Lia44CB5aSx5oSP44CB5aSx5bi477yb5LqU57G777ya5L2O5L+d5oi344CB5L2O5pS25YWl5a625bqt44CB54m55Zuw5Lq65ZGY44CB5q6L55a+5Lq65ZGY44CB56S+5Yy655+r5q2j5Lq65ZGY77yb5LqU5aSx77ya5aSx6LSl44CB5aSx5oSP44CB5aSx6KGh44CB5aSx5ZKM44CB5aSx5bi4
-```
-
-```
-
 ```

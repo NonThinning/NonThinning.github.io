@@ -58,6 +58,8 @@
 
 ## Shadow
 
+[Nexus Bots](https://libstc.nexus/)
+
 [Unblockit - Proxies for Accessing Your Favorite Blocked Websites](https://unblockits.com/)
 
 [SLUM: The Shadow Library Uptime Monitor](https://open-slum.org/)

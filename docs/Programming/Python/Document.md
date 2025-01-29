@@ -1,6 +1,9 @@
 
 [Miniforge](https://github.com/conda-forge/miniforge)
 
+- ⚠️: 与Miniforge冲突 [Home | Oh My Posh](https://ohmyposh.dev/)
+- ⚠️: 部分主题支持显示环境 [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+
 [WinPython](https://github.com/winpython/winpython)
 
 [anaconda - Tuna](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
