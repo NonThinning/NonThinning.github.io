@@ -72,6 +72,11 @@
 
 > [Steam 上的 BLOCKPOST MOBILE](https://store.steampowered.com/app/1679010/BLOCKPOST_MOBILE/) | [BLOCKPOST MOBILE 5vs5](https://shop.playblockpost.com/)
 
+[Kevin Gu](https://www.thekevingu.com/)
+
+- [Play Free Games Online at Armor Games](https://armorgames.com/)
+- [Armor Games Studios](https://armorgamesstudios.com/)
+
 ## Pixel
 
 [熊喵独立游戏](https://game.maidrom.net/)
@@ -178,3 +183,10 @@ illusion: [BetterRepack](https://betterrepack.com/) | [BR Public Download](https
 
 [Special Moves](https://www.spmoves.com/index.html) | 动作游戏出招表
 
+[Ruffle - Flash Emulator](https://ruffle.rs/)
+
+- [Flashpoint Archive](https://flashpointarchive.org/)
+
+## Crack
+
+[Game Ports by ZBEP](https://zbep.github.io/)

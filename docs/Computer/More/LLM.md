@@ -26,6 +26,12 @@
 
 - [东洋雪莲的个人空间-东洋雪莲个人主页-哔哩哔哩视频](https://space.bilibili.com/1060544882/lists/1049571?type=season)
 
+## Picture Model
+
+[Black Forest Labs - Frontier AI Lab](https://blackforestlabs.ai/)
+
+[comfyanonymous/ComfyUI: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI)
+
 ## Prompt
 
 [richards199999/Thinking-Claude: Let your Claude able to think](https://github.com/richards199999/Thinking-Claude)

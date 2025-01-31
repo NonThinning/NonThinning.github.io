@@ -138,6 +138,10 @@ NEWS: [HyperAI超神经](https://hyper.ai/cn)
 
 - [Apache Cloudberry (Incubating) | Apache Cloudberry (Incubating)](https://cloudberry.apache.org/)
 
+## Web
+
+[neocities/neocities-ruby: The Neocities Gem - A CLI and library for using the Neocities web site API.](https://github.com/neocities/neocities-ruby)
+
 ## More
 
 [现代科研指北](https://bookdown.org/yufree/sciguide/)

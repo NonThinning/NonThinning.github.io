@@ -22,6 +22,10 @@
 - [Landsat Collection 2 Tier 1 Level 2 32-Day NDVI Composite  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_COMPOSITES_C02_T1_L2_32DAY_NDVI) | 仅有初步预处理
 - [Sentinel-5P OFFL CH4: Offline Methane  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4) | 卫星、碳通量
 
+[geoBoundaries Global Database of Political Administrative Boundaries - awesome-gee-community-catalog](https://gee-community-catalog.org/projects/geoboundary/)
+
+- [geoBoundaries](https://www.geoboundaries.org/)
+
 ### Document
 
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)

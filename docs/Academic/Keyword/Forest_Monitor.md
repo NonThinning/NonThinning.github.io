@@ -106,6 +106,8 @@ comments: true
 
 - [Google Earth Engine支持下的江苏省夏收作物遥感提取](https://www.dqxxkx.cn/article/2019/1560-8999/1560-8999-21-5-752.shtml)
 
+[GMD - Accounting for forest management in the estimation of forest carbon balance using the dynamic vegetation model LPJ-GUESS (v4.0, r9710): implementation and evaluation of simulations for Europe](https://gmd.copernicus.org/articles/14/6071/2021/)
+
 ### Remote Sensing
 
 [Pan-tropical Sentinel-2 cloud-free annual composite datasets - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340921007691) | 处理过程可参考
@@ -121,3 +123,22 @@ comments: true
 [GMD - Bayesian atmospheric correction over land: Sentinel-2/MSI and Landsat 8/OLI](https://gmd.copernicus.org/articles/15/7933/2022/) | 大气校正、贝叶斯方法
 
 - [Bayesian atmospheric correction over land: Sentinel-2/MSI and Landsat 8/OLI](https://eartharxiv.org/repository/view/1034/)
+
+### Species Distribution Modeling
+
+[Ecological Niche Models using MaxEnt in Google Earth Engine: Evaluation, guidelines and recommendations - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1574954123001760)
+
+- [Supplemental Materials - Appendix 1 - Implementation of species distribution models in Google Earth Engine](https://smithsonian.github.io/SDMinGEE/)
+- [osgeokr/pySDM-geemap: Species Distribution Modeling (SDM) utilizing Google Earth Engine (GEE) and geemap](https://github.com/osgeokr/pySDM-geemap)
+
+[Frontiers | A perspective on the need for integrated frameworks linking species distribution and dynamic forest landscape models across spatial scales](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2024.1112712/full)
+
+[Species distribution modelling to support forest management. A literature review - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0304380019303254)
+
+[Potential Impact of Climate Change on the Forest Coverage and the Spatial Distribution of 19 Key Forest Tree Species in Italy under RCP4.5 IPCC Trajectory for 2050s](https://www.mdpi.com/1999-4907/11/9/934)
+
+### Models of Forest Dynamics
+
+[The evolution, complexity and diversity of models of long‐term forest dynamics - Bugmann - 2022 - Journal of Ecology - Wiley Online Library](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13989)
+
+[GMD - Accounting for forest management in the estimation of forest carbon balance using the dynamic vegetation model LPJ-GUESS (v4.0, r9710): implementation and evaluation of simulations for Europe](https://gmd.copernicus.org/articles/14/6071/2021/)

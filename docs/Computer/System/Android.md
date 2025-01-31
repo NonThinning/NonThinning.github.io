@@ -92,6 +92,10 @@
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)
 
+[S1-Orange: 专为鸿蒙Next开发的 bbs.saraba1st.com 移动客户端](https://gitee.com/rI6tL9/S1-Orange/)
+
+- [[鸿蒙Next] 开源论坛客户端 S1 Orange 专楼 - 内野 - Stage1st - 手机版 - Powered by Discuz!](https://bbs.saraba1st.com/2b/thread-2244111-1-1.html)
+
 [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram)
 
 [Hacki for Hacker News | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.jiaqifeng.hacki/)

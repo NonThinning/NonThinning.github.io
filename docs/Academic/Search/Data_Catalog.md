@@ -22,3 +22,5 @@
 > [北京大学全球变化与陆地生态系统模型研究团队](https://www.nesdc.org.cn/otherProject/index?menuId=team&projectId=1315)
 
 [地球大数据科学工程数据共享服务系统](https://data.casearth.cn/)
+
+[中国遥感卫星地面站数据共享门户](https://noda.ac.cn/rsgs/)

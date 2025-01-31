@@ -239,6 +239,8 @@ forestat: [caf-ifrit/forestat: forestat: Forest Carbon Sequestration and Potenti
 
 [Responses of soil carbon and nitrogen cycles to the physical influences of rock fragment in soils - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816221002289)
 
+[Assessing the compression properties of Gravel-bearing forest soil in northeast China’s seasonally frozen regions under Freeze-thaw cycles and varying gravel content - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0016706124002799)
+
 ### SOC
 
 [Organic carbon stocks, quality and prediction in permafrost-affected forest soils in North Canada - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0341816222001801?via%3Dihub) | 参考采样、无机碳处理方法
