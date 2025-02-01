@@ -15,6 +15,7 @@
 - [中华传统礼仪概要 (豆瓣)](https://book.douban.com/subject/27152044/)
 - [夜谭十记 (豆瓣)](https://book.douban.com/subject/5248387/)
 - [书虫系列 (豆瓣)](https://book.douban.com/subject/1942057/)
+- [只有医生知道 (豆瓣)](https://book.douban.com/subject/26874371/)
 
 ## Library
 

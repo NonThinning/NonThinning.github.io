@@ -97,3 +97,7 @@ Semi-Automatic Classification Plugin: [Semi-Automatic Classification Plugin Docu
 **QGIS**
 
 - 矢量 - 空间索引 需将矢量文件保存为`.gpkg`而不是`.geojson`
+
+## QGIS in Linux
+
+在`conda`中安装缺少动态链接库: `ln -s ~/miniforge3/pkgs/draco-1.5.7-h00ab1b0_0/lib/libdraco.so.9.0.0 ~/miniforge3/envs/qgis/lib/libdraco.so.9`

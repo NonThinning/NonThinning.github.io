@@ -33,6 +33,12 @@ NSP Download
 
 [nsw2u.com](https://nsw2u.com/) | [Leinad4Mind/1fichier-dl](https://github.com/Leinad4Mind/1fichier-dl) 
 
+## Nintendo 3DS
+
+[Lime3DS/lime3ds-archive: An archive of the Lime3DS source code, provided for historical purposes](https://github.com/Lime3DS/lime3ds-archive)
+
+[mandarine3ds/mandarine: A Citra fork with new features and hacks which are experimental and may not be present upstream](https://github.com/mandarine3ds/mandarine/)
+
 ## Xbox
 
 [XenonLibrary](https://xenonlibrary.com/wiki/Main_Page)
