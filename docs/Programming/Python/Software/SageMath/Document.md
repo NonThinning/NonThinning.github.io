@@ -1,4 +1,11 @@
 
+## Install
+
+- `conda activate sage`
+- `mamba install sage -c conda-forge`
+- 如安装失败，回滚`conda list --revisions`, `conda install --revision 0`
+
+
 ## SageMath
 
 [Reference Manual](https://doc.sagemath.org/html/en/reference/index.html)
