@@ -9,6 +9,8 @@
 
 中文支持: `conda install jupyterlab-language-pack-zh-CN`
 
+R支持：`conda install r-IRkernel r-languageserver`
+
 ## More
 
 [2017 Technical Awards](https://awards.acm.org/about/2017-technical-awards)
