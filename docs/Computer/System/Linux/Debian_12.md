@@ -96,6 +96,8 @@ bash补全: [scop/bash-completion](https://github.com/scop/bash-completion/)
 
 intel gpu占用: `sudo apt install intel-gpu-tools`; 查看: `sudo intel_gpu_top`
 
+安装oh-my-bash后恢复conda`~/miniforge3/bin/conda init bash`
+
 ## Grub
 
 ```bash
