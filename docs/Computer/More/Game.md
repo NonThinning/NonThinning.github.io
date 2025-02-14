@@ -95,9 +95,23 @@
 
 - [Aihasto - itch.io](https://aihasto.itch.io/)
 
+[skullgirls.com](https://skullgirls.com/)
+
+- [Skullgirls Mobile | Available now on iOS and Android.](https://skullgirlsmobile.com/)
+
+[Steam 上的 The Expression Amrilato](https://store.steampowered.com/app/1044490)
+
+- [恋语 Juliamo -amrilata lingvo- - Steam上的中文Galgame丨SteamGalgame](https://steamgalgame.com/The_Expression_Amrilato.html)
+
+[中文 era 宇宙](https://erag.eu.org/)
+
+- [中文 era 游戏 Wiki](https://era.miraheze.org/wiki/%E9%A6%96%E9%A1%B5)
+
 ## Strategy
 
 [GreenFirst foundation. Save the Earth mobile game official site by gamefist](https://greenfirst.org/)
+
+[WorldBox - The Best Sandbox God Simulator Game (0.22.9 - 0.22.21)](https://www.superworldbox.com/)
 
 ## Minecraft
 

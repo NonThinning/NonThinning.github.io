@@ -3,20 +3,6 @@
 
 [孔夫子旧书网](https://www.kongfz.com/) | [豆瓣读书](https://book.douban.com/)
 
-- [孔网搜索：俄国经略东方丛书](https://search.kongfz.com/product/?keyword=%E4%BF%84%E5%9B%BD%E7%BB%8F%E7%95%A5%E4%B8%9C%E6%96%B9%E4%B8%9B%E4%B9%A6&dataType=0) | [豆瓣书单：俄国经略东方丛书](https://www.douban.com/doulist/163071/)
-- [中国历史地图集（全八册） (豆瓣)](https://book.douban.com/subject/1055304/) | [为什么不再出版《中国历史地图集》？ - 知乎](https://www.zhihu.com/question/359877118/answer/34348680336)
-- [汉语语法学 (豆瓣)](https://book.douban.com/subject/26883797/)
-- [句法结构 (豆瓣)](https://book.douban.com/subject/35888972/)
-- [古今伪书考补证 (豆瓣)](https://book.douban.com/subject/30222589/)
-- [The Old New Thing (豆瓣)](https://book.douban.com/subject/1938198/)
-- [孔子改制考 (豆瓣)](https://book.douban.com/subject/4916553/)
-- [《纯粹理性批判》讲演录 (豆瓣)](https://book.douban.com/subject/25670715/)
-- [別斃了那隻狗 (豆瓣)](https://book.douban.com/subject/3670287/)
-- [中华传统礼仪概要 (豆瓣)](https://book.douban.com/subject/27152044/)
-- [夜谭十记 (豆瓣)](https://book.douban.com/subject/5248387/)
-- [书虫系列 (豆瓣)](https://book.douban.com/subject/1942057/)
-- [只有医生知道 (豆瓣)](https://book.douban.com/subject/26874371/)
-
 ## Library
 
 [Noble Machine translations - korean and chinese Machine translations](https://noblemtl.com/) | English
@@ -73,3 +59,4 @@ TTS: [jing332/tts-server-android](https://github.com/jing332/tts-server-android)
 
 [Worldbuilding Stack Exchange](https://worldbuilding.stackexchange.com/)
 
+[香水时代](https://www.nosetime.com/)

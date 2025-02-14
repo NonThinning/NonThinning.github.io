@@ -96,7 +96,9 @@ bash补全: [scop/bash-completion](https://github.com/scop/bash-completion/)
 
 intel gpu占用: `sudo apt install intel-gpu-tools`; 查看: `sudo intel_gpu_top`
 
-安装oh-my-bash后恢复conda`~/miniforge3/bin/conda init bash`
+安装oh-my-bash后恢复conda: `~/miniforge3/bin/conda init bash`
+
+字体,使用apt安装: [GNU Unifont Glyphs](https://www.unifoundry.com/unifont/index.html)
 
 ## Grub
 
@@ -170,3 +172,7 @@ reboot
 
 - HP笔记本，使用DG可修改BIOS EIF启动顺序，并在Debian中启用`GRUB_DISABLE_OS_PROBER=false`
 - Acer笔记本，使用DG修改失败，使用Easy UEFI修改成功，其他同上 [轻松管理EFI/UEFI启动项 & 管理EFI系统分区 & 修复EFI系统启动问题！- EasyUEFI](https://www.easyuefi.com/index-cn.html)
+
+## Driver
+
+[在 Debian 12 上安装 Nvidia 显卡驱动程序 | 晚花行乐](https://www.lfhacks.com/tech/debian-nvidia-driver/)

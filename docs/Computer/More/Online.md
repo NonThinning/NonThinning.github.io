@@ -47,6 +47,10 @@
 
 - [符号学习](https://www.lamda.nju.edu.cn/sym2022/)
 
+[Mengce Zheng (郑梦策) - Homepage](https://mengcezheng.github.io/)
+
+- [SageMath + VSCode 配置 - Mengce Zheng (郑梦策)](https://mengcezheng.github.io/sage-vscode/)
+
 ## BBS
 
 [LINUX DO](https://linux.do/) | [Linux DO 导航站](https://nav.linux.do/)
@@ -94,7 +98,15 @@
 
 - [中国当代艺术：白人女人当武侠英雄 - 知乎](https://zhuanlan.zhihu.com/p/84069887)
 
+[是Roguelike哦（ - 知乎](https://www.zhihu.com/column/c_1249107992408100864)
+
+- [【List】一些大ip(?)下的传统Roguelike游戏（二） - 知乎](https://zhuanlan.zhihu.com/p/145062954)
+- [你所热爱的Roguelike游戏，在他们眼中却是异类 - 知乎](https://zhuanlan.zhihu.com/p/94946530)
+- > [Roguelike 到底是啥 | pre-sence](https://pre-sence.com/archives/roguelike-dossier)
+
 [家里没有皮揣子，马桶堵了怎么办？ - 知乎](https://www.zhihu.com/question/348982076) | 省流：马桶刷裹上塑料袋
+
+[汉语是牺牲了什么，才成为世界最紧凑、最高效的语言？ - 知乎](https://www.zhihu.com/question/309064079/answer/15248543015)
 
 [潘绥铭_新浪博客](https://blog.sina.com.cn/u/1305771610)
 
@@ -105,8 +117,3 @@
 
 [一杯小酒撂倒了多少官员 细说“最严禁酒”这五年--反腐倡廉-人民网](http://fanfu.people.com.cn/n1/2018/0807/c64371-30213883.html)
 
-## Glossary (Base64)
-
-```
-5Zub5aSx77ya5aSx54us44CB5aSx5Lia44CB5aSx5oSP44CB5aSx5bi477yb5LqU57G777ya5L2O5L+d5oi344CB5L2O5pS25YWl5a625bqt44CB54m55Zuw5Lq65ZGY44CB5q6L55a+5Lq65ZGY44CB56S+5Yy655+r5q2j5Lq65ZGY77yb5LqU5aSx77ya5aSx6LSl44CB5aSx5oSP44CB5aSx6KGh44CB5aSx5ZKM44CB5aSx5bi4
-```

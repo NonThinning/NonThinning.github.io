@@ -3,6 +3,7 @@
 
 - ⚠️: 与Miniforge冲突 [Home | Oh My Posh](https://ohmyposh.dev/)
 - ⚠️: 部分主题支持显示环境 [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+- [Help](https://mirrors.nju.edu.cn/help/miniforge) | NJU Mirror
 
 [WinPython](https://github.com/winpython/winpython)
 
@@ -26,6 +27,8 @@
 
 [PyNotes in Agriscience](https://soilwater.github.io/pynotes-agriscience/)
 
+- [PyNotes GEE](https://soilwater.github.io/pynotes-gee/)
+
 [Geocomputation with Python](https://py.geocompx.org/) | [Geocompx](https://geocompx.org/)
 
 [Earth Lab: Free, online courses, tutorials and tools | Earth Data Science - Earth Lab](https://www.earthdatascience.org/)
@@ -44,12 +47,12 @@
 
 [Bioinformatics Tutorial | Bioinformatics Tutorial](https://book.ncrnalab.org/teaching)
 
-## Hydrology
+### Hydrology
 
 [欢迎来到水资源科研编程入门教程 — iHeadWater Hackweek Tutorials](https://iheadwater.github.io/iheadwater_hackweek_tutorials/intro.html)
 
 > [Open Water Science](https://github.com/iHeadWater)
 
-## RemoteSensing
+### RemoteSensing
 
 [数字图像处理课程主页](https://ustc-dip.github.io/) | Python&Matlab

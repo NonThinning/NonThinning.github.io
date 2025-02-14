@@ -35,6 +35,10 @@ Tachiyomi: [Home | Mihon](https://mihon.app/) | [Keiyoushi](https://keiyoushi.gi
 
 [ASCII Art and ANSI Art - Text Art by Roy/SAC - Superior Art Creations](http://www.roysac.com/default.html) | Roy/SAC aka Carsten Cumbrowski
 
+[Isa/ukuku | 爱发电](https://afdian.com/a/isasa?tab=home)
+
 ## More
 
 [グラビア作品一覧 - まんが（漫画）・電子書籍をお得に買うなら、無料で読むならebookjapan](https://ebookjapan.yahoo.co.jp/lists/genres/M26/)
+
+[User Friendly Comic : J. D. Frazer, Illiad : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/user-friendly-comic)

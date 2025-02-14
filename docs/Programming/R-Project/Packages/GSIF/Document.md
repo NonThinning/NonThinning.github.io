@@ -12,7 +12,8 @@ devtools::install_version("soiltexture", version="1.5.1")
 devtools::install_version("quantregForest", version="1.3-7")
 devtools::install_version("maxlike", version="0.1-10")
 devtools::install_github("h2oai/h2o-3/h2o-r/ensemble/h2oEnsemble-package")
-remotes::install_github("cran/GSIF#1") # 可能导致部分错误,临时解决方法
+remotes::install_github("cran/GSIF#1") 
+# 根据文档，此修改会影响获取WorldGrids的数据集，对其他无影响
 ```
 
 ```bash

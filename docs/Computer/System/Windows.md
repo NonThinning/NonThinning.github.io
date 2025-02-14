@@ -89,6 +89,8 @@
 
 [微PE工具箱 - 超好用的装机维护工具](https://www.wepe.com.cn/)
 
+- [3.6.系统备份恢复 | 微PE优盘使用说明书](https://www.wepe.com.cn/ubook/backup.html)
+
 [FirPE Project - 也许是最适合年轻人使用的第三方WinPE](https://www.firpe.cn/)
 
 ## Proxy
@@ -117,6 +119,8 @@ IP泄露查询：[My IP Address - BrowserLeaks](https://browserleaks.com/ip)
 [旧版 WSL 的手动安装步骤 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/install-manual)
 
 [WSL 的基本命令 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows/wsl/basic-commands)
+
+[GitHub - microsoft/WSL: Issues found on WSL](https://github.com/microsoft/WSL)
 
 ## Desktop
 

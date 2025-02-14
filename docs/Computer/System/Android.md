@@ -88,6 +88,8 @@
 
 [d4rken-org/sdmaid-se: SD Maid 2/SE is Android's most thorough cleaning tool.](https://github.com/d4rken-org/sdmaid-se)
 
+[MuntashirAkon/AppManager: A full-featured package manager and viewer for Android](https://github.com/MuntashirAkon/AppManager)
+
 ## BBS
 
 [NGA](https://f-droid.org/zh_Hans/packages/gov.anzong.androidnga/) | [S1Fun](https://s1fun.koalcat.com/) | [XDnmb](https://app.nmbxd.com/)
@@ -99,6 +101,8 @@
 [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram)
 
 [Hacki for Hacker News | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.jiaqifeng.hacki/)
+
+[Hydrogen下载页](https://huajiqaq.github.io/myhydrogen/) | Hydrogen 一款第三方知乎APP
 
 ## Text
 

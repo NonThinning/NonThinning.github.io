@@ -32,3 +32,5 @@
 - [pyopencl 2024.3 documentation](https://documen.tician.de/pyopencl/)
 - [OpenCL Overview - The Khronos Group Inc](https://www.khronos.org/opencl/)
 - [pycuda 2024.1.2 documentation](https://documen.tician.de/pycuda/)
+
+[Pytorch Gpu | Anaconda.org](https://anaconda.org/conda-forge/pytorch-gpu)

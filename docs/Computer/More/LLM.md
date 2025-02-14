@@ -1,12 +1,15 @@
 
 [首次调用 API | DeepSeek API Docs](https://api-docs.deepseek.com/zh-cn/)
 
+[Aider LLM Leaderboards | aider](https://aider.chat/docs/leaderboards/)
+
 ## Software
 
 [SillyTavern/SillyTavern: LLM Frontend for Power Users.](https://github.com/SillyTavern/SillyTavern)
 
 - [SillyTavern 入门指北 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/223253)
 - [[闲聊氵] 低内容审查国产文字ai食用指南。 NGA玩家社区](https://ngabbs.com/read.php?tid=43114852&rand=90)
+- [酒馆入门（必修）](https://sqivg8d05rm.feishu.cn/wiki/J8NDwc06JiuHXmk5cP2csfP6nmd)
 
 [CherryHQ/cherry-studio: 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1](https://github.com/CherryHQ/cherry-studio)
 
@@ -17,6 +20,8 @@
 ## Model
 
 [nvidia/Mistral-NeMo-12B-Base · Hugging Face](https://huggingface.co/nvidia/Mistral-NeMo-12B-Base)
+
+[huihui_ai](https://ollama.com/huihui_ai)
 
 ## Voice Model
 
@@ -47,3 +52,4 @@
 [[闲聊氵]你们都在聊AI写作，我把AI聊出事了 NGA玩家社区](https://ngabbs.com/read.php?tid=43114925&_fp=2&rand=355) | Pick-up Artist 方法论在提示工程中的应用
 
 [只需cpu即可部署deepseek NGA玩家社区 P1](https://ngabbs.com/read.php?tid=43150007)
+
