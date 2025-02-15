@@ -179,3 +179,4 @@ scoop install main/nodejs
 
 [AI Earth (aliyun.com)](https://engine-aiearth.aliyun.com/#/)
 
+[航天宏图地球科学引擎解决方案实践_地图-华为云](https://www.huaweicloud.com/solution/implementations/pieengine.html)
