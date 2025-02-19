@@ -1,5 +1,4 @@
 
-
 ```shell
 scoop install extras/zotero
 ```
