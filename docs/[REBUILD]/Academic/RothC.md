@@ -90,7 +90,8 @@ def RMF_Moist (RAIN, PEVAP, clay, depth, PC, SWC):
 - 在南半球，天气数据文件应在土壤湿润的7月开始，但在输出时显示1月
 
 ```python
-def RMF_PC (PC):
+# Calculates the plant retainment modifying factor (RMF_PC)
+def RMF_PC (PC):        # PC 植被覆盖 无覆盖为0 农作物覆盖为1
      
     if (PC==0):
         RM_PC = 1.0
@@ -98,4 +99,151 @@ def RMF_PC (PC):
         RM_PC = 0.6
 
     return RM_PC
+```
+- 存在生长中的植物，土壤覆盖系数 Soil cover factor 会减缓分解
+
+```python
+# Calculates the decomposition and radiocarbon 计算分解和放射性碳
+def decomp(timeFact, DPM,RPM,BIO,HUM, IOM, SOC, DPM_Rage, RPM_Rage, \
+           BIO_Rage, HUM_Rage, Total_Rage, modernC, RateM, clay, C_Inp, FYM_Inp, DPM_RPM):
+
+    zero = 0e-8                     # 使计算精确到小数点后8位
+# rate constant are params so don't need to be passed
+    DPM_k = 10.0                    
+    RPM_k = 0.3
+    BIO_k = 0.66
+    HUM_k = 0.02 
+                                    # 每个隔室（碳池）的分解速率常数，以years^{-1}为单位
+    conr = np.log(2.0) / 5568.0     # 14C的常规半衰期为5568年
+
+    tstep = 1.0/timeFact    # monthly 1/12, or daily 1/365  
+      
+    exc = np.exp(-conr*tstep) 
+      
+ 
+# decomposition
+    DPM1 = DPM[0] * np.exp(-RateM*DPM_k*tstep)
+    RPM1 = RPM[0] * np.exp(-RateM*RPM_k*tstep)      
+    BIO1 = BIO[0] * np.exp(-RateM*BIO_k*tstep)      
+    HUM1 = HUM[0] * np.exp(-RateM*HUM_k*tstep) 
+
+      
+    DPM_d = DPM[0] - DPM1
+    RPM_d = RPM[0] - RPM1      
+    BIO_d = BIO[0] - BIO1
+    HUM_d = HUM[0] - HUM1 
+      
+    
+    x=1.67*(1.85+1.60*np.exp(-0.0786*clay))
+                    
+# proportion C from each pool into CO2, BIO and HUM      
+    DPM_co2 = DPM_d * (x / (x+1))
+    DPM_BIO = DPM_d * (0.46 / (x+1))
+    DPM_HUM = DPM_d * (0.54 / (x+1))
+      
+    RPM_co2 = RPM_d * (x / (x+1))
+    RPM_BIO = RPM_d * (0.46 / (x+1))
+    RPM_HUM = RPM_d * (0.54 / (x+1))    
+      
+    BIO_co2 = BIO_d * (x / (x+1))
+    BIO_BIO = BIO_d* (0.46 / (x+1))
+    BIO_HUM = BIO_d * (0.54 / (x+1))
+      
+    HUM_co2 = HUM_d * (x / (x+1))
+    HUM_BIO = HUM_d * (0.46 / (x+1))
+    HUM_HUM = HUM_d * (0.54 / (x+1))  
+           
+      
+# update C pools  
+    DPM[0] = DPM1
+    RPM[0] = RPM1
+    BIO[0] = BIO1 + DPM_BIO + RPM_BIO + BIO_BIO + HUM_BIO
+    HUM[0] = HUM1 + DPM_HUM + RPM_HUM + BIO_HUM + HUM_HUM    
+      
+# split plant C to DPM and RPM 
+    PI_C_DPM = DPM_RPM / (DPM_RPM + 1.0) * C_Inp
+    PI_C_RPM =     1.0 / (DPM_RPM + 1.0) * C_Inp
+
+# split FYM C to DPM, RPM and HUM 
+    FYM_C_DPM = 0.49*FYM_Inp
+    FYM_C_RPM = 0.49*FYM_Inp      
+    FYM_C_HUM = 0.02*FYM_Inp   
+      
+# add Plant C and FYM_C to DPM, RPM and HUM   
+    DPM[0] = DPM[0] + PI_C_DPM + FYM_C_DPM
+    RPM[0] = RPM[0] + PI_C_RPM + FYM_C_RPM  
+    HUM[0] = HUM[0] + FYM_C_HUM
+      
+# calc new ract of each pool      
+    DPM_Ract = DPM1 *np.exp(-conr*DPM_Rage[0])
+    RPM_Ract = RPM1 *np.exp(-conr*RPM_Rage[0]) 
+      
+    BIO_Ract = BIO1 *np.exp(-conr*BIO_Rage[0])
+    DPM_BIO_Ract = DPM_BIO * np.exp(-conr*DPM_Rage[0])
+    RPM_BIO_Ract = RPM_BIO * np.exp(-conr*RPM_Rage[0])
+    BIO_BIO_Ract = BIO_BIO * np.exp(-conr*BIO_Rage[0])
+    HUM_BIO_Ract = HUM_BIO * np.exp(-conr*HUM_Rage[0])
+      
+    HUM_Ract = HUM1 *np.exp(-conr*HUM_Rage[0])   
+    DPM_HUM_Ract = DPM_HUM * np.exp(-conr*DPM_Rage[0])
+    RPM_HUM_Ract = RPM_HUM * np.exp(-conr*RPM_Rage[0])
+    BIO_HUM_Ract = BIO_HUM * np.exp(-conr*BIO_Rage[0])
+    HUM_HUM_Ract = HUM_HUM * np.exp(-conr*HUM_Rage[0])
+      
+    IOM_Ract = IOM[0] *np.exp(-conr*IOM_Rage[0]) 
+      
+# assign new C from plant and FYM the correct age   
+    PI_DPM_Ract = modernC * PI_C_DPM
+    PI_RPM_Ract = modernC * PI_C_RPM
+      
+    FYM_DPM_Ract = modernC * FYM_C_DPM
+    FYM_RPM_Ract = modernC * FYM_C_RPM
+    FYM_HUM_Ract = modernC * FYM_C_HUM          
+      
+# update ract for each pool        
+    DPM_Ract_new = FYM_DPM_Ract + PI_DPM_Ract + DPM_Ract*exc
+    RPM_Ract_new = FYM_RPM_Ract + PI_RPM_Ract + RPM_Ract*exc    
+    
+    BIO_Ract_new = (BIO_Ract + DPM_BIO_Ract + RPM_BIO_Ract + 
+                    BIO_BIO_Ract + HUM_BIO_Ract )*exc
+      
+    HUM_Ract_new = FYM_HUM_Ract + (HUM_Ract + DPM_HUM_Ract + 
+                                   RPM_HUM_Ract + BIO_HUM_Ract + HUM_HUM_Ract )*exc  
+      
+      
+    SOC[0] = DPM[0] + RPM[0] + BIO[0] + HUM[0] + IOM[0]     
+      
+    Total_Ract = DPM_Ract_new + RPM_Ract_new + BIO_Ract_new + HUM_Ract_new + IOM_Ract
+      
+
+# calculate rage of each pool.      
+    if(DPM[0]<=zero): 
+        DPM_Rage[0] = zero
+    else:
+        DPM_Rage[0] = ( np.log(DPM[0]/DPM_Ract_new) ) / conr
+
+    
+    if(RPM[0]<=zero):
+        RPM_Rage[0] = zero
+    else:
+        RPM_Rage[0] = (np.log(RPM/RPM_Ract_new) ) / conr 
+    
+    if(BIO[0]<=zero):
+        BIO_Rage[0] = zero
+    else:
+        BIO_Rage[0] = ( np.log(BIO/BIO_Ract_new) ) / conr
+    
+    
+    if(HUM[0]<=zero):
+        HUM_Rage[0] = zero
+    else:
+        HUM_Rage[0] = ( np.log(HUM/HUM_Ract_new) ) / conr
+    
+    
+    if(SOC[0]<=zero):
+        Total_Rage[0] = zero
+    else:
+        Total_Rage[0] = ( np.log(SOC[0]/Total_Ract) ) / conr    
+    
+    return
 ```
