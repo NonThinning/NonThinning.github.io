@@ -1,6 +1,8 @@
 
 ## Document
 
+[Suggested Learning Paths – Spatial Thoughts](https://spatialthoughts.com/learning-paths/)
+
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)
 - [EEFA Notebook](https://gee-community.github.io/eefa-notebook/)
 

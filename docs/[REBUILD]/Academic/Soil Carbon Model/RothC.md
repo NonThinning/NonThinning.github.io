@@ -76,8 +76,8 @@ def RMF_Moist (RAIN, PEVAP, clay, depth, PC, SWC):
     if(PC==1):                              # PC 植被覆盖 无覆盖为0 农作物覆盖为1
         SWC[0] = np.max(np.array([SMDMaxAdj, minSWCDF]))        # SWC (mm per soil depth) 土壤水分亏缺
     else:
-        SWC[0] = np.max(np.array([minSMDBareSWC, minSWCDF]))    # ?
-       
+        SWC[0] = np.max(np.array([minSMDBareSWC, minSWCDF]))
+                                            # 总结：根据环境因素调节含水量
       
     if(SWC[0]>SMD1bar):                     # 累计表层土壤水分亏缺 > 0.444 * SMDMaxAdj
         RM_Moist = 1.0
