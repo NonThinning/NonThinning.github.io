@@ -109,7 +109,7 @@ def decomp(timeFact, DPM,RPM,BIO,HUM, IOM, SOC, DPM_Rage, RPM_Rage, \
 
     zero = 0e-8                     # 使计算精确到小数点后8位
 # rate constant are params so don't need to be passed
-    DPM_k = 10.0                    
+    DPM_k = 10.0                    # 值根据RothC现场试验的数据设定
     RPM_k = 0.3
     BIO_k = 0.66
     HUM_k = 0.02 
@@ -134,8 +134,8 @@ def decomp(timeFact, DPM,RPM,BIO,HUM, IOM, SOC, DPM_Rage, RPM_Rage, \
     HUM_d = HUM[0] - HUM1 
       
     
-    x=1.67*(1.85+1.60*np.exp(-0.0786*clay))
-                    
+    x=1.67*(1.85+1.60*np.exp(-0.0786*clay)) # 根据土壤粘土含量计算形成的CO2/(BIO+HUM)
+                                            # 比例因子1.67根据Roth土壤设置
 # proportion C from each pool into CO2, BIO and HUM      
     DPM_co2 = DPM_d * (x / (x+1))
     DPM_BIO = DPM_d * (0.46 / (x+1))
