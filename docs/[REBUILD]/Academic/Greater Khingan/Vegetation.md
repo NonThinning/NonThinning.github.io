@@ -15,7 +15,7 @@
 - 落叶阔叶林
 
 山杨：被子植物门 Angiospermae >> 杨柳科 Salicaceae >> 杨属 Populus
-- 常与白桦伴生
+- 多与白桦伴生
 
 ### 灌木
 
@@ -35,8 +35,10 @@
 ## 草本植物
 
 红花鹿蹄草：被子植物门 Angiospermae >> 杜鹃花科 Ericaceae >> 鹿蹄草属 Pyrola
+- 叶3-7，基生，薄革质，稍有光泽，近圆形或圆卵形或卵状椭圆形
 
 舞鹤草：被子植物门 Angiospermae >> 天门冬科 Asparagaceae >> 舞鹤草属 Maianthemum
+- 先端急尖或渐尖，基部心形
 
 大披针薹草：被子植物门 Angiospermae >> 莎草科 Cyperaceae >> 薹草属 Carex
 - 形成塔头
