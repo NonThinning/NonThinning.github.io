@@ -6,12 +6,16 @@
 ### 乔木
 
 樟子松：裸子植物门 Gymnospermae >> 松科 Pinaceae >> 松属 Pinus
+- 常绿针叶林
 
 兴安落叶松：裸子植物门 Gymnospermae >> 松科 Pinaceae >> 落叶松属 Larix
+- 落叶针叶林
 
 白桦：被子植物门 Angiospermae >> 桦木科 Betulaceae >> 桦木属 Betula
+- 落叶阔叶林
 
 山杨：被子植物门 Angiospermae >> 杨柳科 Salicaceae >> 杨属 Populus
+- 常与白桦伴生
 
 ### 灌木
 
