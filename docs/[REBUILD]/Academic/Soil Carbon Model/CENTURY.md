@@ -1,0 +1,2 @@
+
+[基于过程模型—数据融合的青藏高原土壤有机碳动态模拟研究 - 中国知网](https://kns.cnki.net/kcms2/article/abstract?v=DMKM_QUxZ7DJ0ZoxkokhhprDLTJ3Mpdr2VZgyt7GEHwvOXFvKMMZQscMRsjleTrSB5uYNzs0TIXWhOhpsUVi2sJRNN0iM9sBUsQBgk9Kiu5tCph5Jf0LJ5apE-DGa6-GZrlRSjdUN7CFiJ6sJlwD3Iirpaywal8t9RehPI32MyDfCFH7u8xuPKAXp-ZRAm5_&uniplatform=NZKPT&language=CHS)
