@@ -31,6 +31,7 @@
 越橘：被子植物门 Angiospermae >> 杜鹃花科 Ericaceae >> 越橘属 Vaccinium
 
 笃斯越橘：被子植物门 Angiospermae >> 杜鹃花科 Ericaceae >> 越橘属 Vaccinium
+- 叶纸质，上面无毛，下面疏被柔毛
 
 ## 草本植物
 
@@ -44,6 +45,7 @@
 - 形成塔头
 
 大叶章：被子植物门 Angiospermae >> 禾本科 Poaceae >> 野青茅属 Deyeuxia
+- 秆直立，平滑无毛
 
 ## 叶状体植物
 
