@@ -9,6 +9,7 @@
 - [Chatbox AI: Your AI Copilot, Best AI Client on any device, Free Download](https://chatboxai.app/)
 
 [CherryHQ/cherry-studio: 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1](https://github.com/CherryHQ/cherry-studio)
+- `winget install kangfenmao.CherryStudio`
 
 [SillyTavern/SillyTavern: LLM Frontend for Power Users.](https://github.com/SillyTavern/SillyTavern)
 - [SillyTavern 入门指北 - 资源荟萃 - LINUX DO](https://linux.do/t/topic/223253)
