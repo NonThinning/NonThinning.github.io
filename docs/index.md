@@ -15,6 +15,4 @@ hide:
                                                                 |___/ 
 ```
 
-- Update: 2025-01-31
-
-- Shortcut: [马克思主义文库](https://www.marxists.org/chinese/index.html) | [中國哲學書電子化計劃](https://ctext.org/zhs) | [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.en.html)
+- Update: 2025-03-02

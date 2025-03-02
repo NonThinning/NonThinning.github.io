@@ -1,1 +1,0 @@
-[Reproducible Medical Research with R](https://bookdown.org/pdr_higgins/rmrwr/)
