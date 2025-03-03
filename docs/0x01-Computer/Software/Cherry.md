@@ -1,4 +1,7 @@
 
+Document
+- [LangChain](https://docs.langchain.com.cn/docs/)
+
 Software
 - [LM Studio](https://lmstudio.ai/) | local LLMs
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
