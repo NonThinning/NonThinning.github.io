@@ -48,6 +48,10 @@ Clipboard
 - [hluk/CopyQ](https://github.com/hluk/CopyQ)
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto)
 
+Translator
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | Old
+- [LunaTranslator](https://github.com/HIllya51/LunaTranslator) | New
+
 Desktop
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 - [Classic Shell](https://www.classicshell.net/)
