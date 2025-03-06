@@ -5,3 +5,6 @@ Question
 
 Academic
 - [现代科研指北](https://bookdown.org/yufree/sciguide/)
+
+Ideology
+- [若为自由故](https://jiayi-pan.gitbook.io/ruo-wei-zi-you-gu-free-as-in-freedom) | [Free as in Freedom](https://faifchs.github.io/)

@@ -24,6 +24,8 @@ Waydroid
 
 System
 - [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic)
+- [Debian](https://www.debian.org/index.zh-cn.html)
+- [Devuan](https://www.devuan.org/) | a fork of Debian without systemd
 
 EFI
 - [EasyUEFI](https://www.easyuefi.com/index-cn.html)

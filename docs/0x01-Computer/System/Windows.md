@@ -60,6 +60,10 @@ More
 - [Microsoft Graveyard](https://microsoftgraveyard.com/)
 - [VMS Software](https://vmssoftware.com/) | WinNT
 
+WSL
+- [microsoft/WSL](https://github.com/microsoft/WSL)
+- [Subsystem For Debian](https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux)
+
 Setting
 - 仅登录Edge不登录系统:`Windows管理工具→本地安全策略→本地策略→安全选项→账户：阻止Microsoft账户`
 - 最大路径长度限制:`Computer Configuration > Administrative Templates > System > Filesystem > Enable Win32 long paths`
