@@ -16,3 +16,9 @@ BBS
 - **Read**
 - [网上读书园地](https://www.readfree.net/bbs/)
 - [FreeMdict](https://forum.freemdict.com/)
+
+NSILAB
+- [NSILAB](https://maple.nefu.edu.cn/lab/)
+- [Maple Network Dataset](https://maple.nefu.edu.cn/)
+- [NSILAB](https://ctf.webvpn.nefu.edu.cn/) | webvpn
+- [NSILAB BBS](https://ctf.webvpn.nefu.edu.cn/bbs/) | webvpn
