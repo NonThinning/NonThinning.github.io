@@ -16,3 +16,17 @@ Extra
 - 2019:[Evaluating CENTURY and Yasso soil carbon models for CO2 emissions and organic carbon stocks of boreal forest soil with Bayesian multi‐model inference](https://bsssjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ejss.12805)
 - 2022:[Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition](https://bg.copernicus.org/articles/19/1469/2022/)
 - 2024:[Modelling boreal forest's mineral soil and peat C dynamics with the Yasso07 model coupled with the Ricker moisture modifier](https://doi.org/10.5194/gmd-17-5349-2024)
+
+LIDET
+- [LIDET](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/webdocs/reports/lidet.htm)
+- [H.J. Andrews Experimental Forest](https://andrewsforest.oregonstate.edu/)
+
+CIDET
+- [Canadian intersite decomposition experiment (CIDET)](https://cfs.nrcan.gc.ca/projects/76)
+
+More DataBase
+- [A peatland productivity and decomposition parameter database](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2462) | *
+- [AgustinSarquis/aridec](https://github.com/AgustinSarquis/aridec) | [Aridec: an open database of litter mass loss from aridlands worldwide with recommendations on suitable model applications](https://essd.copernicus.org/articles/14/3471/2022/)
+
+People
+- [Björn Berg](https://orcid.org/0000-0002-6776-4158) | [Data on needle litter decomposition and soil climate as well as site characteristics for some coniferous forest sites](https://wur.on.worldcat.org/oclc/67215012) | [Canadian Science Publishing Search Result](https://cdnsciencepub.com/authored-by/Berg/Bj%C3%B6rn)
