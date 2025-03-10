@@ -8,6 +8,7 @@ Software
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [OpenManus](https://github.com/mannaandpoem/OpenManus)
 
 Voice
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
